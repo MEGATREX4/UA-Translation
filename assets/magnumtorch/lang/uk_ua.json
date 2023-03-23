@@ -1,0 +1,15 @@
+{
+  "block.magnumtorch.diamond_magnum_torch": "Діамантовий магнум смолоскип",
+  "block.magnumtorch.emerald_magnum_torch": "Смарагдовий магнум смолоскип",
+  "block.magnumtorch.amethyst_magnum_torch": "Аметистовий магнум смолоскип",
+  "block.magnumtorch.magnum_torch.info": "Запобігає спавну мобів в великому діапазоні.",
+  "block.magnumtorch.magnum_torch.info.more": "затримайте %s для детальної інформації",
+  "block.magnumtorch.magnum_torch.info.shift": "Shift",
+  "block.magnumtorch.magnum_torch.info.mob_types": "Мобів: %s",
+  "block.magnumtorch.magnum_torch.info.blacklist": "Чорний список: %s",
+  "block.magnumtorch.magnum_torch.info.whitelist": "Білий список: %s",
+  "block.magnumtorch.magnum_torch.info.shape_type": "Тип форми: %s",
+  "block.magnumtorch.magnum_torch.info.horizontal_range": "Горизонтальний діапазон: %s",
+  "block.magnumtorch.magnum_torch.info.vertical_range": "Вертикальний діапазон: %s",
+  "itemGroup.magnumtorch.main": "Магнум смолоскип"
+}

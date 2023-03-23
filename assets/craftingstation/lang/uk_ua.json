@@ -1,0 +1,8 @@
+{
+  "block.craftingstation.crafting_station": "Станція створення",
+  "block.craftingstation.crafting_station_slab": "Плита станції створення",
+  "title.crafting_station": "Станція створення",
+  "text.crafting_station.error": "Не вірний рецепт %s знайдено, переглянте журнал подій для детального огляду",
+  "text.crafting_station.clear": "Очистити Сітку створення"
+
+}
