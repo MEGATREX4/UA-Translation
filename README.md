@@ -1,6 +1,12 @@
 # UA-Translation
 
-👋 Привіт, СУМ-ки! 🌟
+<p align="center">
+  <img src="https://imgur.com/EPUJN6a.png" alt="logo" style="width:300px;height:300px;>
+</p> 
+ 
+
+
+<br><p align="justify"><br><br>👋 Привіт, СУМ-ки! 🌟
 
 Ми з радістю представляємо наш новий ресурс пак, який додає українську мову до наступних модів Minecraft: Apotheosis 🌟, Create Addition 🛠️, Gobber2 ⚔️, Immersive Engineering 🔩, Spice of Life: Sweet Potato Edition 🍠, End's Delight 🌋, Framed Compacting Drawers 🗄️, Frozen Delight ❄️, Frozen Up 🥶, Ore Excavation ⛏️, Rotten Creatures 🧟‍♂️, Nether's Exoticism 🌡️, Nether's Delight 🌶️, Nether's Cruelty 🔥, The One Probe 🔍, та StorageDrawers 🗃️.
 
@@ -12,3 +18,51 @@
 Також можна запропонувати мод на переклад.
 
 Дякуємо за вашу підтримку та інтерес до нашого проєкту!
+
+<i>PS зараз це перекладається і додається до проектів через Pull`и, але якщо хтось з розробників хоче, завжди можете звертатись до нас (пошта в кінці).</i>
+
+<br><br><br><br><br>
+👋 Hello, SoM-ers!
+
+We are pleased to present our new resource pack, which adds the Ukrainian language to the following Minecraft mods: Apotheosis 🌟, Create Addition 🛠️, Gobber2 ⚔️, Immersive Engineering 🔩, Spice of Life: Sweet Potato Edition 🍠, End's Delight 🌋, Framed Compacting Drawers 🗄️, Frozen Delight ❄️, Frozen Up 🥶, Ore Excavation ⛏️, Rotten Creatures 🧟‍♂️, Nether's Exoticism 🌡️, Nether's Delight 🌶️, Nether's Cruelty 🔥, The One Probe 🔍, and StorageDrawers 🗃️.
+
+Our Ukrainianisation of Mods (UOM) community has been working hard on this project to make Minecraft even more accessible to the Ukrainian player community. Now you can enjoy the game in the state language without missing a single gameplay detail.
+
+We are asking our community to contribute to the development of this project, as together we can make Minecraft even more attractive to Ukrainian players. Join us in the telegram (https://t.me/SUMTranslate), follow us, and join the translation of new mods 💪
+
+You can join the translation of popular mods (or not) through the links to the "crowdin" projects 🌐. 💻🎮
+You can also suggest a mod for translation.
+Thank you for your support and interest in our project!
+
+<i>This is currently being translated and added to projects through Pulls, but if any of the developers want to, you can always contact us (email at the end).</i>
+<br><br><br><br></p>
+
+
+
+🔭 We currently working on this mod translation for minecraft
+| Mod                	| Status   |
+|-----------------------	|------------------------------------------------------------	|
+| Apotheosis            	| ![Crowdin](https://badges.crowdin.net/apotheosis-uk-ua/localized.svg)|
+| Create Addition       	| ![Crowdin](https://badges.crowdin.net/createadditionua/localized.svg)|
+| Gobber2               	| ![Crowdin](https://badges.crowdin.net/gobber2ua/localized.svg)|
+| Immersive Engineering 	| ![Crowdin](https://badges.crowdin.net/immersive-engineering-translat/localized.svg)|
+| Spice of Life: Sweet Potato Edition |![Crowdin](https://badges.crowdin.net/many-mods-translation/localized.svg)|
+| delightful|![Crowdin](https://badges.crowdin.net/many-mods-translation/localized.svg)|
+|End's Delight|![Crowdin](https://badges.crowdin.net/many-mods-translation/localized.svg)|
+|Framed Compacting Drawers|![Crowdin](https://badges.crowdin.net/many-mods-translation/localized.svg)|
+|Frozen Delight|![Crowdin](https://badges.crowdin.net/many-mods-translation/localized.svg)|
+|Frozen Up|![Crowdin](https://badges.crowdin.net/many-mods-translation/localized.svg)|
+|Ore Excavation|![Crowdin](https://badges.crowdin.net/many-mods-translation/localized.svg)|
+|Rotten Creatures|![Crowdin](https://badges.crowdin.net/many-mods-translation/localized.svg)|
+|Nether's Exoticism|![Crowdin](https://badges.crowdin.net/many-mods-translation/localized.svg)|
+|Nether's Delight|![Crowdin](https://badges.crowdin.net/many-mods-translation/localized.svg)|
+|Nether's Cruelty|![Crowdin](https://badges.crowdin.net/many-mods-translation/localized.svg)|
+|The One Probe|![Crowdin](https://badges.crowdin.net/many-mods-translation/localized.svg)|
+|StorageDrawers|![Crowdin](https://badges.crowdin.net/many-mods-translation/localized.svg)|
+
+
+<br/>* 👯 I’m looking to collaborate on everyone
+<br/>* 💬 Ask me about translate ur mod
+<br/>* 📫 How to reach me: megatrex4@yahoo.com
+
+
