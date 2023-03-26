@@ -43,7 +43,6 @@ Thank you for your support and interest in our project!
 | Mod       | Status   |
 |-----------|---------------------------------------------------------------------|
 | Apotheosis|![Crowdin](https://badges.crowdin.net/apotheosis-uk-ua/localized.svg)|
-| Create Addition|![Crowdin](https://badges.crowdin.net/createadditionua/localized.svg)|
 | Gobber2|![Crowdin](https://badges.crowdin.net/gobber2ua/localized.svg)|
 | Immersive Engineering|![Crowdin](https://badges.crowdin.net/immersive-engineering-translat/localized.svg)|
 | Spice of Life: Sweet Potato Edition |![Crowdin](https://badges.crowdin.net/many-mods-translation/localized.svg)|
