@@ -40,6 +40,7 @@ Thank you for your support and interest in our project!
 
 
 🔭 We currently working on this mod translation for minecraft
+
 | Mod       | Status   |
 |-----------|---------------------------------------------------------------------|
 | Apotheosis|![Crowdin](https://badges.crowdin.net/apotheosis-uk-ua/localized.svg)|
@@ -73,6 +74,8 @@ Thank you for your support and interest in our project!
 |Configured|![Crowdin](https://badges.crowdin.net/apotheosis-uk-ua/localized.svg)|
 |Farmer's Respite(little bit)|![Crowdin](https://badges.crowdin.net/apotheosis-uk-ua/localized.svg)|
 |Crafting Station|![Crowdin](https://badges.crowdin.net/apotheosis-uk-ua/localized.svg)|
+|Nether's Delight|![Crowdin](https://badges.crowdin.net/many-mods-translation/localized.svg)|
+|It Takes a Pillage|![Crowdin](https://badges.crowdin.net/many-mods-translation/localized.svg)|
 
 <br/>* 👯 I’m looking to collaborate on everyone
 <br/>* 💬 Ask me about translate ur mod
