@@ -1,0 +1,13 @@
+{
+  "block.framedcompactdrawers.framed_compact_drawer": "Рамкова шухляда з ущільненням",
+  "block.framedcompactdrawers.framed_drawer_controller": "Рамковий контролер шухляд",
+  "block.framedcompactdrawers.framed_slave": "Рамковий підлеглий контролер шухляд",
+  "block.framedcompactdrawers.framed_trim": "Рамкове облицювання",
+  "block.framedcompactdrawers.framed_full_one": "Рамкова шухляда 1х1",
+  "block.framedcompactdrawers.framed_full_two": "Рамкова шухляда 1х2",
+  "block.framedcompactdrawers.framed_full_four": "Рамкова шухляда 2х2",
+  "block.framedcompactdrawers.framed_half_one": "Рамкова напівшухляда 1х1",
+  "block.framedcompactdrawers.framed_half_two": "Рамкова напівшухляда 1х2",
+  "block.framedcompactdrawers.framed_half_four": "Рамкова напівшухляда 2х2",
+  "itemGroup.framed_compacting_drawers": "Рамкові шухляди"
+}
