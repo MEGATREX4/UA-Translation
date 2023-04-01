@@ -1,14 +1,14 @@
 # UA-Translation
-
+<p>Credits: @CakesTwix @ICHTLAY @hnufelka Sinqoire @SKZGx</p><br><br>
 <p align="center">
-  <img src="https://imgur.com/EPUJN6a.png" alt="logo" style="width:300px;height:300px;>
+  <img src="https://i.imgur.com/f5TjzbQ.png" alt="logo" style="width:300px;height:300px;>
 </p> 
  
-Credits: @CakesTwix @ICHTLAY Hnufelka Sinqoire @SKZGx
+
 
 <br><p align="justify"><br><br>👋 Привіт, СУМ-ки! 🌟
 
-Ми з радістю представляємо наш новий ресурс пак, який додає українську мову до наступних модів Minecraft: Apotheosis 🌟, Create Addition 🛠️, Gobber2 ⚔️, Immersive Engineering 🔩, Spice of Life: Sweet Potato Edition 🍠, End's Delight 🌋, Framed Compacting Drawers 🗄️, Frozen Delight ❄️, Frozen Up 🥶, Ore Excavation ⛏️, Rotten Creatures 🧟‍♂️, Nether's Exoticism 🌡️, Nether's Delight 🌶️, Nether's Cruelty 🔥, The One Probe 🔍, та StorageDrawers 🗃️.
+Ми з радістю представляємо наш новий ресурс пак, який додає українську мову до наступних модів Minecraft: Apotheosis 🌟, Create Addition 🛠️, Gobber2 ⚔️, Immersive Engineering 🔩, Spice of Life: Sweet Potato Edition 🍠, End's Delight 🌋, Framed Compacting Drawers 🗄️, Frozen Delight ❄️, Frozen Up 🥶, Ore Excavation ⛏️, Rotten Creatures 🧟‍♂️, Nether's Exoticism 🌡️, Nether's Delight 🌶️, Nether's Cruelty 🔥, The One Probe 🔍, та StorageDrawers 🗃️ тощо.
 
 Наша спільнота Українізації Модів (СУМ) пильно працювала над цим проєктом, щоб зробити Minecraft ще більш доступним для української спільноти гравців. Тепер ви зможете насолоджуватися грою на державній мові, не втрачаючи жодної деталі геймплею.
 
@@ -22,9 +22,9 @@ Credits: @CakesTwix @ICHTLAY Hnufelka Sinqoire @SKZGx
 <i>PS зараз це перекладається і додається до проектів через Pull`и, але якщо хтось з розробників хоче, завжди можете звертатись до нас (пошта в кінці).</i>
 
 <br><br><br><br><br>
-👋 Hello, SoM-ers!
+👋 Hello!
 
-We are pleased to present our new resource pack, which adds the Ukrainian language to the following Minecraft mods: Apotheosis 🌟, Create Addition 🛠️, Gobber2 ⚔️, Immersive Engineering 🔩, Spice of Life: Sweet Potato Edition 🍠, End's Delight 🌋, Framed Compacting Drawers 🗄️, Frozen Delight ❄️, Frozen Up 🥶, Ore Excavation ⛏️, Rotten Creatures 🧟‍♂️, Nether's Exoticism 🌡️, Nether's Delight 🌶️, Nether's Cruelty 🔥, The One Probe 🔍, and StorageDrawers 🗃️.
+We are pleased to present our new resource pack, which adds the Ukrainian language to the following Minecraft mods: Apotheosis 🌟, Create Addition 🛠️, Gobber2 ⚔️, Immersive Engineering 🔩, Spice of Life: Sweet Potato Edition 🍠, End's Delight 🌋, Framed Compacting Drawers 🗄️, Frozen Delight ❄️, Frozen Up 🥶, Ore Excavation ⛏️, Rotten Creatures 🧟‍♂️, Nether's Exoticism 🌡️, Nether's Delight 🌶️, Nether's Cruelty 🔥, The One Probe 🔍, and StorageDrawers 🗃️ etc.
 
 Our Ukrainianisation of Mods (UOM) community has been working hard on this project to make Minecraft even more accessible to the Ukrainian player community. Now you can enjoy the game in the state language without missing a single gameplay detail.
 
