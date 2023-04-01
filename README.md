@@ -1,5 +1,5 @@
 # UA-Translation
-<p>Credits: @CakesTwix @ICHTLAY @hnufelka Sinqoire @SKZGx</p><br><br>
+<p>Credits: <a href="https://github.com/CakesTwix">@CakesTwix</a> <a href="https://github.com/ICHTLAY">@ICHTLAY <a href="https://github.com/hnufelka">@hnufelka</a> Sinqoire <a href="https://github.com/SKZGx">@SKZGx</a></p><br><br>
 <p align="center">
   <img src="https://i.imgur.com/f5TjzbQ.png" alt="logo" style="width:300px;height:300px;>
 </p> 
