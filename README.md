@@ -4,7 +4,7 @@
   <img src="https://imgur.com/EPUJN6a.png" alt="logo" style="width:300px;height:300px;>
 </p> 
  
-
+Credits: @CakesTwix @ICHTLAY Hnufelka Sinqoire @SKZGx
 
 <br><p align="justify"><br><br>👋 Привіт, СУМ-ки! 🌟
 
