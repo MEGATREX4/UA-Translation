@@ -85,5 +85,6 @@ Thank you for your support and interest in our project!
 <br/>* 👯 I’m looking to collaborate on everyone
 <br/>* 💬 Ask me about translate ur mod
 <br/>* 📫 How to reach me: megatrex4@yahoo.com
-
-
+<a href="https://discord.gg/RBuQk37xr8"><br><br>
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+</a>
