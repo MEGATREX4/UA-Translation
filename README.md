@@ -76,9 +76,10 @@ Thank you for your support and interest in our project!
 |Crafting Station|![Crowdin](https://badges.crowdin.net/apotheosis-uk-ua/localized.svg)|
 |Nether's Delight|![Crowdin](https://badges.crowdin.net/many-mods-translation/localized.svg)|
 |It Takes a Pillage|![Crowdin](https://badges.crowdin.net/many-mods-translation/localized.svg)|
-|More Villagers|![Weblate](http://weblate.cakestwix.com/widgets/minecraft-mods/uk/more-villagers/svg-badge.svg)|
-|FTB Quests|![Weblate](http://weblate.cakestwix.com/widgets/minecraft-mods/uk/ftb-quests/svg-badge.svg)|
-|FTB Teams|![Weblate](http://weblate.cakestwix.com/widgets/minecraft-mods/uk/ftb-teams/svg-badge.svg)|
+|More Villagers|![Weblate](https://weblate.cakestwix.com/widgets/minecraft-mods/uk/more-villagers/svg-badge.svg)|
+|FTB Quests|![Weblate](https://weblate.cakestwix.com/widgets/minecraft-mods/uk/ftb-quests/svg-badge.svg)|
+|FTB Teams|![Weblate](https://weblate.cakestwix.com/widgets/minecraft-mods/uk/ftb-teams/svg-badge.svg)|
+|Refined Storage |![Weblate](https://weblate.cakestwix.com/widgets/minecraft-mods/uk/refined-storage/svg-badge.svg)|
 
 <br/>* 👯 I’m looking to collaborate on everyone
 <br/>* 💬 Ask me about translate ur mod
