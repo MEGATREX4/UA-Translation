@@ -20,8 +20,15 @@
 Дякуємо за вашу підтримку та інтерес до нашого проєкту!
 
 <i>PS зараз це перекладається і додається до проектів через Pull`и, але якщо хтось з розробників хоче, завжди можете звертатись до нас (пошта в кінці).</i>
-
-<br><br><br><br><br>
+</p>
+<a href="https://discord.gg/RBuQk37xr8"><br><br>
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+<a href="">
+<img src="https://img.shields.io/badge/Minecraft-000000?style=for-the-badge&logo=minecraft&logoColor=white">
+</a>
+<p>
+<br><br><br>
 👋 Hello!
 
 We are pleased to present our new resource pack, which adds the Ukrainian language to the following Minecraft mods: Apotheosis 🌟, Create Addition 🛠️, Gobber2 ⚔️, Immersive Engineering 🔩, Spice of Life: Sweet Potato Edition 🍠, End's Delight 🌋, Framed Compacting Drawers 🗄️, Frozen Delight ❄️, Frozen Up 🥶, Ore Excavation ⛏️, Rotten Creatures 🧟‍♂️, Nether's Exoticism 🌡️, Nether's Delight 🌶️, Nether's Cruelty 🔥, The One Probe 🔍, and StorageDrawers 🗃️ etc.
@@ -85,6 +92,4 @@ Thank you for your support and interest in our project!
 <br/>* 👯 I’m looking to collaborate on everyone
 <br/>* 💬 Ask me about translate ur mod
 <br/>* 📫 How to reach me: megatrex4@yahoo.com
-<a href="https://discord.gg/RBuQk37xr8"><br><br>
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-</a>
+
