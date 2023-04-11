@@ -24,6 +24,7 @@
 <a href="https://discord.gg/RBuQk37xr8"><br><br>
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </a>
+![перекладено - 100%](https://img.shields.io/badge/перекладено-100%-2ea44f)
 <a href="">
 <img src="https://img.shields.io/badge/Minecraft-000000?style=for-the-badge&logo=minecraft&logoColor=white">
 </a>
@@ -49,46 +50,46 @@ Thank you for your support and interest in our project!
 🔭 We currently working on this mod translation for minecraft
 
 | Mod       | Status   |
-|-----------|---------------------------------------------------------------------|
-| Apotheosis|![Crowdin](https://badges.crowdin.net/apotheosis-uk-ua/localized.svg)|
-| Gobber2|![Crowdin](https://badges.crowdin.net/gobber2ua/localized.svg)|
-| Immersive Engineering|![Crowdin](https://badges.crowdin.net/immersive-engineering-translat/localized.svg)|
-| Spice of Life: Sweet Potato Edition |![Crowdin](https://badges.crowdin.net/many-mods-translation/localized.svg)|
-| delightful|![Crowdin](https://badges.crowdin.net/many-mods-translation/localized.svg)|
-|End's Delight|![Crowdin](https://badges.crowdin.net/many-mods-translation/localized.svg)|
-|Framed Compacting Drawers|![Crowdin](https://badges.crowdin.net/many-mods-translation/localized.svg)|
-|Frozen Delight|![Crowdin](https://badges.crowdin.net/many-mods-translation/localized.svg)|
-|Frozen Up|![Crowdin](https://badges.crowdin.net/many-mods-translation/localized.svg)|
-|Ore Excavation|![Crowdin](https://badges.crowdin.net/many-mods-translation/localized.svg)|
-|Rotten Creatures|![Crowdin](https://badges.crowdin.net/many-mods-translation/localized.svg)|
-|Nether's Exoticism|![Crowdin](https://badges.crowdin.net/many-mods-translation/localized.svg)|
-|Nether's Delight|![Crowdin](https://badges.crowdin.net/many-mods-translation/localized.svg)|
-|Nether's Cruelty|![Crowdin](https://badges.crowdin.net/many-mods-translation/localized.svg)|
-|The One Probe|![Crowdin](https://badges.crowdin.net/many-mods-translation/localized.svg)|
-|StorageDrawers|![Crowdin](https://badges.crowdin.net/many-mods-translation/localized.svg)|
-|Applied Energistics 2|![Crowdin](https://badges.crowdin.net/apotheosis-uk-ua/localized.svg)|
-|Bartering Station|![Crowdin](https://badges.crowdin.net/apotheosis-uk-ua/localized.svg)|
-|Chunk Loaders(by SuperMartijn642)|![Crowdin](https://badges.crowdin.net/apotheosis-uk-ua/localized.svg)|
-|Catalogue|![Crowdin](https://badges.crowdin.net/apotheosis-uk-ua/localized.svg)|
-|Magnum Torch(by Fuzs)|![Crowdin](https://badges.crowdin.net/apotheosis-uk-ua/localized.svg)|
-|Create : Misc & Things|![Crowdin](https://badges.crowdin.net/apotheosis-uk-ua/localized.svg)|
-|Create Central Kitchen|![Crowdin](https://badges.crowdin.net/apotheosis-uk-ua/localized.svg)|
-|Create Enchantment Industry|![Crowdin](https://badges.crowdin.net/apotheosis-uk-ua/localized.svg)|
-|Create Slice & Dice|![Crowdin](https://badges.crowdin.net/apotheosis-uk-ua/localized.svg)|
-|Create Stuff & Additions|![Crowdin](https://badges.crowdin.net/apotheosis-uk-ua/localized.svg)|
-|Create: Crystal Clear|![Crowdin](https://badges.crowdin.net/apotheosis-uk-ua/localized.svg)|
-|Cultural Delights|![Crowdin](https://badges.crowdin.net/apotheosis-uk-ua/localized.svg)|
-|Configured|![Crowdin](https://badges.crowdin.net/apotheosis-uk-ua/localized.svg)|
-|Farmer's Respite(little bit)|![Crowdin](https://badges.crowdin.net/apotheosis-uk-ua/localized.svg)|
-|Crafting Station|![Crowdin](https://badges.crowdin.net/apotheosis-uk-ua/localized.svg)|
-|Nether's Delight|![Crowdin](https://badges.crowdin.net/many-mods-translation/localized.svg)|
-|It Takes a Pillage|![Crowdin](https://badges.crowdin.net/many-mods-translation/localized.svg)|
-|More Villagers|![Weblate](https://weblate.cakestwix.com/widgets/minecraft-mods/uk/more-villagers/svg-badge.svg)|
+|-----------|--------------------------------------------------------------------|
+| Apotheosis|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+| Gobber2|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+| Immersive Engineering|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+| Spice of Life: Sweet Potato Edition |![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+| delightful|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|End's Delight|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Framed Compacting Drawers|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Frozen Delight|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Frozen Up|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Ore Excavation|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Rotten Creatures|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Nether's Exoticism|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Nether's Delight|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Nether's Cruelty|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|The One Probe|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|StorageDrawers|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Applied Energistics 2|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Bartering Station|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Chunk Loaders(by SuperMartijn642)|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Catalogue|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Magnum Torch(by Fuzs)|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Create : Misc & Things|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Create Central Kitchen|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Create Enchantment Industry|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Create Slice & Dice|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Create Stuff & Additions|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Create: Crystal Clear|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Cultural Delights|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Configured|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Farmer's Respite(little bit)|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Crafting Station|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Nether's Delight|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|It Takes a Pillage|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|More Villagers|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
 |FTB Quests|![Weblate](https://weblate.cakestwix.com/widgets/minecraft-mods/uk/ftb-quests/svg-badge.svg)|
 |FTB Chunks|![Weblate](https://weblate.cakestwix.com/widgets/minecraft-mods/uk/ftb-chunks/svg-badge.svg)|
 |FTB Teams|![Weblate](https://weblate.cakestwix.com/widgets/minecraft-mods/uk/ftb-teams/svg-badge.svg)|
-|Refined Storage|![Weblate](https://weblate.cakestwix.com/widgets/minecraft-mods/uk/refined-storage/svg-badge.svg)|
-|Building Gadgets(Direwolf20)|![Crowdin](https://badges.crowdin.net/apotheosis-uk-ua/localized.svg)|
+|Refined Storage|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Building Gadgets(Direwolf20)|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
 
 <br/>* 👯 I’m looking to collaborate on everyone
 <br/>* 💬 Ask me about translate ur mod
