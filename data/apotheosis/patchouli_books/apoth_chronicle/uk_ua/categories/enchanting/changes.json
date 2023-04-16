@@ -1,0 +1,7 @@
+{
+    "name": "Зміни в ванілі",
+    "description": "Цей розділ описує нові можливості зачарувань предметів та змін в механіках.$(p)Якщо відбудуться якісь незначні зміни у змісті, про них буде повідомлено тут.",
+    "icon": "minecraft:trident",
+    "flag": "apotheosis:enchanting",
+    "parent": "apotheosis:enchanting/enchanting"
+}

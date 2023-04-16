@@ -1,0 +1,6 @@
+{
+    "name": "Модуль села",
+    "description": "Модуль села додає різні речі, пов'язані з селом і селянами.",
+    "icon": "minecraft:textures/mob_effect/hero_of_the_village.png",
+    "flag": "apotheosis:village"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Садовий модуль",
+    "description": "Садовий модуль відповідає за випадкові зміни в рослинах.",
+    "icon": "minecraft:sugar_cane",
+    "flag": "apotheosis:garden"
+}

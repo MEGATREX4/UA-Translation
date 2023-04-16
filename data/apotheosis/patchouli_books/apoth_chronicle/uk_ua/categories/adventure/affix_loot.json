@@ -1,0 +1,7 @@
+{
+    "name": "Афікс лут",
+    "description": "Під час пригод ви можете зустріти предмети з різними бонусами.$(p)Це афікс предмети, реліквії минулого, з різним ступенем сили.",
+    "icon": "minecraft:chest",
+    "flag": "apotheosis:adventure",
+    "parent": "apotheosis:adventure/adventure"
+}

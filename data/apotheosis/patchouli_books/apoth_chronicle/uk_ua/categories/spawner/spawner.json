@@ -1,0 +1,6 @@
+{
+    "name": "Модуль спавнер",
+    "description": "Модуль спавнер дозволяє вам переміщувати та змінювати $(9)спавнери мобів$().",
+    "icon": "minecraft:spawner",
+    "flag": "apotheosis:spawner"
+}

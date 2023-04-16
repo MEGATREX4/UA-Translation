@@ -1,0 +1,7 @@
+{
+    "name": "Рецепти зілля",
+    "parent": "apotheosis:potion/potion",
+    "description": "У цьому розділі детально описані всі нові рецепти ванільного зіллєваріння.",
+    "icon": "minecraft:nether_wart",
+    "flag": "apotheosis:potion"
+}

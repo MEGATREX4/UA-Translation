@@ -1,0 +1,7 @@
+{
+    "name": "Корисні предмети",
+    "description": "У цьому розділі детально описані всі випадкові інструменти, які використовуються для полегшення зачарування.",
+    "icon": "apotheosis:library",
+    "flag": "apotheosis:enchanting",
+    "parent": "apotheosis:enchanting/enchanting"
+}

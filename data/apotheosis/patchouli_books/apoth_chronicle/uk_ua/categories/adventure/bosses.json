@@ -1,0 +1,7 @@
+{
+    "name": "Боси",
+    "description": "$(9)Бос$() - це ворог, який скористався силою афіксів.$(p)Зазвичай ви можете впізнати його за унікальним ім'ям і потужним спорядженням.",
+    "icon": "apotheosis:boss_summoner",
+    "flag": "apotheosis:adventure",
+    "parent": "apotheosis:adventure/adventure"
+}
