@@ -90,6 +90,8 @@ Thank you for your support and interest in our project!
 |FTB Teams|![Weblate](https://weblate.cakestwix.com/widgets/minecraft-mods/uk/ftb-teams/svg-badge.svg)|
 |Refined Storage|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
 |Building Gadgets(Direwolf20)|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Keymap|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Crafting Tweaks|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
 
 <br/>* 👯 I’m looking to collaborate on everyone
 <br/>* 💬 Ask me about translate ur mod
