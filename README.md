@@ -24,7 +24,6 @@
 <a href="https://discord.gg/RBuQk37xr8"><br><br>
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </a>
-![перекладено - 100%](https://img.shields.io/badge/перекладено-100%-2ea44f)
 <a href="">
 <img src="https://img.shields.io/badge/Minecraft-000000?style=for-the-badge&logo=minecraft&logoColor=white">
 </a>
