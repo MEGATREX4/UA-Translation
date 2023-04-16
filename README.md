@@ -49,48 +49,28 @@ Thank you for your support and interest in our project!
 
 🔭 We currently working on this mod translation for minecraft
 
-| Mod       | Status   |
-|-----------|--------------------------------------------------------------------|
-| Apotheosis|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-| Gobber2|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-| Immersive Engineering|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-| Spice of Life: Sweet Potato Edition |![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-| delightful|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|End's Delight|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Framed Compacting Drawers|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Frozen Delight|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Frozen Up|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Ore Excavation|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Rotten Creatures|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Nether's Exoticism|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Nether's Delight|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Nether's Cruelty|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|The One Probe|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|StorageDrawers|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Applied Energistics 2|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Bartering Station|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Chunk Loaders(by SuperMartijn642)|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Catalogue|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Magnum Torch(by Fuzs)|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Create : Misc & Things|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Create Central Kitchen|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Create Enchantment Industry|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Create Slice & Dice|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Create Stuff & Additions|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Create: Crystal Clear|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Cultural Delights|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Configured|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Farmer's Respite(little bit)|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Crafting Station|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Nether's Delight|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|It Takes a Pillage|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|More Villagers|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|FTB Quests|![Weblate](https://weblate.cakestwix.com/widgets/minecraft-mods/uk/ftb-quests/svg-badge.svg)|
-|FTB Chunks|![Weblate](https://weblate.cakestwix.com/widgets/minecraft-mods/uk/ftb-chunks/svg-badge.svg)|
-|FTB Teams|![Weblate](https://weblate.cakestwix.com/widgets/minecraft-mods/uk/ftb-teams/svg-badge.svg)|
-|Refined Storage|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Building Gadgets(Direwolf20)|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Keymap|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+| Mod | Status | Mod | Status |
+|-----|--------|-----|--------|
+| Apotheosis|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)| Gobber2|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+| Immersive Engineering|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)| Spice of Life: Sweet Potato Edition |![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+| delightful|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|End's Delight|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Framed Compacting Drawers|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Frozen Delight|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Frozen Up|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Ore Excavation|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Rotten Creatures|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Nether's Exoticism|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Nether's Delight|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Nether's Cruelty|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|The One Probe|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|StorageDrawers|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Applied Energistics 2|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Bartering Station|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Chunk Loaders(by SuperMartijn642)|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Catalogue|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Magnum Torch(by Fuzs)|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Create : Misc & Things|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Create Central Kitchen|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Create Enchantment Industry|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Create Slice & Dice|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Create Stuff & Additions|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Create: Crystal Clear|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Cultural Delights|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Configured|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Farmer's Respite(little bit)|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Crafting Station|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Nether's Delight|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|It Takes a Pillage|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|More Villagers|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|FTB Quests|![Weblate](https://weblate.cakestwix.com/widgets/minecraft-mods/uk/ftb-quests/svg-badge.svg)|FTB Chunks|![Weblate](https://weblate.cakestwix.com/widgets/minecraft-mods/uk/ftb-chunks/svg-badge.svg)|
+|FTB Teams|![Weblate](https://weblate.cakestwix.com/widgets/minecraft-mods/uk/ftb-teams/svg-badge.svg)|Refined Storage|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Building Gadgets(Direwolf20)|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Keymap|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
 |Crafting Tweaks|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
 
 <br/>* 👯 I’m looking to collaborate on everyone
