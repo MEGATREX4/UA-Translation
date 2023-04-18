@@ -1,0 +1,16 @@
+{
+  "item.ae2things.disk_drive_1k": "МЕ дисковий накопичувач 1К",
+  "item.ae2things.disk_drive_4k": "МЕ дисковий накопичувач 4К",
+  "item.ae2things.disk_drive_16k": "МЕ дисковий накопичувач 16К",
+  "item.ae2things.disk_drive_64k": "МЕ дисковий накопичувач 64К",
+  "item.ae2things.disk_drive_256k": "МЕ дисковий накопичувач 256К",
+  "item.ae2things.disk_housing": "Корпус ME комірки",
+  "block.ae2things.advanced_inscriber": "Передовий штампувальний прес",
+  "itemGroup.ae2things.item_group": "AE2 Різне",
+  "gui.ae2things.advanced_inscriber": "Передовий штампувальний прес",
+  "command.ae2things.recover_success": "%s відновив дисковий накопичувач з UUID [%s].",
+  "command.ae2things.recover_fail": "Не вдалося відновити дисковий накопичувач: UUID [%s] не існує.",
+  "command.ae2things.getuuid_success": "UUID диска: [%s]",
+  "command.ae2things.getuuid_fail_nouuid": "Помилка, оскільки диск порожній/не знайдено uuid.",
+  "command.ae2things.getuuid_fail_notdisk": "Помилка, предмет не є ДИСКОМ."
+}
