@@ -7,16 +7,16 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "An $(6)Affix$() is the driving force behind Affix Items. Each affix is very similar to an enchantment, providing a specific bonus to the item it is attached to.$(p)This book will not list all the affixes, as that is for you to figure out, but it will help explain them."
+            "text": "$(6)Aфікс$() - це рушійна сила предметів з афіксами. Кожен афікс дуже схожий на зачарування, що надає певний бонус предмету, до якого він прикріплений.$(p)Ця книга не перелічує всі афікси, але вона допоможе пояснити їх."
         },
         {
             "type": "patchouli:text",
-            "title": "Affix Types",
-            "text": "There are a few different types of affixes, each type having a specific set of functionality it can provide.$(p)What types of affixes are applied to an item are dependent on the item's $(l:apotheosis:adventure/affix_loot/rarities)Rarity$()."
+            "title": "Типи афіксів",
+            "text": "Існує кілька різних типів афіксів, кожен з яких має певний набір функціональних можливостей, які він може надати.$(p)Які типи афіксів застосовуються до предмета, залежать від його $(l:apotheosis:adventure/affix_loot/rarities)рідкості$()."
         },
         {
             "type": "patchouli:text",
-            "title": "Stat Affixes",
+            "title": "Афікси статистики",
             "text": "The most common type of affixes are stat affixes. These affixes provide a simple bonus to a specific attribute, and are available across all rarities.  Higher rarities receive additional stat affixes."
         },
         {

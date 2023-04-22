@@ -1,9 +1,9 @@
-Extendable Post
-The Sky's the Limit.
-<&postbase>Used as the start of the custom-sized posts.
-(See <link;immersiveposts:usage;§1Usage§r;start> on how to use it.)
+Основа стовпа
+Пізнай неба блакить
+<&postbase>Використовується як початок користувацьких стовпів.
+Як застосовувати їх можна переглянути у <link;immersiveposts:usage;§lвідповідному розділі§r;start>.<np>
 
-The base can be hidden simply by holding a block in your hand, rightclicking and it will pretend to be that block.<np>
-Sneak + rightclick removes the cover.
+Основу можна замаскувати, натисніть ПКМ блоком по основі розширюваного стовпа.
+Shift+ПКМ щоб прибрати маскування.
 
-It only accepts solid and opaque blocks as cover however.
+Однак він приймає лише тверді та непрозорі блоки.

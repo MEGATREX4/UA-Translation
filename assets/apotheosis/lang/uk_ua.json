@@ -32,7 +32,7 @@
     "affix.apotheosis:sword/attribute/violent": "Жорстокий",
     "affix.apotheosis:sword/attribute/violent.suffix": "відшлифований",
     "affix.apotheosis:ranged/attribute/windswept": "Розвіяний вітром",
-    "affix.apotheosis:ranged/attribute/windswept.suffix": "з поточної",
+    "affix.apotheosis:ranged/attribute/windswept.suffix": "з потоку",
     "affix.apotheosis:sword/attribute/graceful": "Милостивий",
     "affix.apotheosis:sword/attribute/graceful.suffix": "з дуелістів",
     "affix.apotheosis:heavy_weapon/attribute/forceful": "Напористий",
@@ -880,5 +880,5 @@
     "config.jade.plugin_apotheosis.adventure": "Апофеоз: Модуль пригод",
     "book.apotheosis.name": "Хроніка тіней",
     "book.apotheosis.subtitle": "Керівництво по апофеозу",
-    "book.apotheosis.landing": "Ласкаво просимо до світу Апофеозу.$(br2)Апофеоз організовано у $(#8080FF)Modules$(), як і зміст цієї книги.$(br2)Вимкнені модулі приховано."
+    "book.apotheosis.landing": "Ласкаво просимо до світу Апофеозу.$(br2)Апофеоз організовано у $(#8080FF)Модулях$(), як і зміст цієї книги.$(br2)Вимкнені модулі приховано."
 }
