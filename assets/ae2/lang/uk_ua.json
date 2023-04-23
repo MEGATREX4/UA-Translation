@@ -471,7 +471,7 @@
   "gui.ae2.StoredPower": "Накопичена енергія: %s",
   "gui.ae2.StoredSize": "Збережений розмір: %dx%dx%d",
   "gui.ae2.Stores": "Зберігає",
-  "gui.ae2.Substitute": "Використання заміщення:",
+  "gui.ae2.Substitute": "Заміщувати:",
   "gui.ae2.TankAmount": "Кількість: %d",
   "gui.ae2.TankBucketCapacity": "Може зберігати до %d відер",
   "gui.ae2.TankCapacity": "Ємність: %d",
