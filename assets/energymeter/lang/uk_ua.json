@@ -13,7 +13,7 @@
   "tooltip.energymeter.side_config": "Налаштування вводу/виводу",
   "tooltip.energymeter.io_side": "Сторона",
   "tooltip.energymeter.io_mode": "Режим",
-  "tooltip.energymeter.current": "Поточний",
+  "tooltip.energymeter.current": "Поточний режим",
   "tooltip.energymeter.number": "Налаштування числа",
   "tooltip.energymeter.number_desc_1": "Визначає, чи має форматування швидкості передачі буде коротким або довгим.",
   "tooltip.energymeter.number_desc_2": "Впливає лише на кількість, якщо вона більша за 1000FE/тік.",
