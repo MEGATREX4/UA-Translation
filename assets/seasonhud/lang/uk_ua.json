@@ -1,0 +1,32 @@
+{
+  "key.categories.seasonhud": "SeasonHUD",
+  "key.seasonhud.seasonhudOptions": "SeasonHUD Налаштування",
+
+  "menu.seasonhud.title": "SeasonHUD Налаштування",
+
+  "menu.seasonhud.button.enableMod": "Включити мод",
+  "menu.seasonhud.button.needCalendar": "Треба календар",
+  "menu.seasonhud.button.showDay": "Показувати день",
+  "menu.seasonhud.button.showSubSeason": "показувати підсезон",
+  "menu.seasonhud.button.hudLocation": "Місце HUD",
+  "menu.seasonhud.button.showTropicalSeason":"Показувати тропічні сезони",
+
+  "menu.seasonhud.button.desc.showDay": "Показувати день поточного сезону/підсезону на HUD",
+  "menu.seasonhud.button.desc.showSubSeason": "Замініть Сезон на поточний Підсезон",
+
+  "location.seasonhud.topLeft": "Вгорі ліворуч",
+  "location.seasonhud.topCenter": "Вгорі поцентру",
+  "location.seasonhud.topRight": "Вгорі Праворуч",
+  "location.seasonhud.bottomLeft": "Знизу ліворуч",
+  "location.seasonhud.bottomRight": "Знизу праворуч",
+
+  "desc.seasonhud.spring": "Весна",
+  "desc.seasonhud.summer": "літо",
+  "desc.seasonhud.fall": "Осінь",
+  "desc.seasonhud.winter": "Зима",
+
+  "desc.seasonhud.detailed": "%s , День %s",
+  "desc.seasonhud.summary": "%s",
+
+  "item.calendar.tooltip": "Слот: Амулет"
+}
