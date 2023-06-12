@@ -1,0 +1,21 @@
+{
+  "tooltip.seasons.spring": "Весна",
+  "tooltip.seasons.summer": "Літо",
+  "tooltip.seasons.fall": "Осінь",
+  "tooltip.seasons.winter": "Зима",
+  "tooltip.seasons.faster_grow": "Швидше росте в цьому сезоні",
+  "tooltip.seasons.normal_grow": "Нормально росте в цьому сезоні",
+  "tooltip.seasons.slowed_grow": "Повільніше росте в цьому сезоні",
+  "tooltip.seasons.not_grow": "Не росте в цьому сезоні",
+  "tooltip.seasons.show_more": "Натисніть %s, щоб показати більше",
+
+  "chat.seasons.mod_installed": "Схоже, у вас встановлено %s!",
+  "chat.seasons.compatibility": "Отримайте повну сумісність з Fabric Seasons, встановивши аддон.",
+  "chat.seasons.mod_not_installed": "Схоже, у вас не встановлено %s!",
+  "chat.seasons.extras": "Отримайте користувацькі предмети та блоки, які допоможуть вам у вашій пригоді, встановивши аддон.",
+  "chat.seasons.available_at": "Доступно за адресою: ",
+  "chat.seasons.show_once": "Це повідомлення буде показано лише один раз.",
+
+  "commands.seasons.query_1": "Поточний сезон - %s.",
+  "commands.seasons.query_2": "До %s залишилося %s днів (%s тіків)."
+}
