@@ -1,0 +1,12 @@
+{
+  "item.simpleradio.radio": "Рація",
+
+  "subtitles.simpleradio.radio_open": "Рація почала транслювати",
+  "subtitles.simpleradio.radio_close": "Рація закінчила трансляцію",
+
+  "text.autoconfig.simpleradio.title": "Налаштування Simple Radio",
+
+  "text.autoconfig.simpleradio.option.maxRadioDistance": "Максимальна відстань радіозв'язку",
+  "text.autoconfig.simpleradio.option.maxRadioDistance.@Tooltip": "Максимальна відстань, на яку може передавати рація."
+}
+
