@@ -44,7 +44,7 @@
   "tooltip.seasonsextras.tester_result_disabled_1": "Культури, висаджені на цій ділянці, будуть",
   "tooltip.seasonsextras.tester_result_disabled_2": "ростуть зі своєю звичайною швидкістю.",
   "tooltip.seasonsextras.tester_result_enabled_1": "Культури, висаджені на цій ділянці, будуть",
-  "tooltip.seasonsextras.tester_result_enabled_2": "зростати, якщо це буде %s",
+  "tooltip.seasonsextras.tester_result_enabled_2": "зростати, наче це %s",
   "tooltip.seasonsextras.tester_result_crop_1": "Ця культура зростатиме на %sx",
   "tooltip.seasonsextras.tester_result_crop_2": "зі звичайною швидкістю. (%s)",
   "tooltip.seasonsextras.not_enabled": "Ця функція не увімкнена.",
