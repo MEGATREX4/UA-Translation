@@ -1,0 +1,28 @@
+{
+    "itemGroup.backpackmod.group": "Рюкзаки",
+
+    "item.backpackmod.leather_backpack": "Шкіряний рюкзак",
+    "item.backpackmod.copper_backpack": "Мідний рюкзак",
+    "item.backpackmod.iron_backpack": "Залізний рюкзак",
+    "item.backpackmod.amethyst_backpack": "Аметистовий рюкзак",
+    "item.backpackmod.gold_backpack": "Золотий рюкзак",
+    "item.backpackmod.diamond_backpack": "Діамантовий рюкзак",
+    "item.backpackmod.netherite_backpack": "Незеритовий рюкзак",
+
+    "item.backpackmod.ender_backpack": "Ендер рюкзак",
+
+    "backpackmod.tooltip.size": "Розмір: %sx%s (%s) комірок",
+
+    "backpackmod.screen.title.rename": "Перейменувати",
+    "backpackmod.screen.button.default.name": "Скинути ім'я",
+    "backpackmod.screen.button.rename": "Перейменувати",
+    "backpackmod.screen.rename.max.length": "Макс. довжина: %s",
+    "backpackmod.tooltip.how.to.rename": "Шифт+ПКМ, щоб перейменувати",
+
+    "backpackmod.tooltip.fireproof": "Захист від вогню (Як незеритові предмети)",
+
+    "backpackmod.screen.button.close": "Закрити",
+
+    "category.backpackmod.backpack": "Рюкзаки",
+    "key.backpackmod.open": "Відкрити рюкзак"
+}
