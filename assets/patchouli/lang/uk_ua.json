@@ -28,7 +28,7 @@
 	"patchouli.gui.lexicon.editor": "Редактор книг",
 	"patchouli.gui.lexicon.editor.mock_header": "Заголовок сторінки",
 	"patchouli.gui.lexicon.editor.info": "Редактор Patchouli для записів книг - для розробки та перекладу, не потрібен для гравців. $(br2)Зверніться до $(l:https://github.com/Vazkii/Patchouli/wiki/Text-Formatting-101)Patchouli-вікі$(), щоб переглянути корисні матеріали.",
-	"patchouli.gui.lexicon.shift_for_recipe": "Shift-ЛІМ для рецепту",
+	"patchouli.gui.lexicon.shift_for_recipe": "Shift-ЛКМ для рецепту",
 	"patchouli.gui.lexicon.index": "Всі матеріали",
 	"patchouli.gui.lexicon.index.info": "Індексація кожного розділу, доступного в цій книзі.$(br2)Ви можете шукати в тут або в будь-якій іншій категорії, просто ввівши свій запит. Після цього з'явиться рядок пошуку, який допоможе вам.",
 	"patchouli.gui.lexicon.shapeless": "Безформний",
