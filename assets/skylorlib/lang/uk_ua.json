@@ -1,0 +1,20 @@
+{
+  "block.skylorlib.compressed.monuple":"Дев'ять блоків",
+  "block.skylorlib.compressed.couple":"81 блоків",
+  "block.skylorlib.compressed.triple":"729 блоків",
+  "block.skylorlib.compressed.quadruple":"6,561 блоків",
+  "block.skylorlib.compressed.quintuple":"59,049 блоків",
+  "block.skylorlib.compressed.sextuple":"531,441 блоків",
+  "block.skylorlib.compressed.septuple":"4,782,969 блоків",
+  "block.skylorlib.compressed.octuple":"43,046,721 блоків",
+  "block.skylorlib.compressed.nonuple":"387,420,489 блоків",
+  "item.skylorlib.golden_wheat_item": "Золота пшениця",
+  "item.skylorlib.golden_seeds_item": "Золоте насіння",
+  "item.skylorlib.golden_bread_item": "Золотий хліб",
+  "block.skylorlib.golden_wheat_block": "Золота пшениця",
+  "effect.skylorlib.megafy": "Мега",
+  "item.minecraft.lingering_potion.effect.mega_potion": "Осідаюче зілля мега",
+  "item.minecraft.potion.effect.mega_potion": "Зілля мега",
+  "item.minecraft.splash_potion.effect.mega_potion": "Вибухове зілля мега",
+  "item.minecraft.tipped_arrow.effect.mega_potion": "Стріла мега"
+}
