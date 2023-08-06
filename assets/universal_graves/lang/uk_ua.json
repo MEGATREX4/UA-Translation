@@ -1,0 +1,59 @@
+{
+  "text.graves.grave_of": "Могила %s",
+  "text.graves.items_xp": "Предметів: %s ОД: %s",
+  "text.graves.items": "Предметів: %s",
+  "text.graves.protected_time": "Буде охоронятись %s",
+  "text.graves.protected_time_sign": "Буде охоронятись",
+  "text.graves.break_time": "Зломається через %s",
+  "text.graves.break_time_sign": "Зломається через",
+  "text.graves.not_protected": "Не охороняється!",
+  "text.graves.players_grave": "Могила %s's",
+  "text.graves.gui_title": "Ваші могили",
+  "text.graves.no_longer_protected": "Ваша могила на %s (%s), що містить %s предметів, більше не охороняється!",
+  "text.graves.expired": "Термін дії вашої могили на координатах %s (%s), що містить %s предметів, закінчився!",
+  "text.graves.somebody_broke": "Ваша могила на %s (%s), що містить %s предметів, була розбита!",
+  "text.graves.created_at": "Створена могила на %s (%s)",
+  "text.graves.created_at_expire": "Створена могила на %s (%s). Термін дії закінчиться через %s",
+  "text.graves.creation_failed": "Не вдалося створити могилу! Ваші предмети були скинуті на %s (%s)",
+  "text.graves.creation_failed_void": "Могила не була створена, бо ти помер у порожнечі!",
+  "text.graves.creation_failed_pvp": "Могилу не було створено, тому що вас вбив гравець! Ваші предмети було скинуто на %s (%s)",
+  "text.graves.creation_failed_claim": "Могилу не було створено, тому що ви були в тереторії з захистом! Ваші предмети були скинуті на %s (%s)",
+
+  "text.graves.damage_source_info": "Вам було завдано шкоди через: %s",
+  "text.graves.damage_source_info.enabled": "Увімкнено відображення наступних джерел шкоди! Введіть цю команду ще раз, щоб вимкнути.",
+  "text.graves.damage_source_info.disabled": "Вимкнено відображення джерел шкоди!",
+
+  "text.graves.about.version": "Версія: %s",
+  "text.graves.about.contributors": "Учасники",
+
+  "text.graves.gui.next_page": "Наступна сторінка",
+  "text.graves.gui.previous_page": "Попередня сторінка",
+  "text.graves.gui.remove_protection": "Зняти охорону",
+  "text.graves.gui.break_grave": "Зломати могилу",
+  "text.graves.gui.quick_pickup": "Забрати всі предмети",
+  "text.graves.gui.teleport": "Телепортуватись до могили",
+  "text.graves.gui.teleport.not_enough": "Недостатньо ресурсів!",
+  "text.graves.gui.teleport.cost": "Ціна:",
+  "text.graves.gui.fetch": "Перенесіть могилу до вас",
+  "text.graves.gui.fetch_failed": "Не вдалось перенести могилу!",
+
+  "text.graves.gui.cant_reverse": "Ви не можете скасувати цю дію!",
+  "text.graves.gui.click_to_confirm": "Натисніть ще раз для підтвердження",
+
+  "text.graves.teleport.teleport_timer": "Телепортація через %s секунд, не рухайтеся!",
+  "text.graves.teleport.teleport_timer_moving": "Телепортація через %s секунд",
+  "text.graves.teleport.teleport_location": "Телепортація до %s",
+  "text.graves.teleport.teleport_cancelled": "Телепортацію скасовано",
+
+  "item.universal_graves.grave_compass": "Могильний компас",
+  "block.universal_graves.grave": "Могила",
+  "block.universal_graves.visual_grave": "Надгробний камінь",
+
+  "gamerule.universal_graves:protection_time": "Час охорони могили від інших гравців",
+  "gamerule.universal_graves:breaking_time": "Термін дії могили",
+
+  "text.graves.teleportation_cost.level": "Рівнів досвіду",
+  "text.graves.teleportation_cost.creative": "Творчість",
+  "text.graves.teleportation_cost.free": "Безкоштовно",
+  "text.graves.teleportation_cost.item": "Предмети"
+}

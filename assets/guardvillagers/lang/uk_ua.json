@@ -1,0 +1,33 @@
+{
+  "entity.guardvillagers.guard": "Охоронець",
+  "item.guardvillagers.guard_spawn_egg": "Яйце виклику охоронця",
+  "guardinventory.health": "Здоров'я: %s",
+  "guardinventory.armor": "Броня: %s",
+
+  "text.autoconfig.guardvillagers.option.general.useSteveModel": "Використ. модель Стіва",
+  "text.autoconfig.guardvillagers.option.general.GuardsRunFromPolarBears": "Охоронці тікають від білого ведмедя",
+
+  "text.autoconfig.guardvillagers.option.general": "Основні",
+  "text.autoconfig.guardvillagers.option.permission": "Дозволи",
+
+  "text.autoconfig.guardvillagers.option.general.GuardFormation": "Формація охорони",
+  "text.autoconfig.guardvillagers.option.general.ClericHealing": "Церковник лікує охоронців",
+  "text.autoconfig.guardvillagers.option.general.armorerRepairGuardArmor": "Коваль обладунків може ремонтувати речі",
+  "text.autoconfig.guardvillagers.option.general.GuardsOpenDoors": "Охорона відкриває двері",
+  "text.autoconfig.guardvillagers.option.general.giveGuardStuffHOTV": "Потрібен HOTV, щоб дати охоронцям речі",
+  "text.autoconfig.guardvillagers.option.general.setGuardPatrolHotv": "Потрібен HOTV, щоб встановити патруль охорони",
+  "text.autoconfig.guardvillagers.option.general.GuardAlwaysShield": "Охорона завжи захищається",
+  "text.autoconfig.guardvillagers.option.general.FriendlyFire": "Дружній вогонь",
+  "text.autoconfig.guardvillagers.option.general.guardArrowsHurtVillagers": "Стріли охорони ранять селян",
+  "text.autoconfig.guardvillagers.option.general.RaidAnimals": "Розбійники атакуватимуть звірів",
+  "text.autoconfig.guardvillagers.option.general.WitchesVillager": "Відьми атакуватимуть селян",
+  "text.autoconfig.guardvillagers.option.general.BlackSmithHealing": "Коваль може ремонтувати ґолемів",
+  "text.autoconfig.guardvillagers.option.general.ConvertVillagerIfHaveHOTV": "Потрібен HOTV щоб конвертувати селян",
+  "text.autoconfig.guardvillagers.option.general.guardAttackMobBlacklist": "Чорний список",
+  "text.autoconfig.guardvillagers.option.general.GuardVillagerHelpRange": "Охоронці допомагають дальнім боєм",
+  "text.autoconfig.guardvillagers.option.general.amountOfHealthRegenerated": "Регенерація охоронців",
+
+  "text.autoconfig.guardvillagers.option.general.AttackAllMobs": "Охорона атакує всіх мобів",
+
+  "text.autoconfig.guardvillagers.option.permission.AmountOfConversions": "Зараз це нічого не дає"
+}

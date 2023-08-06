@@ -1,0 +1,25 @@
+{
+    "text.autoconfig.nameplate.title": "Конфігурація Talk Bubbles",
+    "text.autoconfig.nameplate.option.backgroundOpacity": "Прозорість фону",
+    "text.autoconfig.nameplate.option.nameColor": "Колір імені",
+    "text.autoconfig.nameplate.option.backgroundColor": "Колір фону",
+    "text.autoconfig.nameplate.option.showHealth": "Показувати ОЗ",
+    "text.autoconfig.nameplate.option.showLevel": "Показувати рівень",
+    "text.autoconfig.nameplate.option.squaredDistance": "Квадратна відстань",
+    "text.autoconfig.nameplate.option.excluded_entities": "Виключені сутності",
+    "text.autoconfig.nameplate.option.levelMultiplier": "Множник рівня",
+    "text.autoconfig.nameplate.option.showHostileOnly": "Показувати тільки ворожих мобів",
+    "text.autoconfig.nameplate.option.showNameplateIfObstructed": "Показ. табличку, якщо вона закрита",
+    "text.autoconfig.nameplate.option.excludedEntities": "Виключені сутності",
+    "text.autoconfig.nameplate.option.nameplateHeight": "Висота таблички",
+    "text.autoconfig.nameplate.option.nameplateSize": "Розмір таблички",
+    "text.autoconfig.nameplate.option.levelTitle": "Назва рівня",
+
+    "text.nameplate.health": "ОЗ: %d/%d",
+    "text.nameplate.level": "§eР.%s§r %s",
+    "text.nameplate.jade.level": " §eР.%s",
+
+    "config.waila.plugin_nameplate": "Nameplate",
+    "config.waila.plugin_nameplate.mob_level_info": "Інформація про рівень мобів",
+    "config.jade.plugin_nameplate.mob_level_info": "Інформація про рівень мобів"
+}
