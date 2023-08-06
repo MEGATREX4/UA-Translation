@@ -1,0 +1,20 @@
+{
+  "itemGroup.nyfsquiver.quiver": "Nyf's сагайдаки",
+
+  "ui.nyfsquiver.quiver": "Сагайдак",
+
+  "item.nyfsquiver.basic_quiver": "Сагайдак",
+  "item.nyfsquiver.iron_quiver": "Залізний сагайдак",
+  "item.nyfsquiver.copper_quiver": "Мідний сагайдак",
+  "item.nyfsquiver.silver_quiver": "Срібний сагайдак",
+  "item.nyfsquiver.gold_quiver": "Золотий сагайдак",
+  "item.nyfsquiver.diamond_quiver": "Діамантовий сагайдак",
+  "item.nyfsquiver.netherite_quiver": "Незеритовий сагайдак",
+
+  "category.nyfsquiver.keybindings": "Nyf's сагайдаки",
+  "key.nyfsquiver.open_quiver": "Відкрити Сагайдак",
+  "key.nyfsquiver.increase_slot": "Наступна комірка",
+  "key.nyfsquiver.decrease_slot": "Попередня комірка",
+  "trinkets.slot.chest.quiver": "Сагайдак"
+
+}
