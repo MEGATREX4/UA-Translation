@@ -1,0 +1,81 @@
+{
+  "itemGroup.paladins.general": "Паладіни та священики",
+
+  "item.paladins.paladin_spell_book": "Терези правосуддя",
+  "item.paladins.priest_spell_book": "Святе Письмо",
+
+  "item.paladins.paladin_armor_head": "Паладиновий шолом",
+  "item.paladins.paladin_armor_chest": "Паладиновий нагрудник",
+  "item.paladins.paladin_armor_legs": "Паладинові наголінники",
+  "item.paladins.paladin_armor_feet": "Паладинові чоботи",
+  "item.paladins.crusader_armor_head": "Хрестоносцький шолом",
+  "item.paladins.crusader_armor_chest": "Хрестоносцький нагрудник",
+  "item.paladins.crusader_armor_legs": "Хрестоносцькі наголінники",
+  "item.paladins.crusader_armor_feet": "Хрестоносцькі чоботи",
+
+  "item.paladins.stone_claymore": "Кам'яний клеймор",
+  "item.paladins.iron_claymore": "Залізний клеймор",
+  "item.paladins.golden_claymore": "Золотий клеймор",
+  "item.paladins.diamond_claymore": "Діамантовий клеймор",
+  "item.paladins.netherite_claymore": "Незеритовий клеймор",
+  "item.paladins.aeternium_claymore": "Етеріумний клеймор",
+
+  "item.paladins.wooden_great_hammer": "Дерев'яний великий молот",
+  "item.paladins.stone_great_hammer": "Кам'яний великий молот",
+  "item.paladins.iron_great_hammer": "Залізний великий молот",
+  "item.paladins.golden_great_hammer": "Золотий великий молот",
+  "item.paladins.diamond_great_hammer": "Діамантовий великий молот",
+  "item.paladins.netherite_great_hammer": "незеритовий великий молот",
+  "item.paladins.aeternium_great_hammer": "Етеріумний великий молот",
+
+  "item.paladins.stone_mace": "Кам'яна булава",
+  "item.paladins.iron_mace": "Залізна булава",
+  "item.paladins.golden_mace": "Золота булава",
+  "item.paladins.diamond_mace": "Діамантова булава",
+  "item.paladins.netherite_mace": "Незеритова булава",
+
+  "item.paladins.priest_robe_head": "Священницький комірець",
+  "item.paladins.priest_robe_chest": "священницьке вбрання",
+  "item.paladins.priest_robe_legs": "священницькі брюки",
+  "item.paladins.priest_robe_feet": "священницькі чоботи",
+  "item.paladins.prior_robe_head": "Настоятельський комірець",
+  "item.paladins.prior_robe_chest": "Настоятельське вбрання",
+  "item.paladins.prior_robe_legs": "Настоятельські брюки",
+  "item.paladins.prior_robe_feet": "Настоятельські чоботи",
+
+  "item.paladins.acolyte_wand": "Аколітна паличка",
+  "item.paladins.holy_wand": "Священна паличка",
+  "item.paladins.netherite_holy_wand": "Незеритова священна паличка",
+
+  "item.paladins.holy_staff": "Священний жезл",
+  "item.paladins.netherite_holy_staff": "Незеритовий священний жезл",
+  "item.paladins.ruby_holy_staff": "Рубіновий священний жезл",
+
+  "spell.paladins.flash_heal.name": "Миттєве зцілення",
+  "spell.paladins.flash_heal.description": "Зцілює вас або дружню ціль на {heal} очок здоров'я.",
+  "spell.paladins.divine_protection.name": "Божественний захист",
+  "spell.paladins.divine_protection.description": "Зменшує всі види отримуваної шкоди на 50%% на {effect_duration} секунд.",
+  "effect.paladins.divine_protection": "Божественний захист",
+  "spell.paladins.judgement.name": "Вирок",
+  "spell.paladins.judgement.description": "Ударяє ціль і ворогів навколо неї в радіусі {impact_range} блоків, завдаючи до {damage} і оглушуючи їх на {effect_duration}  секунд.",
+  "effect.paladins.judgement": "Приголомшені",
+
+  "spell.paladins.holy_shock.name": "Святий удар",
+  "spell.paladins.holy_shock.description": "Зцілює вас або дружню ціль на {heal}, вражає ворога, завдаючи йому {damage} шкоди від заклинання.",
+  "spell.paladins.holy_beam.name": "Святе світло",
+  "spell.paladins.holy_beam.description": "Спрямовує промінь світла, зцілюючи дружні цілі на {heal} і щосекунди завдаючи ворогам шкоди у розмірі {damage}.",
+  "spell.paladins.circle_of_healing.name": "Коло зцілення",
+  "spell.paladins.circle_of_healing.description": "Зцілює вас і дружні цілі навколо вас на {heal} і накладає деяке поглинання на {effect_duration} секунд.",
+  "effect.paladins.priest_absorption": "Поглинання",
+
+  "entity.minecraft.villager.monk": "Чернець",
+  "entity.minecraft.villager.paladins:monk": "Чернець",
+  "block.paladins.monk_workbench": "Верстак для ченців",
+
+  "advancements.rpg_classes.obtain_healing_rune.title": "Шлях зцілення",
+  "advancements.rpg_classes.obtain_healing_rune.description": "Отримайте руну зцілення",
+  "advancements.rpg_classes.paladin_mastery.title": "Час Великого суду",
+  "advancements.rpg_classes.paladin_mastery.description": "Отримайте всі заклинання паладинів",
+  "advancements.rpg_classes.priest_mastery.title": "Служитель Орі",
+  "advancements.rpg_classes.priest_mastery.description": "Отримайте всі заклинання священика"
+}
