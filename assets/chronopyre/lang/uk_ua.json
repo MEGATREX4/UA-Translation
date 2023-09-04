@@ -1,0 +1,10 @@
+{
+    "block.minecraft.campfire.rest.resting": "Відпочиваємо до ранку...",
+    "block.minecraft.campfire.rest.cancel": "Відпочинок скасовано",
+    "block.minecraft.campfire.rest.players_resting": "%d/%d гравців відпочивають",
+    "block.minecraft.campfire.rest.already_resting": "Ви вже відпочиваєте біля іншого багаття",
+    "block.minecraft.campfire.rest.impossible": "Ніяким відпочинком не вдасться згаяти час",
+    "block.minecraft.campfire.rest.not_allowed_in_dimension": "Ви не можете відпочивати в цьому вимірі",
+    "block.minecraft.campfire.rest.unlit": "Зараз ви не можете відпочивати, вогнище не запалене",
+    "block.minecraft.campfire.rest.not_possible_now": "Відпочивати можна лише вночі або під час грози"
+}
