@@ -1,0 +1,232 @@
+{
+  "generic.dig_speed": "швидкість добутку",
+  "generic.crit_chance": "крит. шанс",
+  "generic.durable": "міцність",
+  "generic.range_attack_damage": "дальня шкода",
+
+  "tiered:common_armor_1.label": "[Звичайне]",
+  "tiered:common_armor_2.label": "[Звичайне]",
+  "tiered:common_armor_3.label": "[Звичайне]",
+  "tiered:common_armor_4.label": "[Звичайне]",
+
+  "tiered:common_tool_1.label": "[Звичайне]",
+  "tiered:common_tool_2.label": "[Звичайне]",
+  "tiered:common_tool_3.label": "[Звичайне]",
+  "tiered:common_tool_4.label": "[Звичайне]",
+
+  "tiered:common_melee_1.label": "[Звичайне]",
+  "tiered:common_melee_2.label": "[Звичайне]",
+  "tiered:common_melee_3.label": "[Звичайне]",
+  "tiered:common_melee_4.label": "[Звичайне]",
+
+  "tiered:common_ranged_1.label": "[Звичайне]",
+  "tiered:common_ranged_2.label": "[Звичайне]",
+  "tiered:common_ranged_3.label": "[Звичайне]",
+  "tiered:common_ranged_4.label": "[Звичайне]",
+
+  "tiered:common_fishing_1.label": "[Звичайне]",
+  "tiered:common_fishing_2.label": "[Звичайне]",
+  "tiered:common_fishing_3.label": "[Звичайне]",
+  "tiered:common_fishing_4.label": "[Звичайне]",
+
+  "tiered:common_shield_1.label": "[Звичайне]",
+  "tiered:common_shield_2.label": "[Звичайне]",
+  "tiered:common_shield_3.label": "[Звичайне]",
+  "tiered:common_shield_4.label": "[Звичайне]",
+
+  "tiered:uncommon_armor_1.label": "[Не звичайне]",
+  "tiered:uncommon_armor_2.label": "[Не звичайне]",
+  "tiered:uncommon_armor_3.label": "[Не звичайне]",
+  "tiered:uncommon_armor_4.label": "[Не звичайне]",
+
+  "tiered:uncommon_tool_1.label": "[Не звичайне]",
+  "tiered:uncommon_tool_2.label": "[Не звичайне]",
+  "tiered:uncommon_tool_3.label": "[Не звичайне]",
+  "tiered:uncommon_tool_4.label": "[Не звичайне]",
+
+  "tiered:uncommon_melee_1.label": "[Не звичайне]",
+  "tiered:uncommon_melee_2.label": "[Не звичайне]",
+  "tiered:uncommon_melee_3.label": "[Не звичайне]",
+  "tiered:uncommon_melee_4.label": "[Не звичайне]",
+
+  "tiered:uncommon_ranged_1.label": "[Не звичайне]",
+  "tiered:uncommon_ranged_2.label": "[Не звичайне]",
+  "tiered:uncommon_ranged_3.label": "[Не звичайне]",
+  "tiered:uncommon_ranged_4.label": "[Не звичайне]",
+
+  "tiered:uncommon_fishing_1.label": "[Не звичайне]",
+  "tiered:uncommon_fishing_2.label": "[Не звичайне]",
+  "tiered:uncommon_fishing_3.label": "[Не звичайне]",
+  "tiered:uncommon_fishing_4.label": "[Не звичайне]",
+
+  "tiered:uncommon_shield_1.label": "[Не звичайне]",
+  "tiered:uncommon_shield_2.label": "[Не звичайне]",
+  "tiered:uncommon_shield_3.label": "[Не звичайне]",
+  "tiered:uncommon_shield_4.label": "[Не звичайне]",
+
+  "tiered:rare_armor_1.label": "[Рідкісне]",
+  "tiered:rare_armor_2.label": "[Рідкісне]",
+  "tiered:rare_armor_3.label": "[Рідкісне]",
+  "tiered:rare_armor_4.label": "[Рідкісне]",
+
+  "tiered:rare_tool_1.label": "[Рідкісне]",
+  "tiered:rare_tool_2.label": "[Рідкісне]",
+  "tiered:rare_tool_3.label": "[Рідкісне]",
+  "tiered:rare_tool_4.label": "[Рідкісне]",
+
+  "tiered:rare_melee_1.label": "[Рідкісне]",
+  "tiered:rare_melee_2.label": "[Рідкісне]",
+  "tiered:rare_melee_3.label": "[Рідкісне]",
+  "tiered:rare_melee_4.label": "[Рідкісне]",
+
+  "tiered:rare_ranged_1.label": "[Рідкісне]",
+  "tiered:rare_ranged_2.label": "[Рідкісне]",
+  "tiered:rare_ranged_3.label": "[Рідкісне]",
+  "tiered:rare_ranged_4.label": "[Рідкісне]",
+
+  "tiered:rare_fishing_1.label": "[Рідкісне]",
+  "tiered:rare_fishing_2.label": "[Рідкісне]",
+  "tiered:rare_fishing_3.label": "[Рідкісне]",
+  "tiered:rare_fishing_4.label": "[Рідкісне]",
+
+  "tiered:rare_shield_1.label": "[Рідкісне]",
+  "tiered:rare_shield_2.label": "[Рідкісне]",
+  "tiered:rare_shield_3.label": "[Рідкісне]",
+  "tiered:rare_shield_4.label": "[Рідкісне]",
+
+  "tiered:epic_armor_1.label": "[Епічне]",
+  "tiered:epic_armor_2.label": "[Епічне]",
+  "tiered:epic_armor_3.label": "[Епічне]",
+  "tiered:epic_armor_4.label": "[Епічне]",
+
+  "tiered:epic_tool_1.label": "[Епічне]",
+  "tiered:epic_tool_2.label": "[Епічне]",
+  "tiered:epic_tool_3.label": "[Епічне]",
+  "tiered:epic_tool_4.label": "[Епічне]",
+
+  "tiered:epic_melee_1.label": "[Епічне]",
+  "tiered:epic_melee_2.label": "[Епічне]",
+  "tiered:epic_melee_3.label": "[Епічне]",
+  "tiered:epic_melee_4.label": "[Епічне]",
+
+  "tiered:epic_ranged_1.label": "[Епічне]",
+  "tiered:epic_ranged_2.label": "[Епічне]",
+  "tiered:epic_ranged_3.label": "[Епічне]",
+  "tiered:epic_ranged_4.label": "[Епічне]",
+
+  "tiered:epic_fishing_1.label": "[Епічне]",
+  "tiered:epic_fishing_2.label": "[Епічне]",
+  "tiered:epic_fishing_3.label": "[Епічне]",
+  "tiered:epic_fishing_4.label": "[Епічне]",
+
+  "tiered:epic_shield_1.label": "[Епічне]",
+  "tiered:epic_shield_2.label": "[Епічне]",
+  "tiered:epic_shield_3.label": "[Епічне]",
+  "tiered:epic_shield_4.label": "[Епічне]",
+
+  "tiered:legendary_armor_1.label": "[Легендарне]",
+  "tiered:legendary_armor_2.label": "[Легендарне]",
+  "tiered:legendary_armor_3.label": "[Легендарне]",
+  "tiered:legendary_armor_4.label": "[Легендарне]",
+
+  "tiered:legendary_tool_1.label": "[Легендарне]",
+  "tiered:legendary_tool_2.label": "[Легендарне]",
+  "tiered:legendary_tool_3.label": "[Легендарне]",
+  "tiered:legendary_tool_4.label": "[Легендарне]",
+
+  "tiered:legendary_melee_1.label": "[Легендарне]",
+  "tiered:legendary_melee_2.label": "[Легендарне]",
+  "tiered:legendary_melee_3.label": "[Легендарне]",
+  "tiered:legendary_melee_4.label": "[Легендарне]",
+
+  "tiered:legendary_ranged_1.label": "[Легендарне]",
+  "tiered:legendary_ranged_2.label": "[Легендарне]",
+  "tiered:legendary_ranged_3.label": "[Легендарне]",
+  "tiered:legendary_ranged_4.label": "[Легендарне]",
+
+  "tiered:legendary_fishing_1.label": "[Легендарне]",
+  "tiered:legendary_fishing_2.label": "[Легендарне]",
+  "tiered:legendary_fishing_3.label": "[Легендарне]",
+  "tiered:legendary_fishing_4.label": "[Легендарне]",
+
+  "tiered:legendary_shield_1.label": "[Легендарне]",
+  "tiered:legendary_shield_2.label": "[Легендарне]",
+  "tiered:legendary_shield_3.label": "[Легендарне]",
+  "tiered:legendary_shield_4.label": "[Легендарне]",
+
+  "tiered:unique_armor_1.label": "[Унікальне]",
+  "tiered:unique_armor_2.label": "[Унікальне]",
+  "tiered:unique_armor_3.label": "[Унікальне]",
+  "tiered:unique_armor_4.label": "[Унікальне]",
+
+  "tiered:unique_tool_1.label": "[Унікальне]",
+  "tiered:unique_tool_2.label": "[Унікальне]",
+  "tiered:unique_tool_3.label": "[Унікальне]",
+  "tiered:unique_tool_4.label": "[Унікальне]",
+
+  "tiered:unique_melee_1.label": "[Унікальне]",
+  "tiered:unique_melee_2.label": "[Унікальне]",
+  "tiered:unique_melee_3.label": "[Унікальне]",
+  "tiered:unique_melee_4.label": "[Унікальне]",
+
+  "tiered:unique_ranged_1.label": "[Унікальне]",
+  "tiered:unique_ranged_2.label": "[Унікальне]",
+  "tiered:unique_ranged_3.label": "[Унікальне]",
+  "tiered:unique_ranged_4.label": "[Унікальне]",
+
+  "tiered:unique_fishing_1.label": "[Унікальне]",
+  "tiered:unique_fishing_2.label": "[Унікальне]",
+  "tiered:unique_fishing_3.label": "[Унікальне]",
+  "tiered:unique_fishing_4.label": "[Унікальне]",
+
+  "tiered:unique_shield_1.label": "[Унікальне]",
+  "tiered:unique_shield_2.label": "[Унікальне]",
+  "tiered:unique_shield_3.label": "[Унікальне]",
+  "tiered:unique_shield_4.label": "[Унікальне]",
+
+  "tiered:common.label": "[Звичайне]",
+  "tiered:uncommon.label": "[Не звичайне]",
+  "tiered:rare.label": "[Рідкісне]",
+  "tiered:epic.label": "[Епічне]",
+  "tiered:legendary.label": "[Легендарне]",
+  "tiered:unique.label": "[Унікальне]",
+
+  "text.autoconfig.tiered.title": "Tiered Config",
+  "text.autoconfig.tiered.category.default": "Tiered Settings",
+  "text.autoconfig.tiered.category.client_settings": "Client Settings",
+  "text.autoconfig.tiered.option.lootContainerModifier": "Loot Container Modifier",
+  "text.autoconfig.tiered.option.entityItemModifier": "Entity Item Modifier",
+  "text.autoconfig.tiered.option.craftingModifier": "Crafting Modifier",
+  "text.autoconfig.tiered.option.merchantModifier": "Merchant Modifier",
+  "text.autoconfig.tiered.option.reforge_modifier": "Reforge Modifier",
+  "text.autoconfig.tiered.option.levelz_reforge_modifier": "LevelZ Reforge Modifier",
+  "text.autoconfig.tiered.option.luck_reforge_modifier": "Luck Reforge Modifier",
+  "text.autoconfig.tiered.option.showReforgingTab": "Show Reforging Tab",
+  "text.autoconfig.tiered.option.xIconPosition": "Icon X Position",
+  "text.autoconfig.tiered.option.yIconPosition": "Icon Y Position",
+  "text.autoconfig.tiered.option.tieredTooltip": "Tiered Tooltip",
+  "text.autoconfig.tiered.option.centerName": "Center Name",
+
+  "container.reforge": "Перекувати",
+  "screen.tiered.reforging_screen": "Перекувати",
+  "screen.tiered.reforge_ingredient": "Необхідні інгрідієнти",
+  "screen.tiered.reforge_damaged": "§4Спочатку відремонтуйте",
+
+  "text.tiered.smithing_info_1_1": "Кожне очко вміння збільшує вдачу",
+  "text.tiered.smithing_info_1_2": "перековується %d%%",
+
+  "tiered.attribute.modifier.plus.0": "%s %s %s",
+  "tiered.attribute.modifier.plus.1": "%s %s %s",
+  "tiered.attribute.modifier.plus.2": "%s %s %s",
+
+  "tiered.attribute.modifier.equals.0": "%s %s %s",
+  "tiered.attribute.modifier.equals.1": "%s %s %s",
+  "tiered.attribute.modifier.equals.2": "%s %s %s",
+
+  "commands.tiered.failed": "Nothing changed. Targets main hand is empty",
+  "commands.tiered.untier_failed": "Nothing changed. %s from %s has no tier",
+  "commands.tiered.untier": "Untiered %s from %s",
+  "commands.tiered.tiering_failed": "Nothing changed. %s from %s has no given tier",
+  "commands.tiered.tier": "Tiered %s from %s"
+
+}
