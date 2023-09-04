@@ -88,6 +88,26 @@ Thank you for your support and interest in our project!
 |Artifacts|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Charm|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
 |Naturalist|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Iron CHest|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
 |Seasons fabric|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|seasons hud|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|added tools complement|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|tiered|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|purecoppertools|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|paladins|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|numismatic-overhaul|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|nametags|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|hardcorerevival|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|environmentz|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|cinderscapes|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|chronopyre|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Blockrunner|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|spell_engine|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|botania|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|beautify|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|backpacked|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|itemalchemy|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|tokenablefurnaces|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|skylorlib|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|cloth-config2|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|RelicEX|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|PlayerEX|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|MapFrontiers|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|WizardsEX|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Charm|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Beautify|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|xercapaint (Joy of Painting)|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|universal graves|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|forgotten graves|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|Charm of undying|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|patchouli|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
+|expandeddelight|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|||
+
+
+
+
 
 <br/>* 👯 I’m looking to collaborate on everyone
 <br/>* 💬 Ask me about translate ur mod
