@@ -1,0 +1,28 @@
+{
+
+  "effect.sprintometer.stamina_gain": "Витривалості",
+  "effect.sprintometer.stamina_gain_instant": "Миттєва енергія",
+
+  "item.minecraft.potion.effect.stamina_gain": "Зілля витривалості",
+  "item.minecraft.splash_potion.effect.stamina_gain": "Вибухове зілля витривалості",
+  "item.minecraft.lingering_potion.effect.stamina_gain": "Осідаюче зілля витривалості",
+  "item.minecraft.tipped_arrow.effect.stamina_gain": "Стріла витривалості",
+
+  "item.minecraft.potion.effect.stamina_gain_strong": "Зілля витривалості",
+  "item.minecraft.splash_potion.effect.stamina_gain_strong": "Вибухове зілля витривалості",
+  "item.minecraft.lingering_potion.effect.stamina_gain_strong": "Осідаюче зілля витривалості",
+  "item.minecraft.tipped_arrow.effect.stamina_gain_strong": "Стріла витривалості",
+
+
+  "item.minecraft.potion.effect.stamina_instantgain": "Зілля енергії",
+  "item.minecraft.splash_potion.effect.stamina_instantgain": "Вибухове зілля енергії",
+  "item.minecraft.lingering_potion.effect.stamina_instantgain": "Осідаюче зілля енергії",
+  "item.minecraft.tipped_arrow.effect.stamina_instantgain": "Стріла енергії",
+
+  "item.minecraft.potion.effect.stamina_instantgain_strong": "Зілля енергії",
+  "item.minecraft.splash_potion.effect.stamina_instantgain_strong": "Вибухове зілля енергії",
+  "item.minecraft.lingering_potion.effect.stamina_instantgain_strong": "Осідаюче зілля енергії",
+  "item.minecraft.tipped_arrow.effect.stamina_instantgain_strong": "Стріла енергії"
+
+
+}
