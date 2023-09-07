@@ -21,11 +21,11 @@
   "location.seasonhud.bottomRight": "Знизу праворуч",
 
   "desc.seasonhud.spring": "Весна",
-  "desc.seasonhud.summer": "літо",
+  "desc.seasonhud.summer": "Літо",
   "desc.seasonhud.fall": "Осінь",
   "desc.seasonhud.winter": "Зима",
 
-  "desc.seasonhud.detailed": "%s , День %s",
+  "desc.seasonhud.detailed": "   %s , День %s",
   "desc.seasonhud.summary": "%s",
 
   "item.calendar.tooltip": "Слот: Амулет"

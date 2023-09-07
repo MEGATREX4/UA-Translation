@@ -7,7 +7,7 @@
   "tutorial.spell_hotbar.description": "Натисніть %1$s",
   "tutorial.spell_hotbar.unbound": "Прив’язати кнопку!",
 
-  "spell.tooltip.host.proxy": "Застосовує закляття з екіпірованої книги заклинань",
+  "spell.tooltip.host.proxy": "Застосовує закляття з книги заклинань",
   "spell.tooltip.host.additional": "Додаткові закляття:",
   "spell.tooltip.host.pre_loaded": "Накладає закляття при використані",
   "spell.tooltip.host.bindable": "Безліч заклинань",
@@ -45,6 +45,8 @@
   "hud.action_impaired.silence": "Заглушений",
   "hud.action_impaired.incapacitate": "Недієздатний",
   "hud.action_impaired.stun": "Вражений",
+
+  "trinkets.slot.charm.spell_book": "Книга заклинань",
 
   "keybindings.spell_engine.tooltip_details" : "Підказка заклять в продробицях",
   "keybindings.spell_engine.hotbar_modifier" : "Керування панеллю заклять",

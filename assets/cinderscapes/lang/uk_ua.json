@@ -91,6 +91,7 @@
     "block.cinderscapes.smooth_smoky_quartz_slab": "Плита із гладкого димчатого кварцу",
     "block.cinderscapes.smoky_quartz_bricks": "Цегла димчатого кварцу",
     "block.cinderscapes.crystalline_smoky_quartz": "Кристалічний димчатий кварц",
-    "block.cinderscapes.nodzol": "Надзол"
+    "block.cinderscapes.nodzol": "Надзол",
+    "block.cinderscapes.nodzol.desc": "цей блок доглядають..."
      
 }
