@@ -1,0 +1,25 @@
+{
+	"key.presencefootsteps.settings": "Presence Footsteps",
+
+	"subtitles.pf.footsteps": "Кроки",
+	"subtitles.pf.wood_squeak": "Дерево скрипить",
+	"subtitles.pf.wood_bends": "Дерево згинається",
+	"subtitles.pf.wood_creaks": "Дерево тріскається",
+	"subtitles.pf.swim": "Вода тече",
+	"subtitles.pf.wings_flap": "Крила махають",
+	"subtitles.pf.leaves_rustle": "Листя шелестить",
+	"subtitles.pf.grass_rustles": "Трава шелестить",
+	"subtitles.pf.land": "Крила складаються",
+	"subtitles.pf.metal_clink": "Метал дзеньчить",
+	"subtitles.pf.snow_crunch": "Сніг хрустить",
+	"subtitles.pf.sand_crunch": "Пісок хрустить",
+	"subtitles.pf.grass_crunch": "Трава хрустить",
+	"subtitles.pf.gravel.crunch": "Гравій хрустить",
+	"subtitles.pf.ice_crack": "Лід тріщить",
+	"subtitles.pf.mud_squealk": "Багнюка хлюпає",
+	"subtitles.pf.glass_rattles": "Скло брязкає",
+	"subtitles.pf.glass_croak": "Скло гуде",
+	"subtitles.pf.chain": "Ланцюги дзвенчать",
+	"subtitles.pf.stone_crack": "Камінь кришиться",
+	"subtitles.pf.wax_squeak": "Віск скрипить"
+}
