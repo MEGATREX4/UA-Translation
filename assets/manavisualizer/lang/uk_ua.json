@@ -1,0 +1,5 @@
+{
+    "manavisualizer.mana_display.amount": "%s мана",
+    "manavisualizer.mana_display.percentage": "%s%% басейну мани",
+    "manavisualizer.mana_display.capacity": "%s / %s (%s%%)"
+}
