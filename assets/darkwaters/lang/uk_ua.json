@@ -1,0 +1,23 @@
+{
+    "itemGroup.darkwaters.itemgroup":"Глибокі води",
+
+    "item.darkwaters.aberration_spawn_egg":"Яйце виклику абераційної личинки",
+    "item.darkwaters.manaraw_spawn_egg":"Яйце виклику манарави",
+    "item.darkwaters.mohast_spawn_egg":"Яйце виклику Могаста",
+    "item.darkwaters.sighthunter_spawn_egg":"Яйце виклику нічного мисливця",
+    "item.darkwaters.craeken_spawn_egg":"Яйце виклику кракена",
+    "item.darkwaters.miraid_spawn_egg":"Яйце виклику Міраіда",
+
+    "entity.darkwaters.aberration":"Абераційна личинка",
+    "entity.darkwaters.manaraw":"Манарава",
+    "entity.darkwaters.mohast":"Могаст",
+    "entity.darkwaters.craeken":"Крейкен",
+    "entity.darkwaters.miraid":"Міраід",
+    "entity.darkwaters.miraid_hallucination":"Міраід",
+
+    "entity.darkwaters.sight_hunter":"Нічний мисливець",
+    "entity.darkwaters.rockets":"Ракета",
+    "entity.darkwaters.bullets":"Кулі",
+
+    "effect.darkwaters.storm_darkness":"Шторм"
+    }
