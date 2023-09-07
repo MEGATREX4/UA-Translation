@@ -1,0 +1,31 @@
+{
+	"category.advancednbttooltip.keys": "Advanced NBT Tooltips",
+	"key.advancednbttooltip.openConfig": "Відкрити налаштування Advanced NBT Tooltips",
+
+	"text.advancednbttooltip.tooltip.axolotl": "Варіант: ",
+	"text.advancednbttooltip.tooltip.bees": "Бджіл: ",
+	"text.advancednbttooltip.tooltip.blast_resistance": "Вибухостійкість: %s",
+	"text.advancednbttooltip.tooltip.block_hardness": "Міцність: %s",
+	"text.advancednbttooltip.tooltip.book.pages": "Сторінок: %s",
+	"text.advancednbttooltip.tooltip.book.resolved": "Вирішино: ",
+	"text.advancednbttooltip.tooltip.book.title": "Назва: ",
+	"text.advancednbttooltip.tooltip.command_blocks": "Команда: ",
+	"text.advancednbttooltip.tooltip.composting_chance": "Шанс на компостування: %s%%",
+	"text.advancednbttooltip.tooltip.custommodeldata": "КористувацькаМодельІнформації: ",
+	"text.advancednbttooltip.tooltip.disc": "Вихід компаратора: ",
+	"text.advancednbttooltip.tooltip.enchantability": "Зачарованість: %s",
+	"text.advancednbttooltip.tooltip.foodstats": "Коли спожито:",
+	"text.advancednbttooltip.tooltip.foodstats.hunger": "Пункти голоду: %s",
+	"text.advancednbttooltip.tooltip.foodstats.saturation": "Пункти насиченість: %s",
+	"text.advancednbttooltip.tooltip.fuel_time": "Час горіння: %s",
+	"text.advancednbttooltip.tooltip.hideflag": "Схований: ",
+	"text.advancednbttooltip.tooltip.honey": "Рівень меду: ",
+	"text.advancednbttooltip.tooltip.luminance": "Рівень світла: %s",
+	"text.advancednbttooltip.tooltip.mining_speed": "%sx швидкість видобутку",
+	"text.advancednbttooltip.tooltip.repair_cost": "Вартість ремонту: ",
+	"text.advancednbttooltip.tooltips.title": "Перемикання",
+
+	"text.autoconfig.advancednbttooltip.category.nbt_general": "Основні",
+	"text.autoconfig.advancednbttooltip.category.nbt_hud": "Параметри HUD",
+	"text.autoconfig.advancednbttooltip.category.nbt_misc": "Різне"
+}
