@@ -1,0 +1,10 @@
+{
+  "enchantment.guarding.barbed": "Колючки",
+  "enchantment.guarding.barbed.desc": "У разі успішного парирування щит завдасть шкоди нападнику.",
+  "enchantment.guarding.pummeling": "Розбивання",
+  "enchantment.guarding.pummeling.desc": "При успішному парируванні щит відкидає нападника назад.",
+  "item.guarding.netherite_shield": "Незеритовий щит",
+  "stat.guarding.parry": "Парирування щитом",
+  "subtitle.guarding.item.shield.parry": "Щит парирує",
+  "datapack.experimental_netherite_shield.description": "Експерементальний незеритовий щит"
+}
