@@ -1,0 +1,10 @@
+{
+  "entity.reputation.villager.snitch": "Стукач",
+  "entity.reputation.villager.reputation.friendly": "Дружній",
+  "entity.reputation.villager.reputation.trustworthy": "Надійний",
+  "entity.reputation.villager.reputation.neutral": "Нейтральний",
+  "entity.reputation.villager.reputation.suspicious": "Підозрілий",
+  "entity.reputation.villager.reputation.hostile": "Ворожий",
+  "entity.reputation.villager.reputation.unknown": "Невідомо",
+  "entity.reputation.iron_golem.angry": "Розлючений"
+}
