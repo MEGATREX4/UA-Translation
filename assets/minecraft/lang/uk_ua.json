@@ -1,0 +1,10 @@
+{
+  "container.crafting": "Майст-ня",
+  "block.minecraft.deepslate_diamond_ore": "Глибосланцева діамантова руда",
+  "block.minecraft.diamond_ore": "Діамантова руда",
+  "container.hopper": "Лійка",
+  "block.minecraft.hopper": "Лійка",
+  "entity.minecraft.trader_llama": "Лама крамаря",
+  "entity.minecraft.wandering_trader": "Ерамар"
+
+}
