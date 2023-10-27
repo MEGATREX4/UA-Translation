@@ -11,7 +11,7 @@
   "gui.numismatic-overhaul.shop.inventory_title": "Інвентар крамниці",
   "gui.numismatic-overhaul.shop.merchant_title": "магазин",
   "gui.numismatic-overhaul.shop.transfer_tooltip.enabled": [
-    "Воронки",
+    "Лійки",
     {
       "text": " можуть ",
       "color": "#28FFBF"
@@ -19,7 +19,7 @@
     "вставляти \nпредмети в цей магазин"
   ],
   "gui.numismatic-overhaul.shop.transfer_tooltip.disabled": [
-    "Воронки",
+    "Лійки",
     {
       "text": " не можуть ",
       "color": "#EB1D36"

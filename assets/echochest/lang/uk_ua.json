@@ -1,5 +1,5 @@
 {
-  "block.echochest.echo_chest": "Ехо скриня",
+  "block.echochest.echo_chest": "Cкриня відлуння",
   "block.echochest.echo_chest.description": "Збирає предмети та досвід з сутностей, що падають поблизу в радіусі 8 блоків.",
-  "container.echo_chest": "Ехо скриня"
+  "container.echo_chest": "Cкриня відлуння"
 }

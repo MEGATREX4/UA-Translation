@@ -1,0 +1,101 @@
+{
+  "itemGroup.jewelry.generic": "Ювелірні вироби",
+  "block.jewelry.gem_vein": "Самоцвітна жила",
+  "block.jewelry.deepslate_gem_vein": "Глибокосланцева самоцвітна жила",
+  "block.jewelry.jewelers_kit": "Стіл ювеліра",
+  "block.jewelry.jewelers_kit.hint": "Верстак для селян-ювелірів.",
+
+  "entity.minecraft.villager.jeweler": "Ювелір",
+
+  "item.jewelry.ruby": "Рубін",
+  "item.jewelry.topaz": "Топаз",
+  "item.jewelry.citrine": "Цитрин",
+  "item.jewelry.jade": "Нефрит",
+  "item.jewelry.sapphire": "Сапфір",
+  "item.jewelry.tanzanite": "Танзаніт",
+
+  "item.jewelry.copper_ring": "Мідний перстень",
+  "item.jewelry.iron_ring": "Залізний перстень",
+  "item.jewelry.gold_ring": "Золотий перстень",
+  "item.jewelry.emerald_necklace": "Смарагдове намисто",
+  "item.jewelry.diamond_necklace": "Діамантове намисто",
+
+  "item.jewelry.ruby_ring": "Перстень з рубіном",
+  "item.jewelry.topaz_ring": "Перстень з топазом",
+  "item.jewelry.citrine_ring": "Перстень з цитрином",
+  "item.jewelry.jade_ring": "Перстень з нефритом",
+  "item.jewelry.sapphire_ring": "Перстень з сапфіром",
+  "item.jewelry.tanzanite_ring": "Перстень з танзанітом",
+  "item.jewelry.ruby_necklace": "Намисто з рубіном",
+  "item.jewelry.topaz_necklace": "Намисто з топазом",
+  "item.jewelry.citrine_necklace": "Намисто з цитрином",
+  "item.jewelry.jade_necklace": "Намисто з нефритом",
+  "item.jewelry.sapphire_necklace": "Намисто з сапфіром",
+  "item.jewelry.tanzanite_necklace": "Намисто з танзанітом",
+
+  "item.jewelry.netherite_ruby_ring": "Незеритовий перстень з рубіном",
+  "item.jewelry.netherite_topaz_ring": "Незеритовий перстень з топазом",
+  "item.jewelry.netherite_citrine_ring": "Незеритовий перстень з цитрином",
+  "item.jewelry.netherite_jade_ring": "Незеритовий перстень з нефритом",
+  "item.jewelry.netherite_sapphire_ring": "Незеритовий перстень з сапфіром",
+  "item.jewelry.netherite_tanzanite_ring": "Незеритовий перстень з танзанітом",
+  "item.jewelry.netherite_ruby_necklace": "Незеритовий намисто з рубіном",
+  "item.jewelry.netherite_topaz_necklace": "Незеритовий намисто з топазом",
+  "item.jewelry.netherite_citrine_necklace": "Незеритовий намисто з цитрином",
+  "item.jewelry.netherite_jade_necklace": "Незеритовий намисто з нефритом",
+  "item.jewelry.netherite_sapphire_necklace": "Незеритовий намисто з сапфіром",
+  "item.jewelry.netherite_tanzanite_necklace": "Незеритовий намисто з танзанітом",
+
+  "item.jewelry.unique_attack_ring": "Перстень люті",
+  "item.jewelry.unique_attack_ring.lore": "Розбитий шматок оніксу, перероблений у грубий спосіб.",
+  "item.jewelry.unique_attack_necklace": "Намисто тортур",
+  "item.jewelry.unique_attack_necklace.lore": "Первісний власник, мабуть, не був дуже популярним.",
+
+  "item.jewelry.unique_dex_ring": "Помста Анжеліста",
+  "item.jewelry.unique_dex_ring.lore": "Вони не побачать вас, але точно побачать ваші кроки.",
+  "item.jewelry.unique_dex_necklace": "Намисто презирства",
+  "item.jewelry.unique_dex_necklace.lore": "Будьте обережні, щоб не захлинутися у своїх прагненнях.",
+
+  "item.jewelry.unique_archer_ring": "Таласійський перстень",
+  "item.jewelry.unique_archer_ring.lore": "Ельфійська майстерність у найкращому вигляді.",
+  "item.jewelry.unique_archer_necklace": "Амулет дарнаського блукача",
+  "item.jewelry.unique_archer_necklace.lore": "Високородний артефакт, що передається з покоління в покоління.",
+
+  "item.jewelry.unique_tank_ring": "Перстень джаггернаута",
+  "item.jewelry.unique_tank_ring.lore": "Легкий, але міцний. Виготовлений з титану.",
+  "item.jewelry.unique_tank_necklace": "Намисто вартового",
+  "item.jewelry.unique_tank_necklace.lore": "Опора для серця захисників.",
+
+  "item.jewelry.unique_arcane_ring": "Перстень всемогутності",
+  "item.jewelry.unique_arcane_ring.lore": "Через цей перстень протікає енергія всесвіту.",
+  "item.jewelry.unique_arcane_necklace": "Намисто необмеженої магії",
+  "item.jewelry.unique_arcane_necklace.lore": "Написи світяться надто яскраво, щоб їх можна було прочитати, можливо, щось про радіацію",
+
+  "item.jewelry.unique_fire_ring": "Промінь сонця",
+  "item.jewelry.unique_fire_ring.lore": "Витончений ельфійський дизайн, викуваний у самому серці Сонячного Колодязя.",
+  "item.jewelry.unique_fire_necklace": "Намисто Сонячного вогню",
+  "item.jewelry.unique_fire_necklace.lore": "Подарунок від найбільших чарівників.",
+
+  "item.jewelry.unique_frost_ring": "Вічномерзлий камінь",
+  "item.jewelry.unique_frost_ring.lore": "Часи змінюються, але цей витвір залишається.",
+  "item.jewelry.unique_frost_necklace": "Льодовиковий уламок",
+  "item.jewelry.unique_frost_necklace.lore": "Незвично гострі краї, але на дотик - гладенькі.",
+
+  "item.jewelry.unique_healing_ring": "Обійми Анетт",
+  "item.jewelry.unique_healing_ring.lore": "Приблизно безцінне.",
+  "item.jewelry.unique_healing_necklace": "Намисто Адрії",
+  "item.jewelry.unique_healing_necklace.lore": "Тримає частинку святого міста Селестис.",
+
+  "item.jewelry.unique_lightning_ring": "Кільце нестабільних течій",
+  "item.jewelry.unique_lightning_ring.lore": "Контролюйте неконтрольоване!",
+  "item.jewelry.unique_lightning_necklace": "Намисто невблаганних штормів",
+  "item.jewelry.unique_lightning_necklace.lore": "Витягує енергію вакууму зі штучної області підпростору-часу, поки вона не досягне максимальної ентропії.",
+
+  "item.jewelry.unique_soul_ring": "Перстень полонених душ",
+  "item.jewelry.unique_soul_ring.lore": "Душі всередині не розбиваються, вони тримаються там не просто так.",
+  "item.jewelry.unique_soul_necklace": "Окультне намисто",
+  "item.jewelry.unique_soul_necklace.lore": "Прикріплені ікла натякають на щось справді зловісне."
+
+
+  
+}

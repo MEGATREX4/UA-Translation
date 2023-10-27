@@ -5,6 +5,12 @@
   "enchantment.guarding.pummeling.desc": "При успішному парируванні щит відкидає нападника назад.",
   "item.guarding.netherite_shield": "Незеритовий щит",
   "stat.guarding.parry": "Парирування щитом",
-  "subtitle.guarding.item.shield.parry": "Щит парирує",
-  "datapack.experimental_netherite_shield.description": "Експерементальний незеритовий щит"
+
+  "datapack.experimental_netherite_shield.description": "Експерементальний незеритовий щит",
+
+  "subtitle.guarding.item.shield.parry": "Парирування щитом",
+  "subtitle.guarding.item.netherite_shield.block": "Блокування щитом",
+  "subtitle.guarding.item.netherite_shield.break": "Зломався шит",
+  "subtitle.guarding.item.netherite_shield.parry": "Парирування щитом",
+  "subtitle.guarding.item.netherite_shield.equip": "Остащення щита"
 }

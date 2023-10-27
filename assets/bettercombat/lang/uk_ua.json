@@ -1,3 +1,8 @@
 {
-  "attribute.name.generic.attack_range" : "відстань атаки"
+  "attribute.name.generic.attack_range" : "Відстань атаки",
+  "item.held.two_handed": "Дворучна",
+  "keybinds.bettercombat.feint" : "Виверт",
+  "keybinds.bettercombat.toggle_mine_with_weapons" : "Перемикач добування зброєю",
+  "hud.bettercombat.mine_with_weapons_on" : "Добування зброєю: Так",
+  "hud.bettercombat.mine_with_weapons_off" : "Добування зброєю: Ні"
 }

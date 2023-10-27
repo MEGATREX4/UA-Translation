@@ -70,5 +70,22 @@
   "stat.archeology.excavated": "Успішно розкопані блоки",
 
   "subtitles.archeology.item.copper_brush.brushing": "Блок чиститься щіткою",
-  "subtitles.archeology.block.excavation.shattering": "Предмет розбитий"
+  "subtitles.archeology.block.excavation.shattering": "Предмет розбитий",
+
+  "archeology.midnightconfig.title": "Археологія налаштування",
+  "archeology.midnightconfig.brushingSection": "§nЧистка",
+  "archeology.midnightconfig.brushingLayerChance": "Ймовірність зняття шару під час чищення",
+  "archeology.midnightconfig.brushingLayerChance.tooltip": "Чим вище, тим простіше",
+  "archeology.midnightconfig.brushingLowerThreshold": "Ймовірність руйнування щітки",
+  "archeology.midnightconfig.brushingLowerThreshold.tooltip": "Чим вище, тим важче",
+  "archeology.midnightconfig.brushingBreakingSpeed": "Швидкість руйнування блоку",
+  "archeology.midnightconfig.brushingBreakingSpeed.tooltip": "Чим вище, тим важче",
+  "archeology.midnightconfig.enableMojangBrushingStyle": "Інвернувати чистку (Майнкрафт лайв 2020)",
+  "archeology.midnightconfig.enableMojangBrushingStyle.tooltip": "Якщо увімкнено, гравець повинен тримати мишу нерухомо замість того, щоб постійно рухати нею",
+  "archeology.midnightconfig.releaseUseKeyAfterBrushing": "Автоматично відпускати клавішу після очистки",
+  "archeology.midnightconfig.displayingSection": "§nВідображення",
+  "archeology.midnightconfig.disableBrushingAnimation": "Вимкнути анімацію чистки щіткою",
+  "archeology.midnightconfig.disableBrushingAnimation.tooltip": "Увімкніть цю опцію, якщо у вас проблеми із сумісністю"
+
+  
 }
