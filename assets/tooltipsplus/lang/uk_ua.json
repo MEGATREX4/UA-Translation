@@ -1,0 +1,14 @@
+{
+  "key.shulker": "розгорнути меню шалкера",
+  "text.autoconfig.tooltipsplus.option.colors": "кольорова назва предмета",
+  "text.autoconfig.tooltipsplus.option.enchantColors": "кольорові зачарування",
+  "text.autoconfig.tooltipsplus.option.potionColors": "Кольорові зілля",
+  "text.autoconfig.tooltipsplus.option.showBees": "додаткова інформація про вулики",
+  "text.autoconfig.tooltipsplus.option.clockTime": "показувати ігровий час на годиннику",
+  "text.autoconfig.tooltipsplus.option.showRepairCost": "вартість ремонту предмета",
+  "text.autoconfig.tooltipsplus.option.numericalEnchants": "змінити зачарування римських цифр на арабські",
+  "text.autoconfig.tooltipsplus.option.maxEnchantPlus": "якщо зачарування досягло максимуму, замініть його значення на +",
+  "text.autoconfig.tooltipsplus.option.showNBT": "інші NBT предмета",
+  "text.autoconfig.tooltipsplus.option.skullTips": "імена гравців на черепах",
+  "text.autoconfig.tooltipsplus.option.shulkers": "кращі підказки шалкерів"
+}
