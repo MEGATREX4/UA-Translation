@@ -4,7 +4,7 @@
   <img src="https://i.imgur.com/f5TjzbQ.png" alt="logo" style="width:300px;height:300px;>
 </p> 
  
-<br></p>
+<br></p><br>
 <br><br><br><br>
 The full list of mod translations is available on the website<br>
 Повний список перекладів модів можна переглянути на сайті<br>
