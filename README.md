@@ -5,12 +5,7 @@
 </p>
  
 <br><br>
-<br><br><p align="justify">
-The full list of mod translations is available on the website<br>
-Повний список перекладів модів можна переглянути на сайті<br>
-<a href="https://sumtranslate.netlify.app/">https://sumtranslate.netlify.app/</a></p>
 
-<img src="https://i.imgur.com/C5KSQsx.jpg">
 
 <p align="justify"><br><br>👋 Привіт, СУМ-ки! 🌟
 
@@ -34,7 +29,12 @@ The full list of mod translations is available on the website<br>
 <img src="https://img.shields.io/badge/Minecraft-000000?style=for-the-badge&logo=minecraft&logoColor=white">
 </a>
 <p>
-<br><br><br>
+<br><br><br><br><br><center><p align="center">
+The full list of mod translations is available on the website<br>
+Повний список перекладів модів можна переглянути на сайті<br>
+<a href="https://sumtranslate.netlify.app/">https://sumtranslate.netlify.app/</a></p>
+
+<img align="center" style="width:100%;align:center;" src="https://i.imgur.com/C5KSQsx.jpg"><br><br><br></center>
 👋 Hello!
 
 We are pleased to present our new resource pack, which adds the Ukrainian language to the following Minecraft mods: Apotheosis 🌟, Create Addition 🛠️, Gobber2 ⚔️, Immersive Engineering 🔩, Spice of Life: Sweet Potato Edition 🍠, End's Delight 🌋, Framed Compacting Drawers 🗄️, Frozen Delight ❄️, Frozen Up 🥶, Ore Excavation ⛏️, Rotten Creatures 🧟‍♂️, Nether's Exoticism 🌡️, Nether's Delight 🌶️, Nether's Cruelty 🔥, The One Probe 🔍, and StorageDrawers 🗃️ etc.
