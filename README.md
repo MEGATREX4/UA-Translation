@@ -5,10 +5,10 @@
 </p> 
  
 <br></p><br>
-<br><br><br><br>
+<br><br><p align="justify">
 The full list of mod translations is available on the website<br>
 Повний список перекладів модів можна переглянути на сайті<br>
-https://sumtranslate.netlify.app/
+<a href="https://sumtranslate.netlify.app/">https://sumtranslate.netlify.app/</a></p>
 
 <img src="https://i.imgur.com/C5KSQsx.jpg">
 
