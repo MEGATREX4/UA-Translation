@@ -2,9 +2,9 @@
 <p>Credits: <a href="https://github.com/CakesTwix">@CakesTwix</a> <a href="https://github.com/ICHTLAY">@ICHTLAY <a href="https://github.com/hnufelka">@hnufelka</a> Sinqoire <a href="https://github.com/SKZGx">@SKZGx </a><a href=https://github.com/Tapio-adro">@Tapio-adro</a></p><br><br>
 <p align="center">
   <img src="https://i.imgur.com/f5TjzbQ.png" alt="logo" style="width:300px;height:300px;>
-</p> 
+</p>
  
-<br></p><br>
+<br><br>
 <br><br><p align="justify">
 The full list of mod translations is available on the website<br>
 Повний список перекладів модів можна переглянути на сайті<br>
