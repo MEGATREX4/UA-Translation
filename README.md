@@ -4,9 +4,15 @@
   <img src="https://i.imgur.com/f5TjzbQ.png" alt="logo" style="width:300px;height:300px;>
 </p> 
  
+<br></p>
+<br><br><br><br>
+The full list of mod translations is available on the website<br>
+Повний список перекладів модів можна переглянути на сайті<br>
+https://sumtranslate.netlify.app/
 
+<img src="https://i.imgur.com/C5KSQsx.jpg">
 
-<br><p align="justify"><br><br>👋 Привіт, СУМ-ки! 🌟
+<p align="justify"><br><br>👋 Привіт, СУМ-ки! 🌟
 
 Ми з радістю представляємо наш новий ресурс пак, який додає українську мову до наступних модів Minecraft: Apotheosis 🌟, Create Addition 🛠️, Gobber2 ⚔️, Immersive Engineering 🔩, Spice of Life: Sweet Potato Edition 🍠, End's Delight 🌋, Framed Compacting Drawers 🗄️, Frozen Delight ❄️, Frozen Up 🥶, Ore Excavation ⛏️, Rotten Creatures 🧟‍♂️, Nether's Exoticism 🌡️, Nether's Delight 🌶️, Nether's Cruelty 🔥, The One Probe 🔍, та StorageDrawers 🗃️ тощо.
 
@@ -42,68 +48,7 @@ You can also suggest a mod for translation.
 Thank you for your support and interest in our project!
 
 <i>This is currently being translated and added to projects through Pulls, but if any of the developers want to, you can always contact us (email at the end).</i>
-<br><br><br><br></p>
-
-
-
-🔭 We currently working on this mod translation for minecraft
-
-| Mod | Status | Mod | Status |
-|-----|--------|-----|--------|
-| Apotheosis|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)| Gobber2|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-| Immersive Engineering|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)| Spice of Life: Sweet Potato Edition |![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-| delightful|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|End's Delight|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Framed Compacting Drawers|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Frozen Delight|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Frozen Up|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Ore Excavation|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Rotten Creatures|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Nether's Exoticism|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Nether's Delight|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Nether's Cruelty|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|The One Probe|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|StorageDrawers|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Applied Energistics 2|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Bartering Station|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Chunk Loaders(by SuperMartijn642)|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Catalogue|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Magnum Torch(by Fuzs)|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Create : Misc & Things|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Create Central Kitchen|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Create Enchantment Industry|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Create Slice & Dice|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Create Stuff & Additions|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Create: Crystal Clear|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Cultural Delights|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Configured|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Farmer's Respite(little bit)|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Crafting Station|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Nether's Delight|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|It Takes a Pillage|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|More Villagers|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|FTB Quests|![Weblate](https://weblate.cakestwix.com/widgets/minecraft-mods/uk/ftb-quests/svg-badge.svg)|FTB Chunks|![Weblate](https://weblate.cakestwix.com/widgets/minecraft-mods/uk/ftb-chunks/svg-badge.svg)|
-|FTB Teams|![Weblate](https://weblate.cakestwix.com/widgets/minecraft-mods/uk/ftb-teams/svg-badge.svg)|Refined Storage|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Building Gadgets(Direwolf20)|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Keymap|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Crafting Tweaks|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|AE2 Tools|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|AE2 Additions|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Ae2 Things|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|AE2 WTLIB|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Another Furniture(little bit)|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Create Confectionery|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Energy Meter|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Integrated Dungeons and Structures|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Immersive Posts|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Item Locks|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|KeyMap(by nEinjerjar)|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Ma Enchants|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Patchouli|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Slice and dice|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Sophisticated Backpacks|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Tesseract (by SuperMartijn642)|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Tool Complement|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Trading Post(by Fuzs)|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Trashcans(by SuperMartijn642)|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|CreateDeco|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|tools complement|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|terrestria|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Advanced Reborn|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Kibe|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|packpack mod|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|VC Gliders|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Simple radio|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Simple redio|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Seasons extra|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Artifacts|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Charm|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Naturalist|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Iron CHest|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Seasons fabric|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|seasons hud|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|added tools complement|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|tiered|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|purecoppertools|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|paladins|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|numismatic-overhaul|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|nametags|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|hardcorerevival|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|environmentz|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|cinderscapes|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|chronopyre|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Blockrunner|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|spell_engine|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|botania|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|beautify|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|backpacked|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|itemalchemy|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|tokenablefurnaces|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|skylorlib|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|cloth-config2|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|RelicEX|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|PlayerEX|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|MapFrontiers|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|WizardsEX|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|Charm|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Beautify|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|xercapaint (Joy of Painting)|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|universal graves|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|forgotten graves|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|Charm of undying|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|patchouli|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|
-|expandeddelight|![перекладено - 100%](https://img.shields.io/static/v1?label=перекладено&message=100%&color=2ea44f)|||
+</p>
 
 
 
