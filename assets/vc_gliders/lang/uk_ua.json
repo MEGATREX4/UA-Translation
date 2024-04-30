@@ -1,6 +1,7 @@
 {
   "curios.identifier.glider": "Планер",
   "dmg.vc_gliders.zap_experiment": "&s загинув через невдалий експеримент з блискавкою",
+  "death.attack.zap_experiment.player": "&s вбитий у процесі винайдення лампочки",
   "item.vc_gliders.copper_upgrade": "§eМідне покращення",
   "item.vc_gliders.nether_upgrade": "§dНезер покращення",
   "item.vc_gliders.paraglider_diamond": "Діамантовий планер",
