@@ -3,8 +3,6 @@
 <p>&nbsp;</p>
 <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/oYioPSO.png" alt="logo"/></p>
 <p>&nbsp;</p>
-<p><img src="https://cdn.modrinth.com/data/cached_images/1e5fda5313e981282b25c5fc75aa5a3923aec39a.png" width="126" height="126"></p>
-<p>&nbsp;</p>
 <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/CHNSdiE.png" alt="" width="854" height="14" /></p>
 <p>&nbsp;</p>
 <p style="text-align: justify;">Welcome to our Ukrainian language resource pack for Minecraft! This pack adds Ukrainian translations to various mods in the game, allowing Ukrainian players to fully immerse themselves in the Minecraft world. We believe it's essential for Ukrainian players to have access to the game in their native language, which is why we've created this resource pack. Our team has put a lot of time and effort into translating the mods and ensuring that the Ukrainian translations are accurate and easy to understand.</p>
