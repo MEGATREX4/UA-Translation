@@ -1,60 +1,38 @@
-# UA-Translation
-<p>Credits: <a href="https://github.com/CakesTwix">@CakesTwix</a> <a href="https://github.com/ICHTLAY">@ICHTLAY <a href="https://github.com/hnufelka">@hnufelka</a> Sinqoire <a href="https://github.com/SKZGx">@SKZGx </a><a href=https://github.com/Tapio-adro">@Tapio-adro</a></p><br><br>
-<p align="center">
-  <img src="https://i.imgur.com/f5TjzbQ.png" alt="logo" style="width:300px;height:300px;>
-</p>
- 
-<br><br>
+<center><h2 style="text-align: center;"><span style="font-size: 36px;"><em>Ukrainizacija (Ukrainian Localization for mods)</em></span></h2>
+<p style="text-align: center;"><em>I will present the description in two languages</em></p>
+<p>&nbsp;</p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/oYioPSO.png" alt="logo"/></p>
+<p>&nbsp;</p>
+<p><img src="https://cdn.modrinth.com/data/cached_images/1e5fda5313e981282b25c5fc75aa5a3923aec39a.png" width="126" height="126"></p>
+<p>&nbsp;</p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/CHNSdiE.png" alt="" width="854" height="14" /></p>
+<p>&nbsp;</p>
+<p style="text-align: justify;">Welcome to our Ukrainian language resource pack for Minecraft! This pack adds Ukrainian translations to various mods in the game, allowing Ukrainian players to fully immerse themselves in the Minecraft world. We believe it's essential for Ukrainian players to have access to the game in their native language, which is why we've created this resource pack. Our team has put a lot of time and effort into translating the mods and ensuring that the Ukrainian translations are accurate and easy to understand.</p>
+<p>&nbsp;</p>
+<p style="text-align: justify;">If you're interested in contributing to our project or providing feedback, please check out our GitHub repository at <a href="https://github.com/SKZGx/UA-Translation" target="_new">https://github.com/SKZGx/UA-Translation</a>. We welcome any contributions or suggestions from the community.</p>
+<p>&nbsp;</p>
+<p>We hope you enjoy playing Minecraft in Ukrainian and that our resource pack enhances your gaming experience. Let's encourage our fellow citizens to play the game in Ukrainian and support our language and culture!</p>
+<p>&nbsp;</p>
 
 
-<p align="justify"><br><br>👋 Привіт, СУМ-ки! 🌟
+### Список перекладів можна переглянути на сайті
+### The list of translations is available on the website
 
-Ми з радістю представляємо наш новий ресурс пак, який додає українську мову до наступних модів Minecraft: Apotheosis 🌟, Create Addition 🛠️, Gobber2 ⚔️, Immersive Engineering 🔩, Spice of Life: Sweet Potato Edition 🍠, End's Delight 🌋, Framed Compacting Drawers 🗄️, Frozen Delight ❄️, Frozen Up 🥶, Ore Excavation ⛏️, Rotten Creatures 🧟‍♂️, Nether's Exoticism 🌡️, Nether's Delight 🌶️, Nether's Cruelty 🔥, The One Probe 🔍, та StorageDrawers 🗃️ тощо.
+https://sumtranslate.netlify.app/
 
-Наша спільнота Українізації Модів (СУМ) пильно працювала над цим проєктом, щоб зробити Minecraft ще більш доступним для української спільноти гравців. Тепер ви зможете насолоджуватися грою на державній мові, не втрачаючи жодної деталі геймплею.
+<img src="https://imgur.com/jP1TGk9.png">
 
-Ми просимо нашу спільноту внести свій вклад у розвиток цього проєкту, адже разом ми зможемо зробити Minecraft ще більш привабливим для гравців української мови. Приєднуйтеся до нас в телеґрам(https://t.me/SUMTranslate), слідкуте та долучайтеся до перекладу нових модів! 💪
-
-Через посилання на проєкти "crowdin" 🌐 можна буде долучитись до перекладу популярних модів(або не дуже). 💻🎮
-Також можна запропонувати мод на переклад.
-
-Дякуємо за вашу підтримку та інтерес до нашого проєкту!
-
-<i>PS зараз це перекладається і додається до проектів через Pull`и, але якщо хтось з розробників хоче, завжди можете звертатись до нас (пошта в кінці).</i>
-</p>
-<a href="https://discord.gg/RBuQk37xr8"><br><br>
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-</a>
-<a href="">
-<img src="https://img.shields.io/badge/Minecraft-000000?style=for-the-badge&logo=minecraft&logoColor=white">
-</a>
-<p>
-<br><br><br><br><br><center><p align="center">
-The full list of mod translations is available on the website<br>
-Повний список перекладів модів можна переглянути на сайті<br>
-<a href="https://sumtranslate.netlify.app/">https://sumtranslate.netlify.app/</a></p>
-
-<img align="center" style="width:100%;align:center;" src="https://i.imgur.com/C5KSQsx.jpg"><br><br><br></center>
-👋 Hello!
-
-We are pleased to present our new resource pack, which adds the Ukrainian language to the following Minecraft mods: Apotheosis 🌟, Create Addition 🛠️, Gobber2 ⚔️, Immersive Engineering 🔩, Spice of Life: Sweet Potato Edition 🍠, End's Delight 🌋, Framed Compacting Drawers 🗄️, Frozen Delight ❄️, Frozen Up 🥶, Ore Excavation ⛏️, Rotten Creatures 🧟‍♂️, Nether's Exoticism 🌡️, Nether's Delight 🌶️, Nether's Cruelty 🔥, The One Probe 🔍, and StorageDrawers 🗃️ etc.
-
-Our Ukrainianisation of Mods (UOM) community has been working hard on this project to make Minecraft even more accessible to the Ukrainian player community. Now you can enjoy the game in the state language without missing a single gameplay detail.
-
-We are asking our community to contribute to the development of this project, as together we can make Minecraft even more attractive to Ukrainian players. Join us in the telegram (https://t.me/SUMTranslate), follow us, and join the translation of new mods 💪
-
-You can join the translation of popular mods (or not) through the links to the "crowdin" projects 🌐. 💻🎮
-You can also suggest a mod for translation.
-Thank you for your support and interest in our project!
-
-<i>This is currently being translated and added to projects through Pulls, but if any of the developers want to, you can always contact us (email at the end).</i>
-</p>
+### This is a large archive of translations we have done.
+### Це великий архів перекладів які ми робили.
 
 
 
-
-
-<br/>* 👯 I’m looking to collaborate on everyone
-<br/>* 💬 Ask me about translate ur mod
-<br/>* 📫 How to reach me: megatrex4@yahoo.com
-
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/CHNSdiE.png" alt="" width="854" height="14" /></p>
+<p>&nbsp;</p>
+<p style="text-align: justify;">Ласкаво просимо до нашого ресурс-паку української мови для Minecraft! Цей пак додає український переклад до різних модів у грі, дозволяючи українським гравцям повністю зануритись у світ Minecraft. Ми вважаємо, що важливо, щоб українські гравці мали доступ до гри у своїй рідній мові, тому ми створили цей ресурс-пак. Наша команда вклала багато часу та зусиль у переклад модів та забезпечення того, що українські переклади є точними та легко зрозумілими.</p>
+<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;">Якщо ви зацікавлені в контрибуції нашого проєкту або хочете надати зворотний зв'язок, перегляньте наш репозиторій на GitHub за посиланням&nbsp; <a href="https://github.com/SKZGx/UA-Translation" target="_new">https://github.com/SKZGx/UA-Translation</a>. Ми вітаємо будь-які внески або пропозиції від громади.</p>
+<p style="text-align: justify;">&nbsp;</p>
+<p>Ми сподіваємось, що вам сподобається грати в Minecraft українською мовою та що наш ресурс-пак покращить ваші враження від гри. Давайте підтримувати та грати ігри українською мовою, сприяючи нашій мові та культурі!</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: left;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/CHNSdiE.png" alt="" width="854" height="14" /></p></center>
