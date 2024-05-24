@@ -1,0 +1,60 @@
+{
+  "itemGroup.archers.general": "Стрільці",
+  "item.archers.auto_fire_hook.description_1": "Автоматично випускає заряджену стрілу.",
+  "item.archers.auto_fire_hook.description_2": "Встановлюється на далекобійну зброю, на ковадлі",
+  "item.ranged_weapon.pull_time": "Швидкість натягування: %1$s",
+
+  "block.archers.archers_workbench": "Стіл стрільця-ремісника",
+  "block.archers.archers_workbench.hint": "Робоче місце стрільця-ремісника.",
+  "entity.minecraft.villager.archery_artisan": "Стрілець-ремісник",
+  "entity.minecraft.villager.archers:archery_artisan": "Стрілець-ремісник",
+
+  "item.archers.auto_fire_hook": "Модуль автострільби",
+
+  "item.archers.flint_spear": "Кремінний спис",
+  "item.archers.iron_spear": "Залізний спис",
+  "item.archers.golden_spear": "Золотий спис",
+  "item.archers.diamond_spear": "Діамантовий спис",
+  "item.archers.netherite_spear": "Незеритовий спис",
+
+  "item.archers.archer_armor_head": "Капюшон стрільця",
+  "item.archers.archer_armor_chest": "Куртка стрільця",
+  "item.archers.archer_armor_legs": "Легінси стрільця",
+  "item.archers.archer_armor_feet": "Чоботи стрільця",
+
+  "item.archers.ranger_armor_head": "Капюшон мисливця",
+  "item.archers.ranger_armor_chest": "Куртка мисливця",
+  "item.archers.ranger_armor_legs": "Легінси мисливця",
+  "item.archers.ranger_armor_feet": "Чоботи мисливця",
+
+  "item.archers.composite_longbow": "Композитний довгий лук",
+  "item.archers.mechanic_shortbow": "Механічний короткий лук",
+  "item.archers.royal_longbow": "Вишуканий довгий лук",
+  "item.archers.rapid_crossbow": "Скорострільний арбалет",
+  "item.archers.heavy_crossbow": "Важкий арбалет",
+  "item.archers.netherite_shortbow": "Незеритовий короткий лук",
+  "item.archers.netherite_longbow": "Незеритовий довгий лук",
+  "item.archers.netherite_rapid_crossbow": "Незеритовий скорострільний арбалет",
+  "item.archers.netherite_heavy_crossbow": "Незеритовий важкий арбалет",
+
+  "item.archers.archer_spell_book": "Посібник стрільця",
+
+  "spell.archers.power_shot.name": "Потужний постріл",
+  "spell.archers.power_shot.description": "Виконує потужний постріл снаряда і накладає на ціль мітку Мисливця тривалістю в {effect_duration} сек., тим самим підвищуючи її шкоду на 5%%, Дія ефекту може стакатись до {effect_amplifier} разів.",
+  "effect.archers.hunters_mark": "Мітка мисливця",
+  "effect.archers.hunters_mark.description": "Збільшує будь-яку шкоду на 5%%",
+
+  "spell.archers.entangling_roots.name": "Корневін",
+  "spell.archers.entangling_roots.description": "Наділяє область корінням, що росте з-під землі, сповільнюючи ворогів на {cloud_duration} сек.",
+  "effect.archers.entangling_roots": "Корневін",
+  "effect.archers.entangling_roots.description": "Знижує швидкість руху",
+
+
+  "spell.archers.barrage.name": "Град",
+  "spell.archers.barrage.description": "Здійснює серію пострілів.",
+
+  "advancements.rpg_classes.obtain_arrow.title": "Шлях мисливця",
+  "advancements.rpg_classes.obtain_arrow.description": "Отримайте стрілу",
+  "advancements.rpg_classes.archer_mastery.title": "Пристріляне місце",
+  "advancements.rpg_classes.archer_mastery.description": "Вивчіть всі навики стрільця"
+}
