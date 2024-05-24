@@ -1,0 +1,11 @@
+{
+  "itemGroup.scout.itemgroup": "Scout",
+  "item.scout.tanned_leather": "Дублена шкіра",
+  "item.scout.satchel_strap": "Ремінь для ранця",
+  "item.scout.satchel": "Ранець",
+  "item.scout.upgraded_satchel": "Поліпшений ранець",
+  "item.scout.pouch": "Сумка",
+  "item.scout.upgraded_pouch": "Поліпшеня сумка",
+  "trinkets.slot.legs.pouch": "Сумка",
+  "tooltip.scout.slots": "Вміщує %d стосів"
+}
