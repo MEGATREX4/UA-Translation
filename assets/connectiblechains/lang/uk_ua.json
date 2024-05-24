@@ -1,0 +1,6 @@
+{
+  "entity.connectiblechains.chain_knot" : "Вузол ланцюга",
+  "message.connectiblechains.connectible_chain" : "Сумісність з мережею [Shift]",
+  "message.connectiblechains.connectible_chain_detailed" : "Натисніть на паркани/стіни, щоб створити мережу!",
+  "entity.connectiblechains.chain_collision" : "Зіткнення ланцюгів"
+}
