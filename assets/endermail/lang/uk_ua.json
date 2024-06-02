@@ -1,0 +1,29 @@
+{
+    "block.endermail.package": "Посилка",
+    "block.endermail.locker": "Поштомат",
+
+    "item.endermail.package_controller": "Поштовий пульт",
+    "item.endermail.packing_tape": "Пакувальна стрічка",
+    "item.endermail.stamp": "Марка",
+
+    "string.endermail.cancel": "Скасувати",
+    "string.endermail.close": "Закрити",
+    "string.endermail.confirm": "Підтвердити",
+    "string.endermail.coordinates": "Координати",
+    "string.endermail.deliver": "Доставити",
+    "string.endermail.delivered": "Доставлено",
+    "string.endermail.deliveredToLocker": "Доставлено у поштомат",
+    "string.endermail.delivering": "У процесі",
+    "string.endermail.deliveryDistance": "Відстань доставки",
+    "string.endermail.deliveryLocation": "Адреса доставки",
+    "string.endermail.error": "Виникла помилка",
+    "string.endermail.holdShift": "Утримуйте Shift, щоб переглянути вміст",
+    "string.endermail.lockerID": "ID поштомата",
+    "string.endermail.id": "ID",
+    "string.endermail.invalidLockerID": "Неправильний ID поштомата",
+    "string.endermail.maxDistance": "Максимальна відстань",
+    "string.endermail.setID": "Установити ID",
+    "string.endermail.status": "Стан",
+    "string.endermail.tooFar": "Занадто далеко для доставки",
+    "string.endermail.undeliverable": "Неможливо доставити"
+}
