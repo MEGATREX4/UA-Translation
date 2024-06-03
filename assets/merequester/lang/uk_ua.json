@@ -1,0 +1,32 @@
+{
+    "itemGroup.merequester": "ME Запитувач",
+  
+    "item.merequester.requester_terminal": "ME Термінал запитувача",
+    "block.merequester.requester": "ME Запитувач",
+  
+    "gui.merequester.requester_terminal": "ME Термінал запит.",
+    "gui.merequester.no_requesters": "Не знайдено ME Запитувачів!",
+  
+    "tooltip.merequester.requester_desc": "Автоматично підтримує присутність предметів і рідин на складі, запитуючи нові матеріали за потреби. Має бути підключений до ME мережі і доступний з ME Терміналу запитувача. Втрачає конфігурацію в разі поломки. Налаштування можна скопіювати на карту пам’яті.",
+  
+    "tooltip.merequester.shift_for_more": "%s — детальніше",
+    "tooltip.merequester.enter_to_submit": "%s — надіслати",
+  
+    "tooltip.merequester.whole_number": "Мусить бути цілим числом!",
+    "tooltip.merequester.locked": "Заблоковано! Запит обробляється.",
+  
+    "tooltip.merequester.toggle": "Перемкнути запит",
+    "tooltip.merequester.amount": "Необхідно зберігати",
+    "tooltip.merequester.batch": "Обсяг партії",
+    "tooltip.merequester.submit": "Застосувати зміни",
+    "tooltip.merequester.status": "Статус запиту",
+  
+    "tooltip.merequester.idle": "Простоює",
+    "tooltip.merequester.idle_desc": "Запитувач простоює, коли запитувана кількість вже досягнута або для цього предмета чи рідини не існує рецепту майстрування.",
+    "tooltip.merequester.missing": "Бракує інгредієнтів",
+    "tooltip.merequester.missing_desc": "Системі бракує інгредієнтів для створення запитуваного предмета чи рідини. Процес продовжиться, коли інгредієнти стануть доступними.",
+    "tooltip.merequester.link": "Майстрування",
+    "tooltip.merequester.link_desc": "Наразі система майструє запитуваний предмет чи рідину.",
+    "tooltip.merequester.export": "Експортування",
+    "tooltip.merequester.export_desc": "Запитувач намагається експортувати результати майстрування у систему. Якщо запитувач перебуває в цьому статусі тривалий час, це означає, що для експорту немає вільного місця."
+  }

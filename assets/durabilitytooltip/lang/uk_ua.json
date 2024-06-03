@@ -1,0 +1,14 @@
+{
+    "durabilitytooltip.info.bar.durability_hint": "Міцність:",
+    "durabilitytooltip.info.bar.bar_line": "[%s]",
+    "durabilitytooltip.info.bar.full_symbol": "█",
+    "durabilitytooltip.info.bar.empty_symbol": "▒",
+    "durabilitytooltip.info.numbers.durability_hint": "Міцність: %s",
+    "durabilitytooltip.info.numbers.full_durability": "%d",
+    "durabilitytooltip.info.numbers.damaged": "%1$d / %2$d",
+    "durabilitytooltip.info.text.durability_hint": "Міцність: %s",
+    "durabilitytooltip.info.text.full_durability": "цілий",
+    "durabilitytooltip.info.text.damaged": "трохи пошкоджений",
+    "durabilitytooltip.info.text.severely_damaged": "значно пошкоджений",
+    "durabilitytooltip.info.text.nearly_broken": "майже зломаний"
+  }
