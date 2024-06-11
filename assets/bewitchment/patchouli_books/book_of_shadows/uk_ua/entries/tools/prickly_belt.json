@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Колючий пояс",
+  "icon": "bewitchment:prickly_belt",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Колючий пояс - зручна дрібничка, здатна зберігати статусні ефекти. $(br2) Під час нападу власник отримає позитивні ефекти, а атакуючий - негативні, вартістю $(l:bewitchment:introduction/altars#internalme)Mагічної енергії$().$(br2)Щоб додати ефект статусу, просто об'єднайте пояс із зіллям."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:prickly_belt"
+	}
+  ]
+}

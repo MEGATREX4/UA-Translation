@@ -1,0 +1,17 @@
+{
+  "category": "bewitchment:creatures",
+  "name": "Вовк",
+  "icon": "minecraft:wolf_spawn_egg",
+  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Приручені вовки - дорогоцінні істоти; коли їхній друг у біді, вони зазвичай готові допомогти, навіть ризикуючи власним життям.$(br2)Вовки можуть бути пов'язані $(l:bewitchment:rituals/binding)Ритуалом$(), який збільшить довговічність $(l:bewitchment:poppets/poppet_practice)Ляльки$().$(br2) Вони також збільшують броню своєї відьми."
+	},
+	{
+	  "type": "patchouli:entity",
+	  "entity": "minecraft:wolf",
+	  "scale": 0.6
+	}
+  ]
+}

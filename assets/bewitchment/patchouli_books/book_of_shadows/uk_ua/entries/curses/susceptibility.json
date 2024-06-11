@@ -1,0 +1,17 @@
+{
+  "category": "bewitchment:curses",
+  "name": "Вразливість",
+  "icon": "minecraft:rotten_flesh",
+  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Це $(l:bewitchment:curses/conducting_curses)Прокляття$() послаблює тіло, через що ціль отримує вдвічі більше магічної шкоди і їй важче рухатися.$(br2)Ходять чутки, що це $(l:bewitchment:curses/conducting_curses)Прокляття$() навіть пов'язано з набагато гіршими долями, такими як $(l:bewitchment:curses/vampirism)Вампіризм$() і $(l:bewitchment:curses/lycanthropy)Лікантропія$()."
+	},
+	{
+	  "type": "bewitchment:curse",
+	  "recipe": "bewitchment:curses/susceptibility",
+	  "text": "Это $(l:bewitchment:curses/conducting_curses)Сильне Прокляття$(); позбутися його трохи складніше."
+	}
+  ]
+}

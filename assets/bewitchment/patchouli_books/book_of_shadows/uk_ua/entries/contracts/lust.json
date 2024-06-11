@@ -1,0 +1,13 @@
+{
+  "category": "bewitchment:contracts",
+  "name": "Бажання",
+  "icon": "bewitchment:demonic_contract",
+  "advancement": "bewitchment:hidden_unlocks/demon_horn",
+  "sortnum": 1,
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Хтивість приносить любов у повітря ~ $(br2) Це призводить до того, що тварини починають розмножуватися поруч із тим, у кого є цей $(l:bewitchment:contracts/concept_contracts)контракт$() і приносять утричі більше потомства."
+	}
+  ]
+}

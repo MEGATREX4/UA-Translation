@@ -1,0 +1,22 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Гротескне рагу",
+  "priority": true,
+  "icon": "bewitchment:grotesque_stew",
+  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Це сумнівне рагу є частиною обряду посвячення.$(br2)Випиваючи і пильно дивлячись в очі $(l:bewitchment:creatures/demon)Величного Демона$(), відьма може дати їм присягу.$(br2)Присяга $(l:bewitchment:creatures/demon)Величному Демону$() має унікальні переваги залежно від $(l:bewitchment:creatures/demon)Демона$()."
+	},
+	{
+	  "type": "patchouli:text",
+	  "text": "Точні переваги вказані у відповідних записах.$(br2)A $(l:bewitchment:creatures/demon)Демон$(), якому дано присягу, має залишатися у світі, щоб присяга була активною. Відьма може дати присягу тільки одному $(l:bewitchment:creatures/demon)Демону$() в один час.$(br2)Атакуючи $(l:bewitchment:creatures/demon)Демона$() будь-яким способом негайно скасує присягу."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:grotesque_stew",
+	  "text": "Важливо зазначити, що відьми, які в такий спосіб псують свою душу, схильні до тих самих слабкостей, що і $(l:bewitchment:creatures/demon)Демони$()."
+	}
+  ]
+}

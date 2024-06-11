@@ -1,0 +1,17 @@
+{
+  "category": "bewitchment:creatures",
+  "name": "Леонард",
+  "icon": "bewitchment:leonard_spawn_egg",
+  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Леонард покровитель відьом, $(l:bewitchment:brewing/brewing_basics)варіння в казані$() і...$(br2)Леонард $(l:bewitchment:creatures/demon)Величніший Демон$().$(br2)Відьми дають $(l:bewitchment:tools/grotesque_stew)присягу$() щоб вони могли використовувати два модифікатори могутності, використовуючи $(l:bewitchment:brewing/brewing_basics)казан$(). $(l:bewitchment:tools/grotesque_stew)Присяга$() Леонарду також дає змогу гравцям $(l:bewitchment:tools/witch_cauldron#teleportation)телепортуватися$() використовуючи $(l:bewitchment:tools/witch_cauldron)відьомський казан$() без використання $(l:bewitchment:introduction/altars)Mагічної енергії$()."
+	},
+	{
+	  "type": "patchouli:entity",
+	  "entity": "bewitchment:leonard",
+	  "offset": 0.2
+	}
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Ефірний",
+  "icon": "bewitchment:ectoplasm",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Створіння під ефектом 'ефірний' не можуть отримувати і завдавати шкоди."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Ефірний",
+	  "item": "bewitchment:ectoplasm",
+	  "text": "Збільшити силу ефекту неможливо."
+	}
+  ]
+}

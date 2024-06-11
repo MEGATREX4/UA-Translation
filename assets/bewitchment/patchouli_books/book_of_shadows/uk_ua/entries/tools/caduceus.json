@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Кадуцей",
+  "icon": "bewitchment:caduceus",
+  "advancement": "bewitchment:hidden_unlocks/caduceus",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Кадуцей - це $(l:bewitchment:creatures/baphomet)Інструмент Бафомета$().$(br2)Він має багатофункціональність, яку можна порівняти з Незеритом. Його також можна використовувати для метання потужних вогняних куль за допомогою $(l:bewitchment:introduction/altars#internalme)Mагічної енергії$().$(br2) Кадуцей можна полагодити за допомогою Незеритових злитків."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "item": "bewitchment:caduceus"
+	}
+  ]
+}

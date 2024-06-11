@@ -1,0 +1,17 @@
+{
+  "category": "bewitchment:introduction",
+  "name": "Кора",
+  "icon": "bewitchment:oak_bark",
+  "advancement": "bewitchment:hidden_unlocks/athame",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Дехто каже, що кора - наймагічніша і наймогутніша частина дерева, тому ранні відьми навчилися знімати кору з дерева, використовуючи $(l:bewitchment:tools/athame)атама$().$(br2)$(o)Зверніть увагу, що з деяких порід дерева занадто важко зняти кору.$()"
+	},
+	{
+	  "type": "patchouli:campfire",
+	  "recipe": "bewitchment:wood_ash_from_campfire_cooking",
+	  "text": "Кору можна використовувати для багатьох цілей, однією з яких є деревна зола.$(br2) Деревна зола створюється шляхом поміщення кори в багаття. Під час кидка кори в заповнений  $(l:bewitchment:tools/witch_cauldron)Відьомський казан$(), це негайно спустошить його."
+	}
+  ]
+}

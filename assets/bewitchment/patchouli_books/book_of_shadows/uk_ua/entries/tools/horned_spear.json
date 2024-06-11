@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Рогатий спис",
+  "icon": "bewitchment:horned_spear",
+  "advancement": "bewitchment:hidden_unlocks/horned_spear",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Цей спис - мисливський спис $(l:bewitchment:creatures/herne)Херне$().$(br2)Так само, як Тризуб, його можна кинути в ціль, і він завжди повернеться до того, хто його кинув.$(br2)Рогатий спис можна полагодити за допомогою Незеритових злитків"
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "item": "bewitchment:horned_spear"
+	}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Мітли",
+  "icon": "bewitchment:juniper_broom",
+  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Мітли - це магічні пристосування, які зазвичай використовують відьми. Завдяки використанню $(l:bewitchment:introduction/altars#internalme)Mагічної енергії$(), вони дають змогу літати по небу.$(br2)Мітли бувають чотирьох варіантів, кожен з яких має унікальні властивості."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:juniper_broom",
+	  "text": "$(l:bewitchment:introduction/juniper_trees)Ялівцеві$() мітли - найшвидші з усіх Мітл, без будь-яких інших особливих властивостей."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:cypress_broom",
+	  "text": "$(l:bewitchment:introduction/cypress_trees)Кипарисові$() мітли захищають користувача, зменшуючи, як отримання, так і нанесення шкоди."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:elder_broom",
+	  "text": "$(l:bewitchment:introduction/elder_trees)Бузинова$() мітла поверне користувача туди, де він стартував."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:dragons_blood_broom",
+	  "text": "Мітли із $(l:bewitchment:introduction/dragons_blood_trees)Крові дракона $() можуть мати $(l:bewitchment:sigils/using_sigils)Сигіли$(), що застосовуються до них, так само, як і до будь-яких інших $(l:bewitchment:introduction/dragons_blood_trees)Блоків Драконячої Крові$()."
+	}
+  ]
+}

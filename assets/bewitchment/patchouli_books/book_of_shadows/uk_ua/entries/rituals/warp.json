@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "[Ритуал] Телепортація",
+  "icon": "minecraft:ender_pearl",
+  "advancement": "bewitchment:hidden_unlocks/chalk",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Цей потужний $(l:bewitchment:rituals/rituals)Ритуал$() телепортує все, що знаходиться поблизу, в обране місце розташування.$(br2)Це дуже добре працює з $(l:bewitchment:tools/waystone)Шляховим каменем$(), оскільки це дає змогу телепортувати об'єкти у віддалені місця.$(br2)Ви можете використовувати $(l:bewitchment:tools/taglock)Теґлок$() або $(l:bewitchment:tools/waystone)Шляховий камінь$() для цього $(l:bewitchment:rituals/rituals)Ритуалу$()."
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:rituals/warp"
+	}
+  ]
+}

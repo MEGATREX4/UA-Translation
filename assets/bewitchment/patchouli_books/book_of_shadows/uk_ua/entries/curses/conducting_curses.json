@@ -1,0 +1,17 @@
+{
+  "category": "bewitchment:curses",
+  "name": "Проведення прокльонів",
+  "priority": true,
+  "icon": "bewitchment:brazier",
+  "advancement": "minecraft:nether/find_fortress",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Прокляття - це шкідлива магія, що застосовується за допомогою $(l:bewitchment:tools/brazier)Жаровні$().$(br2)Щоб вибрати ефективне прокляття, вам знадобиться $(l:bewitchment:tools/taglock)Екстрактор ДНК$() вашої цілі і помістіть її в $(l:bewitchment:tools/brazier)Жаровню$(), на додачу до інших інгредієнтів.$(br2)Після додавання усіх інгредієнтів, запаліть $(l:bewitchment:tools/brazier)Жаровню$() за допомогою Кресала, щоб накласти прокляття."
+	},
+	{
+	  "type": "patchouli:text",
+	  "text": "Прокляття зникнуть через сім днів, але вони також можуть бути $(l:bewitchment:rituals/cleansing)Очищені$() використовуючи відповідний ритуал.$(br2)Зверніть увагу, що для всіх прокльонів потрібно не менше 400 доступної $(l:bewitchment:introduction/altars)Mагічної енергії$(); потужніші прокляття потребують 800 $(l:bewitchment:introduction/altars)Mагічної енергії$()."
+	}
+  ]
+}

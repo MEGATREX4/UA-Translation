@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:curses",
+  "name": "Невезучість",
+  "icon": "minecraft:textures/mob_effect/unluck.png",
+  "advancement": "minecraft:nether/find_fortress",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "$(l:bewitchment:tools/crystal_ball)Вдача$() не проявляє прихильності до жертв цього $(l:bewitchment:curses/conducting_curses)Прокляття$(); це також означає, що благотворний ефект статусу може не спрацювати."
+	},
+	{
+	  "type": "bewitchment:curse",
+	  "recipe": "bewitchment:curses/unlucky"
+	}
+  ]
+}

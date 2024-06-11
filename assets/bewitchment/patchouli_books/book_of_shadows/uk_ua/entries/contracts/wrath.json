@@ -1,0 +1,13 @@
+{
+  "category": "bewitchment:contracts",
+  "name": "Гнів",
+  "icon": "bewitchment:demonic_contract",
+  "advancement": "bewitchment:hidden_unlocks/demon_horn",
+  "sortnum": 1,
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Цей $(l:bewitchment:contracts/concept_contracts)контракт$() збільшить твою шкоду при зниженні здоров'я.$(br2)Нарешті ти помстишся своїм кривдникам!"
+	}
+  ]
+}

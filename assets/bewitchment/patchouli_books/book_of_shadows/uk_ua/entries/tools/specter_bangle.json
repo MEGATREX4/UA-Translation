@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Браслет привида",
+  "icon": "bewitchment:specter_bangle",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Ця чудова дрібничка буде ховати тіні навколо власника, поки він крадеться. $(br2) Це споживає $(l:bewitchment:introduction/altars#internalme) Mагічну енергію $() і зробить користувача повністю невидимим, і тільки легкий дим натякає на його присутність."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:specter_bangle"
+	}
+  ]
+}

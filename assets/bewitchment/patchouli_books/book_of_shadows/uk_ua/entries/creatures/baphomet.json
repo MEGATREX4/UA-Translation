@@ -1,0 +1,17 @@
+{
+  "category": "bewitchment:creatures",
+  "name": "Бафомет",
+  "icon": "bewitchment:baphomet_spawn_egg",
+  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Бафомет, стародавній $(l:bewitchment:creatures/demon)Величніший Демон$() магії, перше ім'я вогню, полум'я тощо. Забезпечує $(l:bewitchment:contracts/concept_contracts)контрактами$() багатьох відьом по всьому світу.$(br2)Поки діє $(l:bewitchment:tools/grotesque_stew)присяга$(), з ним можна торгувати набагато дешевше.$(br2)Бафомет може бути $(l:bewitchment:rituals/summon_baphomet)викликаний$() будь-якою достатньо сильною відьмою."
+	},
+	{
+	  "type": "patchouli:entity",
+	  "entity": "bewitchment:baphomet",
+	  "offset": 0.2
+	}
+  ]
+}

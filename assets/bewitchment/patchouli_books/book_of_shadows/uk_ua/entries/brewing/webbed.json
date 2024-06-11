@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Заплутаний",
+  "icon": "minecraft:cobweb",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Миттєво створює тимчасове павутиння навколо цілі."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Заплутаний",
+	  "item": "minecraft:cobweb",
+	  "text": "Сила ефекту збільшує радіус павутини."
+	}
+  ]
+}

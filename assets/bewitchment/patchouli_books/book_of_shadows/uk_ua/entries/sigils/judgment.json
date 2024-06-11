@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:sigils",
+  "name": "[Сигіл] Вироку",
+  "icon": "bewitchment:judgment_sigil",
+  "advancement": "minecraft:nether/find_fortress",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "$(l:bewitchment:sigils/using_sigils)Активація Сигілу$() Вироку завдає шкоди будь-якій нечисті, яка активує його."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:judgment_sigil"
+	}
+  ]
+}

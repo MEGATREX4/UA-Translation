@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Шляховий камінь",
+  "icon": "bewitchment:waystone",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Шляхові камені наповнені енергією ендеру, що дає їм змогу зберігати розташування. $(br2)Це, своєю чергою, дає їм змогу перенаправляти $(l:bewitchment:rituals/rituals)ритуали$(), поміщаючи їх в інше місце.$(br2)Для перенаправлення $(l:bewitchment:rituals/rituals)Ритуалу$(), використовуйте Шляховий камінь на $(l:bewitchment:rituals/rituals#chalk)На золотій крейді$() після того, як $(l:bewitchment:rituals/rituals)ритуал$() було запущено."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:waystone"
+	}
+  ]
+}

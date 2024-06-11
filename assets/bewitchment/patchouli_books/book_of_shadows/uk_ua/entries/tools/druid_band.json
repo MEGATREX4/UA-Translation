@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Пояс друїда",
+  "icon": "bewitchment:druid_band",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Пояс друїда - потужний аксесуар землі. $(br2)При носінні він збільшить вашу швидкість пересування і регенерацію, поки ви ходите по природному ґрунту, такому як трава.$(br2)Коли він активний, Пояс друїда споживає $(l:bewitchment:introduction/altars#internalme)Mагічну енергію$()"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:druid_band"
+	}
+  ]
+}

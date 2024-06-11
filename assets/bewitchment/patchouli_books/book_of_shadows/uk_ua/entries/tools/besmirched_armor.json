@@ -1,0 +1,27 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Заговорена Броня",
+  "icon": "bewitchment:besmirched_robes",
+  "advancement": "bewitchment:hidden_unlocks/witch_cauldron",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Цей непристойний одяг ідеально вписується в колекцію готичного стилю.$(l:bewitchment:creatures/demon) Демони$() будь-якого виду нездатні відрізнити власника заговореної броні від своїх родичів, що дає їм змогу торгувати з ними.$(br2)Килими з цієї тканини ідеально підходять для $(l:bewitchment:introduction/altars)Вівтарів$()."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:besmirched_hat",
+	  "recipe2": "bewitchment:besmirched_hood"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:besmirched_robes",
+	  "recipe2": "bewitchment:besmirched_pants"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:besmirched_wool",
+	  "recipe2": "bewitchment:besmirched_carpet"
+	}
+  ]
+}

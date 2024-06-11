@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Провісник",
+  "icon": "bewitchment:harbinger",
+  "advancement": "bewitchment:hidden_unlocks/harbinger",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Здобутий шляхом перемоги над $(l:bewitchment:creatures/lilith)Королевою вампірів$() у бою ці черевики мають захист, який можна порівняти з Незеритовими чоботами.$(br2) Через їхню темну енергію нежить нейтральна до власника.$(br2) Провісника можна відновити за допомогою Незеритових злитків.$(br2)."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "item": "bewitchment:harbinger"
+	}
+  ]
+}

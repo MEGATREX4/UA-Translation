@@ -1,0 +1,17 @@
+{
+  "category": "bewitchment:curses",
+  "name": "Несамовитість",
+  "icon": "minecraft:red_mushroom",
+  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Це $(l:bewitchment:curses/conducting_curses)Прокляття$() розкладає розум...  Це призведе до того, що уражена ціль побачить монстрів, яких не існує.$(br2)Він не зможе атакувати їх; однак це не стосується видінь."
+	},
+	{
+	  "type": "bewitchment:curse",
+	  "recipe": "bewitchment:curses/insanity",
+	  "text": "Це $(l:bewitchment:curses/conducting_curses)Сильне Прокляття$(); позбутися його трохи складніше."
+	}
+  ]
+}

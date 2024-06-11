@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Приглушення",
+  "icon": "minecraft:honeycomb",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Погіршує слух для того, у кого є цей ефект."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Приглушення",
+	  "item": "minecraft:honeycomb",
+	  "text": "Що вища інтенсивність зілля, то сильніше зменшується звук."
+	}
+  ]
+}

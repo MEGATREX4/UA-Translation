@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:poppets",
+  "name": "Захист від смерті",
+  "icon": "bewitchment:death_protection_poppet",
+  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Жнець смерті не має нічого проти тебе, коли ти використовуєш Маріонетку захисту від смерті.$(br2)Дуже схожий на Тотем Безсмертя, ця $(l:bewitchment:poppets/poppet_practice)маріонетка$() одного разу врятує тебе від смерті.$(br2)Маріонетка захисту від смерті не працюють в $(l:bewitchment:tools/poppet_shelves)поличці для маріонеток$()."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:death_protection_poppet" 
+	}
+  ]
+}

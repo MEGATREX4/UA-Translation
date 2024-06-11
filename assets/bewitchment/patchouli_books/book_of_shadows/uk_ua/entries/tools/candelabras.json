@@ -1,0 +1,21 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Канделябри",
+  "icon": "bewitchment:iron_candelabra",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Канделябри - одне з химерних джерел освітлення. $(br2) Їх можна запалити за допомогою кресала. Коли вони горять, вони будуть відштовхувати $(l:bewitchment:creatures/ghost)Привидів$(), не дозволяючи їм наближатися до нього. Залежно від матеріалу, з якого зроблено канделябр, збільшується і відштовхувальний ефект."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:iron_candelabra",
+	  "recipe2": "bewitchment:golden_candelabra"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:silver_candelabra",
+	  "recipe2": "bewitchment:netherite_candelabra"
+	}
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:curses",
+  "name": "Нещастя",
+  "icon": "minecraft:clay_ball",
+  "advancement": "minecraft:nether/find_fortress",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Це класичне $(l:bewitchment:curses/conducting_curses)Прокляття$() іноді застосовуватиме неприємні ефекти. Вони включають, але не обмежуються ними: Отруту, Слабкість, Сліпоту і Нудоту."
+	},
+	{
+	  "type": "bewitchment:curse",
+	  "recipe": "bewitchment:curses/misfortune"
+	}
+  ]
+}

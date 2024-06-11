@@ -1,0 +1,13 @@
+{
+  "category": "bewitchment:contracts",
+  "name": "Контракти",
+  "icon": "bewitchment:demonic_contract",
+  "advancement": "bewitchment:hidden_unlocks/demon_horn",
+  "priority": true,
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Контракти - це потойбічні договори, куплені у $(l:bewitchment:creatures/demon)демонів$() ціною здоров'я.$(br2) Контракти зазвичай тривають сім днів і не можуть бути розірвані."
+	}
+  ]
+}

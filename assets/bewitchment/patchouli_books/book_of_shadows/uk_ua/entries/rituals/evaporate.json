@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "[Ритуал] Випаровування",
+  "icon": "minecraft:netherrack",
+  "advancement": "bewitchment:hidden_unlocks/chalk",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Цей $(l:bewitchment:rituals/rituals)Ритуал$() спрямовує енергію вогню, випаровуючи будь-яку воду, що знаходиться поблизу."
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:rituals/evaporate"
+	}
+  ]
+}

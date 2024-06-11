@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:poppets",
+  "name": "Прокляття",
+  "icon": "bewitchment:curse_poppet",
+  "advancement": "bewitchment:hidden_unlocks/taglock",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Маріонетка із захистом від проклять захистить свого власника від $(l:bewitchment:curses/conducting_curses)прокляття$(). $(l:bewitchment:poppets/poppet_practice)Маріонетка$() робить це, поглинаючи $(l:bewitchment:curses/conducting_curses)прокляття$() як губка. $(br2)Щойно $(l:bewitchment:poppets/poppet_practice)маріонетка$() успішно поглинула $(l:bewitchment:curses/conducting_curses)прокляття$(), її можна відобразити назад власнику $(l:bewitchment:curses/conducting_curses)прокляття$()."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:curse_poppet"
+	}
+  ]
+}

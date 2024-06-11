@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "[Ритуал] Повіні",
+  "icon": "minecraft:water_bucket",
+  "advancement": "bewitchment:hidden_unlocks/chalk",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Слабенький $(l:bewitchment:rituals/rituals)Ритуал$(), який викликає духів води, щоб викликати дощ.$(br2)Сам дощ надприродний, з приблизним проміжком часу до половини дня - це за умови, що $(l:bewitchment:rituals/rituals)Ритуал$() не був $(l:bewitchment:creatures/cat)якимось чином посилений$()."
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:rituals/deluge"
+	}
+  ]
+}

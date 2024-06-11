@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "[Ритуал] Урагану",
+  "icon": "minecraft:feather",
+  "advancement": "bewitchment:hidden_unlocks/chalk",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Чарівним чином створюючи чарівний вітер, цей $(l:bewitchment:rituals/rituals)Ритуал$() видаляє всі довколишні рослини і листя.$(br2)Він також запускає будь-які об'єкти, захоплені поривом вітру, дуже високо в повітря."
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:rituals/hurricane"
+	}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "category": "bewitchment:contracts",
+  "name": "Смерть",
+  "icon": "bewitchment:demonic_contract",
+  "advancement": "bewitchment:hidden_unlocks/demon_horn",
+  "sortnum": 2,
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "$(l:bewitchment:contracts/concept_contracts)Контракт$() смерті змушує вас бажати смерті інших живих істот.$(br2) Усе, що буде вбито вашою рукою - зцілить вас."
+	}
+  ]
+}

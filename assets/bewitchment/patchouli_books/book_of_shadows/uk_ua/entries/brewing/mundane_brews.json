@@ -1,0 +1,160 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Звичайні Зілля",
+  "icon": "bewitchment:witch_cauldron",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "priority": true,
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Тоді як $(l:bewitchment:tools/witch_cauldron)відьомський каназ$() може бути використаний для створення набагато неймовірнішого $(l:bewitchment:brewing/brewing_basics)зілля$(), деякі відьми іноді вважають за краще використовувати простіші $(l:bewitchment:brewing/brewing_basics)зілля$().$(br)Всі $(l:bewitchment:brewing/brewing_basics)зілля$() у цьому записі можна отримати за допомогою інших інгредієнтів, через $(l:bewitchment:tools/witch_cauldron)відьомський казан$(), він дасть вам змогу зробити їх сильнішими.$(br)Для приготування мирського $(l:bewitchment:brewing/brewing_basics)зілля$() у $(l:bewitchment:tools/witch_cauldron)відьомському котлі$() використовуйте дещо інші інгредієнти."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Поглинання",
+	  "item": "minecraft:honey_bottle",
+	  "text": "Тимчасово збільшує здоров'я."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Сліпота",
+	  "item": "minecraft:ink_sac",
+	  "text": "Різко зменшує поле зору цілі, затемнюючи все навколо неї."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Вогнестійкість",
+	  "item": "minecraft:nether_wart",
+	  "text": "Дає імунітет до вогню."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Сяйво",
+	  "item": "minecraft:glistering_melon_slice",
+	  "text": "Примушує ціль неприємно світитися."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Поспіх",
+	  "item": "minecraft:dandelion",
+	  "text": "Збільшує швидкість видобутку і швидкість атаки."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Голод",
+	  "item": "minecraft:rotten_flesh",
+	  "text": "Застосовує ефект голоду."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Миттєве відновлення здоров'я",
+	  "item": "bewitchment:garlic",
+	  "text": "Миттєво відновлює невелику кількість здоров'я, використовуючи цілющі властивості $(l:bewitchment:introducton/crops)часнику$()."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Миттєва шкода",
+	  "item": "bewitchment:cypress_bark",
+	  "text": "Миттєво завдає мінімальної шкоди здоров'ю, використовуючи смертоносну енергію $(l:bewitchment:introduction/cypress_trees)кипарису$()."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Невидимість",
+	  "item": "minecraft:vine",
+	  "text": "Робить ціль невидимою."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Збільшення стрибка",
+	  "item": "minecraft:rabbit_foot",
+	  "text": "Збільшення стрибка говорить саме за себе."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Левітація",
+	  "item": "minecraft:chorus_fruit",
+	  "text": "Ціль повільно здіймається в небо."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Втома від видобудку",
+	  "item": "minecraft:poppy",
+	  "text": "Швидкість видобутку значно знижується."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Нудота",
+	  "item": "bewitchment:aconite",
+	  "text": "Викликає дезорієнтацію у цілі."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Котячий зір",
+	  "item": "minecraft:carrot",
+	  "text": "Морква корисна для ваших очей."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Отрута",
+	  "item": "bewitchment:belladonna",
+	  "text": "Наповнює кров цілі смертельним токсином."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Регенерація",
+	  "item": "bewitchment:juniper_bark",
+	  "text": "Використовуючи життєву енергію $(l:bewitchment:introduction/juniper_trees)ялівцю$(), прискорює процес регенерації.",
+	  "anchor": "regeneration"
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Стійкість",
+	  "item": "bewitchment:spruce_bark",
+	  "text": "Зменшує одержувану шкоду.",
+	  "anchor": "resistance"
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Повільне падіння",
+	  "item": "minecraft:feather",
+	  "text": "Змушує ціль падати м'яко, як пір'їнка."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Повільність",
+	  "item": "minecraft:slime_ball",
+	  "text": "Зменшує швидкість пересування цілі."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Швидкість",
+	  "item": "minecraft:sugar_cane",
+	  "text": "Збільшує швидкість пересування."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Сила",
+	  "item": "bewitchment:oak_bark",
+	  "text": "Використовуючи силу Дуба, збільшує наносиму шкоду.",
+	  "anchor": "strength"
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Підводне дихання",
+	  "item": "minecraft:kelp",
+	  "text": "Дає змогу дихати під водою."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Слабкість",
+	  "item": "minecraft:red_mushroom",
+	  "text": "Зменшує шкоду від атаки цілі."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Висушення",
+	  "item": "minecraft:wither_rose",
+	  "text": "Поступово зменшує здоров'я цілі."
+	}
+  ]
+}

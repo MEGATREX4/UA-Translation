@@ -1,0 +1,26 @@
+{
+  "category": "bewitchment:creatures",
+  "name": "Ліліт",
+  "icon": "bewitchment:lilith_spawn_egg",
+  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Ліліт, Матір $(l:bewitchment:creatures/vampire)вампірів$().$(br2)$(l:bewitchment:tools/grotesque_stew)Присяга$() їй, дасть вам змогу вільно перевтілюватися в кажана, даючи змогу вільно переміщатися в повітрі. Як альтернативу їй можна запропонувати $(l:bewitchment:introduction/crops)часник$(), звільняючи жертву від її $(l:bewitchment:curses/conducting_curses)прокльона$()."
+	},
+	{
+	  "type": "patchouli:entity",
+	  "entity": "bewitchment:lilith",
+	  "offset": 0.2
+	},
+	{
+	  "type": "patchouli:text",
+	  "title": "Виклик Ліліт",
+	  "text": "Щоб викликати Ліліт, необхідно кілька речей:$(li) $(l:bewitchment:tools/brazier#mortal_coil)Пахощі смертної спіралі$()$(li) Курка $(li)Гірський або льодовий біом$(br2)По-перше, запустітьы $(l:bewitchment:tools/brazier#incense)Жаровню$() у правильному біомі, вночі. Потім вам потрібно буде вбити курку за допомогою $(l:bewitchment:tools/athame)Атама$(), не далеко від місця проведення ритуалу."
+	},
+	{
+	  "type": "patchouli:text",
+	  "text": "Ти захочеш залишити Ліліт поруч, якщо захочеш дати їй$(l:bewitchment:tools/grotesque_stew)присягу$(), так що думай добре де ти її викличеш$(br2)Прийнявши $(l:bewitchment:tools/grotesque_stew)присягу$(), ви зможете перемикати свою форму на кажана, натиснувши [$(k:bewitchment.transformation_ability)]."
+	}
+  ]
+}

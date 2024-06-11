@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:poppets",
+  "name": "Маріонетка захисту від вуду",
+  "icon": "bewitchment:voodoo_protection_poppet",
+  "advancement": "bewitchment:hidden_unlocks/taglock",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Маріонетка захисту від вуду - це захисна відповідь на $(l:bewitchment:poppets/voodoo)Ляльку вуду$().$(br2)Перенаправляючи шкідливу енергію, будь-хто, хто пов'язаний з нею, повністю несприйнятливий до впливу $(l:bewitchment:poppets/voodoo)ляльки вуду$()."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:voodoo_protection_poppet"
+	}
+  ]
+}

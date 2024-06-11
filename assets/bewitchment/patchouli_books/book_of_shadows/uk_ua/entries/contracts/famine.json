@@ -1,0 +1,13 @@
+{
+  "category": "bewitchment:contracts",
+  "name": "Голод",
+  "icon": "bewitchment:demonic_contract",
+  "advancement": "bewitchment:hidden_unlocks/demon_horn",
+  "sortnum": 2,
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Під час голоду при активному $(l:bewitchment:contracts/concept_contracts)контракті$(), отримана шкода зменшується пропорційно тому, наскільки ви голодні."
+	}
+  ]
+}

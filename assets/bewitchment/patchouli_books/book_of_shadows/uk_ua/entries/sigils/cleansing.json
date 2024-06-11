@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:sigils",
+  "name": "[Сигіл] Очищення",
+  "icon": "bewitchment:cleansing_sigil",
+  "advancement": "minecraft:nether/find_fortress",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "$(l:bewitchment:sigils/using_sigils)Активація сигілу$() Очищення видаляє всі шкідливі ефекти зілля в того, хто його активує."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:cleansing_sigil"
+	}
+  ]
+}

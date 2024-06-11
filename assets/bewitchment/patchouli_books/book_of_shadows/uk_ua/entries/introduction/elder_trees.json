@@ -1,0 +1,53 @@
+{
+  "category": "bewitchment:introduction",
+  "name": "Дерева Бузини",
+  "icon": "bewitchment:elder_sapling",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Це благородне дерево росте в лісових біомах. Воно часто асоціюється зі знаннями та інтелектом.$(br2)Блоки, виготовлені з цього дерева, можуть бути заблоковані за допомогою  $(l:bewitchment:introduction/silver)злитка срібла$().$(br2)Можна використовувати $(l:bewitchment:tools/taglock)Теґлок$() для того, що б внести в білий/чорний список певних гравців. Список можна перемикати за допомогою $(l:bewitchment:tools/athame)Атама$() використовуючи [Shift]."
+	},
+	{
+	  "type": "patchouli:image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/elder_tree.png"
+	  ],
+	  "border": true
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:elder_wood",
+	  "recipe2": "bewitchment:elder_planks"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:elder_stairs",
+	  "recipe2": "bewitchment:elder_slab"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:elder_fence",
+	  "recipe2": "bewitchment:elder_fence_gate"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:elder_pressure_plate",
+	  "recipe2": "bewitchment:elder_button"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:elder_trapdoor",
+	  "recipe2": "bewitchment:elder_door"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:elder_chest",
+	  "recipe2": "bewitchment:trapped_elder_chest"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:elder_sign",
+	  "recipe2": "bewitchment:elder_boat"
+	}
+  ]
+}

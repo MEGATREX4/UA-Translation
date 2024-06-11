@@ -1,0 +1,45 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Жаровня",
+  "icon": "bewitchment:brazier",
+  "advancement": "minecraft:nether/find_fortress",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Жаровня - незамінний інструмент для $(l:bewitchment:curses/conducting_curses)Проклять$(). Окрім цього, її можна використовувати для $(l:bewitchment:tools/brazier#incense)Пахощів$().$(br2)Жаровня може вмістити до чотирьох предметів. Щоб почати нею користуватися, вам потрібно запалити її за допомогою кресала."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:brazier",
+	  "text": "Для зручності жаровні також можна прикріпити до стелі."
+	},
+	{
+	  "type": "patchouli:text",
+	  "title": "Пахощі",
+	  "anchor": "incense",
+	  "text": "Пахощі - це простий спосіб використання жаровні. Пахощі можуть застосовувати розширені ефекти стану після пробудження. $(br2)Просто запаліть найближчу жаровню з необхідними інгредієнтами і лягайте спати."
+	},
+	{
+	  "type": "bewitchment:incense_compressed",
+	  "recipe1": "bewitchment:incenses/light",
+	  "recipe2": "bewitchment:incenses/dark"
+	},
+	{
+	  "type": "bewitchment:incense_compressed",
+	  "recipe1": "bewitchment:incenses/water",
+	  "recipe2": "bewitchment:incenses/fire"
+	},
+	{
+	  "type": "bewitchment:incense_compressed",
+	  "recipe1": "bewitchment:incenses/earth",
+	  "recipe2": "bewitchment:incenses/air"
+	},
+	{
+	  "type": "bewitchment:incense",
+	  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+	  "recipe": "bewitchment:incenses/mortal_coil",
+	  "anchor": "mortal_coil",
+	  "text": "Пахощі Смертельної Спіралі використовують для досить непристойних обрядів.$(br2)$(o)Можливо, ви не захочете готувати це перед сном $()."
+	}
+  ]
+}

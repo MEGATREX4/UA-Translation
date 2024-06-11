@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:poppets",
+  "name": "Маріонетка вампіра",
+  "icon": "bewitchment:vampiric_poppet",
+  "advancement": "bewitchment:hidden_unlocks/taglock",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Маріонетка вампіра переносить шкоду, що завдається користувачеві, на пов'язану сутність за рахунок міцності.$(br2)За іронією долі, це схоже не працює на $(l:bewitchment:creatures/vampire)Вампірів$().$(br2)Маріонетка вампіра не працює у $(l:bewitchment:tools/poppet_shelves)полиці для маріонеток$()."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:vampiric_poppet"
+	}
+  ]
+}

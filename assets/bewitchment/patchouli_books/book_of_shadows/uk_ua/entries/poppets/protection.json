@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:poppets",
+  "name": "Захист",
+  "icon": "bewitchment:protection_poppet",
+  "advancement": "bewitchment:hidden_unlocks/taglock",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Захисна маріонетка не врятує вас від зомбі або скелетів; однак вона захистить від джерел шкоди навколишньому середовищу, як-от пожежа, утоплення тощо."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:protection_poppet"
+	}
+  ]
+}

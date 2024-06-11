@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:curses",
+  "name": "Лікантропія",
+  "icon": "bewitchment:aconite",
+  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Лікантропія - це люта хвороба, яка залишає шрами на розумі, тілі та душі. При повному місяці його жертви перетворюються на $(l:bewitchment:creatures/werewolf)Перевертнів$() прагнучи свіжого м'яса.$(br2)Будучи фізично сильним у звіриній формі, мають слабкість до $(l:bewitchment:introduction/silver)Срібла$(), воно завдасть їм великої шкоди, і так само рослина $(l:bewitchment:introduction/crops)Тоя$(). $(l:bewitchment:creatures/werewolf)Перевертні$() також харчуються виключно м'ясом, незалежно від їхньої форми."
+	},
+	{
+	  "type": "patchouli:text",
+	  "text": "Їхня слабкість до $(l:bewitchment:introduction/silver)Срібла$() також передбачає нездатність утримувати такі інструменти, як $(l:bewitchment:tools/athame)Атам$() дуже довго.$(br2)Лікантропією заражаються від іншого $(l:bewitchment:creatures/werewolf)Перевертня$()."
+	}
+  ]
+}

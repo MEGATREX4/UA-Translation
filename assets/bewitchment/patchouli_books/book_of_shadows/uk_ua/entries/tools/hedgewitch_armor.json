@@ -1,0 +1,27 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Відьомський одяг",
+  "icon": "bewitchment:hedgewitch_robes",
+  "advancement": "bewitchment:hidden_unlocks/witch_cauldron",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Ця стара класика зарекомендувала себе протягом століть чаклунства. При носінні вона збільшує врожайність.$(br2)Килими з тієї ж тканини також можна розмістити на $(l:bewitchment:introduction/altars)Вівтарі$()."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:hedgewitch_hat",
+	  "recipe2": "bewitchment:hedgewitch_hood"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:hedgewitch_robes",
+	  "recipe2": "bewitchment:hedgewitch_pants"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:hedgewitch_wool",
+	  "recipe2": "bewitchment:hedgewitch_carpet"
+	}
+  ]
+}

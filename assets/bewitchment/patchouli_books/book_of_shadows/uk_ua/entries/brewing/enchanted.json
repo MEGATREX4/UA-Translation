@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Зачарований",
+  "icon": "minecraft:lapis_block",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Робить звичайні атаки магічними, дозволяючи їм проходити броню."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Зачарований",
+	  "item": "minecraft:lapis_block",
+	  "text": "Магічна шкода нижча за фізичну, однак залежно від сили ефекту додається непоганий бонус до шкоди."
+	}
+  ]
+}

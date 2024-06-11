@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:poppets",
+  "name": "Вуду",
+  "icon": "bewitchment:voodoo_poppet",
+  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Лялька Вуду - це класика.$(br2) Її можна використовувати для переміщення об'єктів, втоплення їх, підпалу і навіть застосування до них ефектів зілля з будь-якого місця!$(br2)Ляльки Вуду не працюють у $(l:bewitchment:tools/poppet_shelves)полиці для маріонеток$()."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:voodoo_poppet"
+	}
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Загальмований",
+  "icon": "bewitchment:silver_ingot",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Цей ефект блокує використання $(l:bewitchment:introduction/altars#internalme)Магічної енергії$() Це означає, що вони не можуть використовувати предмети, що вимагають $(l:bewitchment:introduction/altars)Магічну енергію$()."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Загальмований",
+	  "item": "bewitchment:silver_ingot",
+	  "text": "Ефект ніяк не посилити."
+	}
+  ]
+}

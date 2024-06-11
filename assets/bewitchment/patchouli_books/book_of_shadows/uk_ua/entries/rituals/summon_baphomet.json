@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "[Ритуал] Виклику Бафомета",
+  "icon": "bewitchment:baphomet_spawn_egg",
+  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Цей $(l:bewitchment:rituals/rituals)Ритуал$() викликає $(l:bewitchment:creatures/baphomet)Бафомета$(); тримайте подалі живих істот від місця для заклику Бафомета.$(br2)Підготуйте $(l:bewitchment:tools/grotesque_stew)Гротескне рагу$(), якщо ви захочете дати Бафомету $(l:bewitchment:tools/grotesque_stew)присягу$().$(br2) $(l:bewitchment:rituals/rituals)Ритуал$() починається з принесення в жертву вівці за допомогою $(l:bewitchment:tools/athame)Атама$()."
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:rituals/summon_baphomet"
+	}
+  ]
+}

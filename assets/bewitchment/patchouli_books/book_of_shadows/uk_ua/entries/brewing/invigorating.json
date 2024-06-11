@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Надхненний",
+  "icon": "bewitchment:elder_bark",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Цей ефект заповнить  $(l:bewitchment:introduction/altars#internalme)Магічну енергію$(), на фіксовану суму"
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Надхненний",
+	  "item": "bewitchment:elder_bark",
+	  "text": "Сила ефекту збільшить кількість отриманої $(l:bewitchment:introduction/altars#internalme)Магічної енергії$()."
+	}
+  ]
+}

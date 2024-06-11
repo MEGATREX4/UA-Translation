@@ -1,0 +1,17 @@
+{
+  "category": "bewitchment:sigils",
+  "name": "[Сигіл] Тіні",
+  "icon": "bewitchment:shadows_sigil",
+  "advancement": "minecraft:nether/find_fortress",
+  "sortnum": 1,
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Цей $(l:bewitchment:sigils/using_sigils)Пасивний Сигіл$() створює навколо нього магічну ауру темряви, що запобігає віщуванню за допомогою $(l:bewitchment:tools/crystal_ball)Кришталевих куль$(), які націлені навколо нього."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:shadows_sigil"
+	}
+  ]
+}

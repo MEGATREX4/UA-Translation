@@ -1,0 +1,17 @@
+{
+  "category": "bewitchment:sigils",
+  "name": "[Сигіл] Тяжкосці",
+  "icon": "bewitchment:heavy_sigil",
+  "advancement": "minecraft:nether/find_fortress",
+  "sortnum": 1,
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "$(l:bewitchment:sigils/using_sigils)Пасивний Сигіл$() Тяжкості, чарівним чином збільшує шкоду від падіння у всього навколо нього."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:heavy_sigil"
+	}
+  ]
+}

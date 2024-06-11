@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Назар",
+  "icon": "bewitchment:nazar",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Використовуючи сили світла, Назар зазвичай використовують для захисту від $(l:bewitchment:curses/conducting_curses)Проклять$().$(br2)При носінні воно скоротить тривалість будь-якого $(l:bewitchment:curses/conducting_curses)Прокляття$() наполовину.$(br2) Для цього потрібно близько половини запасів власника $(l:bewitchment:introduction/altars#internalme)Магічної енергії$()"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:nazar"
+	}
+  ]
+}

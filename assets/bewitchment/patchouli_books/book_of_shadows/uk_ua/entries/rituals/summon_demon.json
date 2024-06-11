@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "[Ритуал] Виклику Демона",
+  "icon": "bewitchment:demon_spawn_egg",
+  "advancement": "bewitchment:hidden_unlocks/demon_horn",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Цей $(l:bewitchment:rituals/rituals)Ритуал$() викликає $(l:bewitchment:creatures/demon)Демона$() зі свого пекельного дому, принісши в жертву людину, використовуючи $(l:bewitchment:tools/athame)Атам$().$(br2)$(l:bewitchment:creatures/demon)Демони$() пропонують безліч пропозицій, але зазвичай вони нападають на тебе, якщо ти не одягнеш $(l:bewitchment:tools/besmirched_armor)Заговорену броню$().$(br2)Якщо вони нападуть на вас, тримайте їх подалі від будь-чого легкозаймистого."
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:rituals/summon_demon"
+	}
+  ]
+}

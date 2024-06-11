@@ -1,0 +1,62 @@
+{
+  "category": "bewitchment:introduction",
+  "name": "Вівтарі",
+  "icon": "bewitchment:stone_witch_altar",
+  "advancement": "bewitchment:hidden_unlocks/barks",
+  "priority": true,
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Вівтарі - те, що потрібно для відьми насамперед. Їх можна використовувати для збору Магічної енергії. Ця енергія необхідна для більшості видів чаклунства і збирається з довколишніх рослин. Вам знадобиться багато різних рослин, щоб зібрати максимальну потужность."
+	},
+	{
+	  "type": "patchouli:text",
+	  "text": "Ви також можете розмістити мечі, канделябри та пентаклі на вершині вівтаря, щоб модифікувати його.$(br2)Мечі збільшать множник сховища. Пентаклі, такі як Черепа і дорогоцінні камені, збільшать вихід. $(l:bewitchment:tools/candelabras)Канделябри$(), ліхтарі та факели дадуть фіксований бонус до потужності."
+	},
+	{
+	  "type": "patchouli:text",
+	  "text": "Вівтарі створюються шляхом укладання килима на їхній базовий блок. Вибір базового блоку і килима має виключно косметичний характер і прив'язаний до однієї з трьох сфер.$(br2)Прилеглий вівтар заповнює Внутрішній буфер Магічної енергії гравця, який використовується для магії, дрібничок(амулети/сережки ітд.) або дляі $(l:bewitchment:tools/brooms)мітли$().",
+	  "anchor": "internalme"
+	},
+	{
+	  "type": "patchouli:image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/altar.png"
+	  ],
+	  "border": true
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "title": "Верхній Світ",
+	  "recipe": "bewitchment:stone_witch_altar",
+	  "recipe2": "bewitchment:mossy_cobblestone_witch_altar"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "title": " ",
+	  "recipe": "bewitchment:prismarine_witch_altar"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "title": "Нижній світ",
+	  "recipe": "bewitchment:nether_brick_witch_altar",
+	  "recipe2": "bewitchment:blackstone_witch_altar"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "title": " ",
+	  "recipe": "bewitchment:golden_witch_altar"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "title": "Енд",
+	  "recipe": "bewitchment:end_stone_witch_altar",
+	  "recipe2": "bewitchment:obsidian_witch_altar"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "title": " ",
+	  "recipe": "bewitchment:purpur_witch_altar"
+	}
+  ]
+}

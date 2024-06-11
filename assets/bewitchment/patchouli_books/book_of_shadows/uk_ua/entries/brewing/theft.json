@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Крадіжка",
+  "icon": "minecraft:diamond",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Цей ефект вкраде позитивні ефекти будь-якого прилеглого об'єкта і застосує їх до вас. Зовнішні ефекти є винятком із цього правила."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Крадіжка",
+	  "item": "minecraft:diamond",
+	  "text": "Крадіжка ефекту зменшить його тривалість удвічі.$(br2)Цей ефект несумісний із $(l:bewitchment:brewing/synchronized)Синхронізований$().$(br2)Що вища сила цього ефекту, то далі він поширюватиметься."
+	}
+  ]
+}

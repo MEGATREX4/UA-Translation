@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:curses",
+  "name": "Сонячний дотик",
+  "icon": "minecraft:sunflower",
+  "advancement": "minecraft:nether/find_fortress",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Послаблюючи шкіру цілі, це $(l:bewitchment:curses/conducting_curses) Прокляття$() робить їх надзвичайно вразливими до сонячного світла. $(br2) Насправді сонце буквально підпалює прокляту ціль."
+	},
+	{
+	  "type": "bewitchment:curse",
+	  "recipe": "bewitchment:curses/solar_hatred"
+	}
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Атам",
+  "priority": true,
+  "icon": "bewitchment:athame",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Атам - незамінний інструмент для будь-якої відьми. Його можна використовувати для збору голів у мобів, а також для інших цілей. Будучи зробленим із $(l:bewitchment:introduction/silver)Срібла$(), він ідеально підходить для боротьби з нечистю.$(br2)Пляшки з кров'ю можна отримати, убивши гуманоїда за допомогою Атама, тримаючи скляну пляшку в руці."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:athame",
+	  "text": "Атама також можна використовувати для запуску $(l:bewitchment:rituals/rituals)ритуалів$() за допомогою роздавача."
+	}
+  ]
+}

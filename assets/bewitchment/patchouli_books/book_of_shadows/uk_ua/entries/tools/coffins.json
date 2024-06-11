@@ -1,0 +1,90 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Труни",
+  "icon": "bewitchment:white_coffin",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Труни, які спочатку з'явилися через $(l:bewitchment:creatures/vampire)Вампірів$(), нещодавно знайшли популярність, особливо серед активних вночі відьом.$(br2)Коли ви спите в одному з них, ви можете пропустити день.$(br2)Труни, як і ліжка, можуть бути пофарбовані, якщо вони білі."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:white_coffin"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:orange_coffin",
+	  "recipe2": "bewitchment:orange_coffin_from_white_coffin"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:magenta_coffin",
+	  "recipe2": "bewitchment:magenta_coffin_from_white_coffin"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:light_blue_coffin",
+	  "recipe2": "bewitchment:light_blue_coffin_from_white_coffin"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:yellow_coffin",
+	  "recipe2": "bewitchment:yellow_coffin_from_white_coffin"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:lime_coffin",
+	  "recipe2": "bewitchment:lime_coffin_from_white_coffin"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:pink_coffin",
+	  "recipe2": "bewitchment:pink_coffin_from_white_coffin"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:gray_coffin",
+	  "recipe2": "bewitchment:gray_coffin_from_white_coffin"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:light_gray_coffin",
+	  "recipe2": "bewitchment:light_gray_coffin_from_white_coffin"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:cyan_coffin",
+	  "recipe2": "bewitchment:cyan_coffin_from_white_coffin"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:purple_coffin",
+	  "recipe2": "bewitchment:purple_coffin_from_white_coffin"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:blue_coffin",
+	  "recipe2": "bewitchment:blue_coffin_from_white_coffin"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:brown_coffin",
+	  "recipe2": "bewitchment:brown_coffin_from_white_coffin"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:green_coffin",
+	  "recipe2": "bewitchment:green_coffin_from_white_coffin"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:red_coffin",
+	  "recipe2": "bewitchment:red_coffin_from_white_coffin"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:black_coffin",
+	  "recipe2": "bewitchment:black_coffin_from_white_coffin"
+	}
+  ]
+}

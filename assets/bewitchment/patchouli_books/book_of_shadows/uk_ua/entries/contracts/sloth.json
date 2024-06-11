@@ -1,0 +1,13 @@
+{
+  "category": "bewitchment:contracts",
+  "name": "Лінь",
+  "icon": "bewitchment:demonic_contract",
+  "advancement": "bewitchment:hidden_unlocks/demon_horn",
+  "sortnum": 1,
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Лінь дозволяє вам відновлюватися набагато швидше, коли ви стоїте на місці."
+	}
+  ]
+}

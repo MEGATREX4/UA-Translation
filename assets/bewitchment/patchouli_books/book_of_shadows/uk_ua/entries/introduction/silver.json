@@ -1,0 +1,37 @@
+{
+  "category": "bewitchment:introduction",
+  "name": "Срібло",
+  "icon": "bewitchment:silver_ingot",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "З'являючись поруч із золотом, Срібло є символом чистоти.$(br2)Блоки срібла завдадуть шкоди нечисті, які стоять на ньому.$(br2)Щоразу, коли в цій книзі використовується термін *нечисть*, це рівноцінно тому, чи має дана сутність слабкість до зачарування Кари."
+	},
+	{
+	  "type": "patchouli:image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/silver_ore.png"
+	  ],
+	  "border": true
+	},
+	{
+	  "type": "patchouli:smelting",
+	  "recipe": "bewitchment:silver_ingot_from_smelting_raw_silver",
+	  "text": "Необроблене срібло може бути оброблено в пічці і доменних печах."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:raw_silver_block",
+	  "recipe2": "bewitchment:silver_block"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:silver_nugget"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:silver_arrow",
+	  "text": "Срібними стрілами можна стріляти так само, як звичайними стрілами, але у них є вбудований ефект Кари (smite)."
+	}
+  ]
+}

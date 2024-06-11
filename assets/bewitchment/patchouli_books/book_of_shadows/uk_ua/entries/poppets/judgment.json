@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:poppets",
+  "name": "Вирок",
+  "icon": "bewitchment:judgment_poppet",
+  "advancement": "bewitchment:hidden_unlocks/taglock",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Коли ви прив'язані до Маріонетки Вироку, будь-яка нечисть, яка нападе на вас, виявить, що її шкоду від атаки зменшено в 4 рази."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:judgment_poppet"
+	}
+  ]
+}

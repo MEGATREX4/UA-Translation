@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Поживний",
+  "icon": "minecraft:bamboo",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Ефект Поживності підвищує ефективність їжі."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Nourishing",
+	  "item": "minecraft:bamboo",
+	  "text": "Збільшення ефективності їжі маштабується силою самого ефекту."
+	}
+  ]
+}

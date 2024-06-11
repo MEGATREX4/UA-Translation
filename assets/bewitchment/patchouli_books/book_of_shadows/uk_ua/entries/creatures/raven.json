@@ -1,0 +1,21 @@
+{
+  "category": "bewitchment:creatures",
+  "name": "Ворон",
+  "icon": "bewitchment:raven_spawn_egg",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Ворони - темні птахи, яких можна зустріти на рівнинах і в лісах. Якщо вбити ворона, з нього випаде перо. $(br2) Воронів можна приручити Золотими самородками або Срібними самородками і розводити насінням пшениці."
+	},
+	{
+	  "type": "patchouli:text",
+	  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+	  "text": "Ворони-$(l:bewitchment:rituals/binding)фамільяри$(), дають відьмі змогу покращувати $(l:bewitchment:curses/conducting_curses)прокльони$().$(br2)Ворони-$(l:bewitchment:rituals/binding)фамільяри$() також подвоюють тривалість $(l:bewitchment:curses/conducting_curses)прокльонів$() накладених відьмою, що робить їх набагато ефективнішими."
+	},
+	{
+	  "type": "patchouli:entity",
+	  "entity": "bewitchment:raven",
+	  "scale": 0.6
+	}
+  ]
+}

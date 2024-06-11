@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:curses",
+  "name": "Гнів лісу",
+  "icon": "minecraft:oak_sapling",
+  "advancement": "minecraft:nether/find_fortress",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Це $(l:bewitchment:curses/conducting_curses)Прокляття$() віддає страждання природи назад на людство, змушуючи будь-кого $(l:bewitchment:curses/conducting_curses)Проклятого$() страждати так само, як і природа. Це подвоює шкоду від вогню, а також від сокир."
+	},
+	{
+	  "type": "bewitchment:curse",
+	  "recipe": "bewitchment:curses/forests_wrath"
+	}
+  ]
+}

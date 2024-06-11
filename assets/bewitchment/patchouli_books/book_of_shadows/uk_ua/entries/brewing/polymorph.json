@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Поліморфізм",
+  "icon": "bewitchment:taglock{OwnerName:Aelpecyem}",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Поліморфізм, мабуть, один з найбільш універсальних ефектів. Гравці, які перебувають під дією ефекту Поліморфа, змінюють свою форму на ціль за допомогою $(l:bewitchment:tools/taglock) Теґлока$().$(br2) Вариво може бути перетворено на Зілля Сплеску або аналогічні варіанти, як і інші варива."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Поліморфізм",
+	  "item": "bewitchment:taglock{FromPlayer: 1b, OwnerUUID: [I; 1672005179, -1854323673, -2070260447, 778045631], OwnerName:\"Aelpecyem\"}",
+	  "text": "Силу ефекту не поліпшити.$(br2)Це зілля працює при використанні $(l:bewitchment:tools/taglock)Екстрактора ДНК$() на іншому гравцеві."
+	}
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Заломлення",
+  "icon": "minecraft:phantom_membrane",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Викидає стріли від цілі, змушуючи їх повертатися з того місця, звідки їх було випущено."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Заломлення",
+	  "item": "minecraft:phantom_membrane",
+	  "text": "Стріли стають швидшими залежно від сили ефекту Заломлення."
+	}
+  ]
+}

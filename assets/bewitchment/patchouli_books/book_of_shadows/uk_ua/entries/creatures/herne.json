@@ -1,0 +1,26 @@
+{
+  "category": "bewitchment:creatures",
+  "name": "Херне",
+  "icon": "bewitchment:herne_spawn_egg",
+  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Херне - повелитель Дикого полювання. Він може надати майже повний контроль над $(l:bewitchment:curses/conducting_curses)прокляттями$(), дозволяючи жертвам трансформуватися за своїм бажанням. Як альтернативу йому можна запропонувати $(l:bewitchment:introduction/crops)Тою$(), видаляючи $(l:bewitchment:curses/conducting_curses)прокляття$() повністю.$(br2)Виклик його досить складний і буде описаний у цьому записі."
+	},
+	{
+	  "type": "patchouli:entity",
+	  "entity": "bewitchment:herne",
+	  "offset": 0.2
+	},
+	{
+	  "type": "patchouli:text",
+	  "title": "Виклик Херне",
+	  "text": "Щоб викликати Херне, необхідно кілька речей:$(li)$(l:bewitchment:tools/brazier#mortal_coil)жаровня$()$(li)вовк$(li)лісовий або біом тайги.$(br2)По-перше, запустіть $(l:bewitchment:tools/brazier#incense)жаровню$() вночі, у правильному біомі. Потім вам потрібно буде вбити Вовка за допомогою $(l:bewitchment:tools/athame)Атама$(), не надто далеко від місця проведення ритуалу виклику."
+	},
+	{
+	  "type": "patchouli:text",
+	  "text": "Вибирайте місце для цього з розумом; вам потрібно буде тримати Херне поблизу, якщо ви хочете принести йому $(l:bewitchment:tools/grotesque_stew)присягу$().$(br2)Якось після прийняття $(l:bewitchment:tools/grotesque_stew)присяги$(), ви зможете змінити свою людську форму на перевертня, натиснувши [$(k:bewitchment.transformation_ability)]."
+	}
+  ]
+}

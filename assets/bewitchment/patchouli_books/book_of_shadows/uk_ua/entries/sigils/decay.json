@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:sigils",
+  "name": "[Сигіл] Розпаду",
+  "icon": "bewitchment:decay_sigil",
+  "advancement": "minecraft:nether/find_fortress",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "$(l:bewitchment:sigils/using_sigils)Активація сигілу$() Розпаду застосовуватиме сильний ефект висушування."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:decay_sigil"
+	}
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "category": "bewitchment:creatures",
+  "name": "Змія",
+  "icon": "bewitchment:snake_spawn_egg",
+  "extra_recipe_mappings": {
+	"bewitchment:snake_tongue": 0
+  },
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Змії зазвичай з'являються в саванах, пустелях і рівнинах, де вони полюють на інших тварин, вбиваючи їх своєю отрутою.$(br2) Якщо вбити змію, з неї може впасти Зміїний Язик, так само як із $(l:bewitchment:creatures/hellhound)пекельного пса$().$(br2)Змій можна приручити Сирим кроликом і розводити Сирою куркою."
+	},
+	{
+	  "type": "patchouli:text",
+	  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+	  "text": "Змії можуть бути $(l:bewitchment:rituals/binding)фамільярами$(). Відьми зі змією $(l:bewitchment:rituals/binding)фамільяром$() здатні створювати набагато довговічніші $(l:bewitchment:sigils/using_sigils)сигіли$().$(br2)Крім того, вони отримують користь від отрути; вона не завдає їм шкоди і наповнює їх $(l:bewitchment:introduction/altars#internalme)Магічною енергією$()."
+	},
+	{
+	  "type": "patchouli:entity",
+	  "entity": "bewitchment:snake",
+	  "scale": 0.6
+	}
+  ]
+}

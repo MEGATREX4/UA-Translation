@@ -1,0 +1,17 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Загнивання",
+  "icon": "bewitchment:demon_horn",
+  "advancement": "bewitchment:hidden_unlocks/demon_horn",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Використовуючи $(l:bewitchment:brewing/brewing_basics)пивоваріння$(), за допомогою Рогу Демона, ви можете перетворити позитивні ефекти зілля на їхній негативний аналог. $(br2) У разі додавання як інгредієнта зілля розкладання завжди буде на першому місці, це означає, що вона інвертує всі попередні ефекти під час випивання, але не ефекти зілля."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Загнивання",
+	  "item": "bewitchment:demon_horn"
+	}
+  ]
+}

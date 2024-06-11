@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:sigils",
+  "name": "[Сигіл] Варти",
+  "icon": "bewitchment:sentinel_sigil",
+  "advancement": "minecraft:nether/find_fortress",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "$(l:bewitchment:sigils/using_sigils)Активація Сигілу$() ловить духа-$(l:bewitchment:creatures/ghost)Привида$(). Під час активації він застосує випадковий дебафф"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:sentinel_sigil"
+	}
+  ]
+}

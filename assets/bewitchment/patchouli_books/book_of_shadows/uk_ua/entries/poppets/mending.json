@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:poppets",
+  "name": "Лагодження",
+  "icon": "bewitchment:mending_poppet",
+  "advancement": "bewitchment:hidden_unlocks/taglock",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Подібно до рідкісного і бажаного зачарування, Маріонетка Лагодження полагодить броню і предмети того, хто до неї прив'язаний.$(br2)Цей ефект не застосовується пасивно; замість цього він застосовується щоразу, коли предмет зазвичай ламається, відновлюючи його міцність і ламається $(l:bewitchment:poppets/poppet_practice)куклу$() замість предмета."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:mending_poppet"
+	}
+  ]
+}

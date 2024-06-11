@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "[Ритуал] Удару",
+  "icon": "minecraft:redstone",
+  "advancement": "bewitchment:hidden_unlocks/chalk",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "$(l:bewitchment:rituals/rituals)Ритуал$() удару викликає блискавку біля $(l:bewitchment:rituals/rituals)Ритуалу$().$(br2)Це дуже добре працює із $(l:bewitchment:tools/waystone)Шляховим каменем$()."
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:rituals/smite"
+	}
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Чарівна губка",
+  "icon": "bewitchment:dragons_blood_resin",
+  "advancement": "minecraft:nether/find_fortress",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Чарівна губка зменшить шкоду від магічних джерел і своєю чергою поповнить $(l:bewitchment:introduction/altars#internalme)Магічну енергію$() залежно від отриманої шкоди."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Чарівна губка",
+	  "item": "bewitchment:dragons_blood_resin",
+	  "text": "Більш висока сила ефекту зменшує магічну шкоду."
+	}
+  ]
+}

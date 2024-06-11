@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:curses",
+  "name": "Арахнофобіяі",
+  "icon": "minecraft:spider_eye",
+  "advancement": "minecraft:nether/find_fortress",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Завдяки силі магії та випадковому безстатевому розмноженню цеі  $(l:bewitchment:curses/conducting_curses)Прокляття$() викличе масовий страх перед павуками, який може навіть тривати протягом усього терміну дії $(l:bewitchment:curses/conducting_curses)Прокляття$()."
+	},
+	{
+	  "type": "bewitchment:curse",
+	  "recipe": "bewitchment:curses/arachnophobia"
+	}
+  ]
+}

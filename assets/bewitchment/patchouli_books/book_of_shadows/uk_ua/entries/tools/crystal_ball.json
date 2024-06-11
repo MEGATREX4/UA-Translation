@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Кришталева Куля",
+  "icon": "bewitchment:crystal_ball",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Кришталеві кулі - звичайні інструменти для ворожіння. $(br2) При використанні вони принесуть заклинателю цілий статок $(l:bewitchment:introduction/altars)Mагічної енергії$(), взятий із сусіднього $(l:bewitchment:introduction/altars)Вівтаря$().$(br2)Додатково можуть бути використані кришталеві кулі для ворожіння. У разі використання разом із $(l:bewitchment:tools/taglock)Теґлоком$(), кришталева куля дасть точну інформацію про ціль."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:crystal_ball"
+	}
+  ]
+}

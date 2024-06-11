@@ -1,0 +1,21 @@
+{
+  "category": "bewitchment:creatures",
+  "name": "Жаба",
+  "icon": "bewitchment:toad_spawn_egg",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Жаб можна зустріти в джунглях і болотах, вони радісно стрибають навколо. Під час убивства жаби скидатимуть слиз. $(br2) Жаб можна приручити за допомогою оброблених Павучих очей і розводити зі звичайними Павучими очима."
+	},
+	{
+	  "type": "patchouli:text",
+	  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+	  "text": "Жаба $(l:bewitchment:rituals/binding)Фамільяр$() дає відьмі, яка викликала її, посилені позитивні статусні ефекти.$(br2) Вбивство жаб також зцілить таких відьом на чверть їхнього максимального здоров'я."
+	},
+	{
+	  "type": "patchouli:entity",
+	  "entity": "bewitchment:toad",
+	  "scale": 0.6
+	}
+  ]
+}

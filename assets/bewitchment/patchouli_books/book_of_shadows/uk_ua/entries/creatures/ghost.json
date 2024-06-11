@@ -1,0 +1,19 @@
+{
+  "category": "bewitchment:creatures",
+  "name": "Привиди",
+  "icon": "bewitchment:ghost_spawn_egg",
+  "extra_recipe_mappings": {
+	"bewitchment:ectoplasm": 1
+  },
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Привиди - це загублені душі, які блукають ночами, де тільки можуть.$(br2)Помітивши поблизу людей, вони застосують свої нетривалі прокльони у вигляді негативних ефектів.$(br2)Якщо вбити привида, з нього випаде ектоплазма."
+	},
+	{
+	  "type": "patchouli:entity",
+	  "entity": "bewitchment:ghost",
+	  "offset": 0.1
+	}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "category": "bewitchment:contracts",
+  "name": "Жадібність",
+  "icon": "bewitchment:demonic_contract",
+  "advancement": "bewitchment:hidden_unlocks/demon_horn",
+  "sortnum": 1,
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Коли гравець укладає $(l:bewitchment:contracts/concept_contracts)контракт$() жадібності, руди автоматично плавляться, а ресурсів випадає вдвічі більше."
+	}
+  ]
+}

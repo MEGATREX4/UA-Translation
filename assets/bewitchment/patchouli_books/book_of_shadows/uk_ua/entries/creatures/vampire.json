@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:creatures",
+  "name": "Вампір",
+  "icon": "bewitchment:vampire_spawn_egg",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Вампіри - повелителі ночі, у них мало слабкостей. Вони з'являються в рівнинах і тайгових біомах при Молодому місяці, коли найменше світла. $(br2) Відомо, що вони нападають на людей, тому вам слід озброїтися проти них вогнем або мечем із зачаруванням Кари."
+	},
+	{
+	  "type": "patchouli:entity",
+	  "entity": "bewitchment:vampire",
+	  "offset": 0.1
+	}
+  ]
+}

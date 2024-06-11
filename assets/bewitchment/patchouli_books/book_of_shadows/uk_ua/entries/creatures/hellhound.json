@@ -1,0 +1,20 @@
+{
+  "category": "bewitchment:creatures",
+  "name": "Пекельний пес",
+  "icon": "bewitchment:hellhound_spawn_egg",
+  "advancement": "minecraft:nether/root",
+  "extra_recipe_mappings": {
+	"bewitchment:demon_horn": 1
+  },
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Пекельні пси з'являються в пеклі.$(br2)Наповнені агресією, вони нападуть на будь-кого, хто опиниться поблизу, хоча й поважатимуть тих, хто носить $(l:bewitchment:tools/besmirched_armor)заговорену броню$().$(br2)Убивши пекельного пса, з нього випаде демонічний ріг."
+	},
+	{
+	  "type": "patchouli:entity",
+	  "entity": "bewitchment:hellhound",
+	  "scale": 0.6
+	}
+  ]
+}

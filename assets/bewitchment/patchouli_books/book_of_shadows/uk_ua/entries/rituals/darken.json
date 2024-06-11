@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "[Ритуал] Затемнення",
+  "icon": "minecraft:obsidian",
+  "advancement": "bewitchment:hidden_unlocks/chalk",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Цей $(l:bewitchment:rituals/rituals)Ритуал$() випускає хвилю темряви. Це знищить поблизу будь-які джерела світла які можна зруйнувати."
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:rituals/darken"
+	}
+  ]
+}

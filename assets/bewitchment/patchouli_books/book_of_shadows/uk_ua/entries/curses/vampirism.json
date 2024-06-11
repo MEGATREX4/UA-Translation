@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:curses",
+  "name": "Вампіризм",
+  "icon": "bewitchment:bottle_of_blood",
+  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Вампіризм - це жахливе $(l:bewitchment:curses/conducting_curses)Прокляття$(), більшість вважає його смертельним. $(br2)$(l:bewitchment:creatures/vampire)Вампири$() - технічно вони безсмертні, хоча їхнє безсмертя живиться людською кров'ю; без неї вони вмирають.$(br2)Вампіри мають невеликий бонус до швидкості пересування і шкоди від атаки. Крім того, вони мають слабкість до $(l:bewitchment:introduction/silver)Срібла$() і $(l:bewitchment:introduction/crops)Часнику$()."
+	},
+	{
+	  "type": "patchouli:text",
+	  "text": "Прокляття Вампіризму не може бути застосоване за допомогою $(l:bewitchment:tools/brazier)Жаровні$(); натомість його має вкусити інший $(l:bewitchment:creatures/vampire)Вампір$().$(br2)Щоб укласти контракт-$(l:bewitchment:curses/conducting_curses)прокляття$(), ціль повинна бути під $(l:bewitchment:curses/conducting_curses)Прокляттям$()  $(l:bewitchment:curses/susceptibility)Вразливості$() і бути вбитим одним з $(l:bewitchment:creatures/vampire)Вампірів$()... але, ціль повинна бути $(l:bewitchment:poppets/death_protection)Захищена від смерті$().$(br2)$(o)Але навіщо тобі це потрібно?$()"
+	}
+  ]
+}

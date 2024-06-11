@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "[Ритуал] Безсмертя",
+  "icon": "minecraft:diamond",
+  "advancement": "bewitchment:hidden_unlocks/chalk",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Цей $(l:bewitchment:rituals/rituals)Ритуал$() світла має вищий ступінь, що дарує тимчасове безсмертя. Будь-яка шкода - за винятком порожнечі - повністю анулюється.$(br2)Ефект поширюється на будь-яку живу істоту поблизу і триває близько половини дня."
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:rituals/immortality"
+	}
+  ]
+}

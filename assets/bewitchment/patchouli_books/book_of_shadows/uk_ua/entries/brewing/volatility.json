@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Невловимість",
+  "icon": "minecraft:fire_charge",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Робить ціль надзвичайно нестабільною. При влучанні в ціль, ефект викличе руйнівний вибух, який миттєво усуває ефект і завдає шкоди всім істотам навколо."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Невловимість",
+	  "item": "minecraft:fire_charge",
+	  "text": "Шкода від вибуху залежить від сили ефекту."
+	}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "category": "bewitchment:poppets",
+  "name": "Маріонеткова практика",
+  "icon": "bewitchment:voodoo_poppet",
+  "advancement": "bewitchment:hidden_unlocks/taglock",
+  "priority": true,
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Маріонетки - це зручні фігурки, які можна використовувати як для шкідливих, так і для захисних цілей.$(br2)Вони завжди прив'язані до об'єкта.$(br2)Щоб бути активними, вони мають бути у вашому інвентарі."
+	},
+	{
+	  "type": "bewitchment:multi_showcase",
+	  "header": "Маріонеткова практика",
+	  "item2": "bewitchment:voodoo_poppet",
+	  "item3": "bewitchment:taglock{FromPlayer: 1b, OwnerUUID: [I; 1672005179, -1854323673, -2070260447, 778045631], OwnerName: \"MoriyaShiine\"}",
+	  "text": "Щоб зв'язати маріонетку, просто з'єднайте її з $(l:bewitchment:tools/taglock)Теґлоком$() у сітці для крафта.$(br2)Спосіб, яким маріонетка впливає на об'єкт, значною мірою залежить від самої маріонетки, тож обов'язково ознайомтеся з відповідними записами."
+	}
+  ]
+}

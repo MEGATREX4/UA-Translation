@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "[Ритуал] Насичення",
+  "icon": "minecraft:enchanted_book",
+  "advancement": "bewitchment:hidden_unlocks/chalk",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Надзвичайно потужний $(l:bewitchment:rituals/rituals)Ритуал$(); викликаючи більш темніші сили води, він здатний накладати потужні чари на предмети.$(br2)Предмети, що підлягають зачаровуванню, мають бути кинуті в коло $(o)після того, як$() його було запущено.$(br2)Для кожного зачарованого предмета потрібно п'ять рівнів досвіду."
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:rituals/imbue"
+	}
+  ]
+}

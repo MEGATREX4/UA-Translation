@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "П'явковий",
+  "icon": "bewitchment:bottle_of_blood",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Зцілює ціль залежно від нанесеної шкоди."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "П'явковий",
+	  "item": "bewitchment:bottle_of_blood",
+	  "text": "Що вища сила ефекту, то більше здоров'я відновлюється.$(br2)Цей ефект не спрацює, якщо у вас є $(l:bewitchment:brewing//mundane_brews#strength)Сила$(), $(l:bewitchment:brewing/mundane_brews#regeneration)Регенерація$(), або $(l:bewitchment:brewing/mundane_brews#resistance)Стійкість.$()"
+	}
+  ]
+}

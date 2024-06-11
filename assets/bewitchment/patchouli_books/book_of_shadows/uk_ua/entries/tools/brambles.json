@@ -1,0 +1,47 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Ожини",
+  "icon": "bewitchment:thick_bramble",
+  "advancement": "bewitchment:hidden_unlocks/witch_cauldron",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Ожини - штучно створені за допомогою $(l:bewitchment:brewing/elemental_oils)Елементних екстрактів$().$(br2)Кожна ягода має унікальний ефект, пов'язаний зі своїм елементом."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:glowing_bramble",
+	  "text": "Мерехтлива ожина, випромінює світло і запобігає появі мобів у радіусі 24 блоків."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:ender_bramble",
+	  "text": "Ожина Енду телепортує все, що з ним зіткнеться, у випадкове місце в радіусі 64 блоків."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:fruiting_bramble",
+	  "text": "Ожина плодова вирощуватиме відьомську ожину, яку можна використовувати для виготовлення $(l:bewitchment:introduction/altars#internalme )Mагічної енергії$()-відновлювальні ласощі."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:scorched_bramble",
+	  "text": "Обпалена ожина підпалить сутності. Її також можна використовувати як відносно непогане паливо."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:thick_bramble",
+	  "text": "Через свою неймовірну товщину крізь Товсту ожину можна пройти тільки крадькома."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:fleeting_bramble",
+	  "text": "Швидкоплинна ожина запустить у повітря все, що потрапить у неї, якщо тільки вона не крадеться."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:witchberry_pie",
+	  "recipe2": "bewitchment:witchberry_cookie"
+	}
+  ]
+}

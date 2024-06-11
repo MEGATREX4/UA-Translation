@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "[Ритуал] Виклику Леонарда",
+  "icon": "bewitchment:leonard_spawn_egg",
+  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Цей $(l:bewitchment:rituals/rituals)Ритуал$() викликає Володаря $(l:bewitchment:brewing/brewing_basics)Пивоваріння$(), самого $(l:bewitchment:creatures/leonard)Леонарда$().$(br2)Переконайтеся, що тримайте його подалі від речей, які вам дорогі.$(br2)Підготуйте $(l:bewitchment:tools/grotesque_stew)Гротескне рагу$(), якщо ви захочете дати йому $(l:bewitchment:tools/grotesque_stew)Присягу$().$(br2) $(l:bewitchment:rituals/rituals)Ритуал$() починається з принесення в жертву вівці за допомогою $(l:bewitchment:tools/athame)Атама$()."
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:rituals/summon_leonard"
+	}
+  ]
+}

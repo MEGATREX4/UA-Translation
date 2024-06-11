@@ -1,0 +1,17 @@
+{
+  "category": "bewitchment:creatures",
+  "name": "Котики",
+  "icon": "minecraft:cat_spawn_egg",
+  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Котики - вибагливі істоти. Проте сама їхня присутність заспокоює багатьох.$(br2)Коли відьма пов'язана з $(l:bewitchment:rituals/binding)фамільяром$(), таким, як котик, це дуже допоможе з $(l:bewitchment:rituals/rituals)ритуалами$().$(br2)Крім того, Кріпери та Фантоми триматимуться подалі від відьми з Котиком-$(l:bewitchment:rituals/binding)фамільяром$()."
+	},
+	{
+	  "type": "patchouli:entity",
+	  "entity": "minecraft:cat",
+	  "scale": 0.6
+	}
+  ]
+}

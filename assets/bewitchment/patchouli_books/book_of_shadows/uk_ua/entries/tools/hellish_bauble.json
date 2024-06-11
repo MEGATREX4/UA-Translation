@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Пекельна дрібничка",
+  "icon": "bewitchment:hellish_bauble",
+  "advancement": "bewitchment:hidden_unlocks/demon_horn",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Завдяки силі вогню пекельна дрібничка робить власника несприйнятливим до вогню, використовуючи $(l:bewitchment:introduction/altars#internalme)Mагічну енергію$().$(br2) Будучи виготовленим із незериту, цей предмет повністю вогнестійкий."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:hellish_bauble"
+	}
+  ]
+}

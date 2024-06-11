@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Розмикання",
+  "icon": "minecraft:ender_pearl",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Відриває ціль, намагаючись телепортувати її в невеликому радіусі."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Розмикання",
+	  "item": "minecraft:ender_pearl",
+	  "text": "Радіус телепортації збільшується зі збільшенням потужності ефекту."
+	}
+  ]
+}

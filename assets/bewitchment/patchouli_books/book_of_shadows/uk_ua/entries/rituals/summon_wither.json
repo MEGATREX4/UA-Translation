@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "[Ритуал] Виклику візера",
+  "icon": "minecraft:wither_skeleton_skull",
+  "advancement": "bewitchment:hidden_unlocks/demon_horn",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Викликає візера.$(br2)Знаючи руйнівну здатність Візера, ви, ймовірно, захочете зробити це де-небудь подалі від свого будинку.$(br2)На відміну від більшості викликальних $(l:bewitchment:rituals/rituals)Ритуалів$(), цей не потребує жертвопринесення."
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:rituals/summon_wither"
+	}
+  ]
+}

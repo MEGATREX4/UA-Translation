@@ -1,0 +1,17 @@
+{
+  "category": "bewitchment:sigils",
+  "name": "[Сигіл] Розширення",
+  "icon": "bewitchment:extending_sigil",
+  "advancement": "minecraft:nether/find_fortress",
+  "sortnum": 1,
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "$(l:bewitchment:sigils/using_sigils)Пасивний Сигіл$() Розширення подвоює тривалість будь-яких найближчих $(l:bewitchment:tools/brazier#incense)Пахощів$() навколо нього."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:extending_sigil"
+	}
+  ]
+}

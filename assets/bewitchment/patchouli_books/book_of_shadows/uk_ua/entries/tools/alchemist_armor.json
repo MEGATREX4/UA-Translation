@@ -1,0 +1,27 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Одяг Алхіміка",
+  "icon": "bewitchment:alchemist_robes",
+  "advancement": "bewitchment:hidden_unlocks/witch_cauldron",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Ця висококласний одяг дає змогу власнику опанувати $(l:bewitchment:brewing/brewing_basics)Пивоваріння$().(br2)Килими, виготовлені з тієї ж тканини, можуть бути розміщені на $(l:bewitchment:introduction/altars)Вівтарях$()."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:alchemist_hat",
+	  "recipe2": "bewitchment:alchemist_hood"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:alchemist_robes",
+	  "recipe2": "bewitchment:alchemist_pants"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:alchemist_wool",
+	  "recipe2": "bewitchment:alchemist_carpet"
+	}
+  ]
+}

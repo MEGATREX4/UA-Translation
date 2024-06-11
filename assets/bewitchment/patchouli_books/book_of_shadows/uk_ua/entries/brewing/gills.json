@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Зябра",
+  "icon": "minecraft:cod",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Цей ефект замінює легені - зябрами, роблячи їх здатними дихати ТІЛЬКИ під водою."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Зябра",
+	  "item": "minecraft:cod",
+	  "text": "Для крафту можна використовувати будь-яку рибу."
+	}
+  ]
+}

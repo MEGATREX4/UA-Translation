@@ -1,0 +1,53 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "Ритуали",
+  "icon": "bewitchment:golden_chalk",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "priority": true,
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Ритуали - це потужна магічна практика, що використовується для безпосереднього впливу на світ. Вони розігруються шляхом малювання кіл і додавання відповідних інгредієнтів."
+	},
+	{
+	  "type": "patchouli:text",
+	  "text": "Ритуали потребують $(l:bewitchment:introduction/altars)Mагічну енергію$()-що надається $(l:bewitchment:introduction/altars)Вівтарем$() поблизу; сума в $(l:bewitchment:introduction/altars)Необхідної Mагічної енергії$() завжди зазначається в записах про ритуал$(br2)У кожного ритуалу є внутрішнє і необов'язкове зовнішнє коло, намальоване різною крейдою, залежно від ритуалу."
+	},
+	{
+	  "type": "patchouli:multiblock",
+	  "multiblock": {
+		"mapping": {
+		  "g": "bewitchment:glyph",
+		  "0": "bewitchment:golden_glyph"
+		},
+		"pattern": [
+		  [
+			"___ggggg___",
+			"__g_____g__",
+			"_g__ggg__g_",
+			"g__g___g__g",
+			"g_g_____g_g",
+			"g_g__0__g_g",
+			"g_g_____g_g",
+			"g__g___g__g",
+			"_g__ggg__g_",
+			"__g_____g__",
+			"___ggggg___"
+		  ]
+		]
+	  },
+	  "text": "Золотий Гільф завжди утворює центр кола."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:chalk",
+	  "recipe2": "bewitchment:golden_chalk",
+	  "anchor": "chalk"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:fiery_chalk",
+	  "recipe2": "bewitchment:eldritch_chalk"
+	}
+  ]
+}

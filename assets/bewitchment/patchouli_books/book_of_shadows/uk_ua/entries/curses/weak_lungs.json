@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:curses",
+  "name": "Слабкі легені",
+  "icon": "minecraft:gunpowder",
+  "advancement": "minecraft:nether/find_fortress",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Жертвам цього $(l:bewitchment:curses/conducting_curses)Прокляття$() важко дихати.$(br) Перебуваючи під водою, вони відразу ж почнуть тонути."
+	},
+	{
+	  "type": "bewitchment:curse",
+	  "recipe": "bewitchment:curses/weak_lungs"
+	}
+  ]
+}

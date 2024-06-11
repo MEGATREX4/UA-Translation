@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "[Ритуал] Сходу сонця",
+  "icon": "minecraft:gold_ingot",
+  "advancement": "bewitchment:hidden_unlocks/chalk",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "$(l:bewitchment:rituals/rituals)Ритуал$() сходу сонця, що ще тут пояснювати?О_о"
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:rituals/sunrise"
+	}
+  ]
+}

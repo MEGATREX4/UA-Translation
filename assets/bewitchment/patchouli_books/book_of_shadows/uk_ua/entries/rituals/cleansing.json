@@ -1,0 +1,17 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "[Ритуал] Очищення",
+  "icon": "minecraft:golden_apple",
+  "advancement": "bewitchment:hidden_unlocks/chalk",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "$(l:bewitchment:rituals/rituals)Ритуал$() очищення викликає світло очистити свою ціль від $(l:bewitchment:curses/conducting_curses)прокляття$(). Ціль вказується за допомогою $(l:bewitchment:tools/taglock)Теґлоку$().$(br2)$(l:bewitchment:rituals/rituals)Ритуал$() також можна застосувати до зомбоселянина. Це перетворить їх на звичайних жителів."
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:rituals/cleansing",
+	  "text": "Зверніть увагу, що цей  $(l:bewitchment:rituals/rituals)Ритуал$() не гарантує успіху. Від деяких $(l:bewitchment:curses/conducting_curses)проклять$() може бути складніше позбутися, але - якщо гарно постаратись то все вийде..."
+	}
+  ]
+}

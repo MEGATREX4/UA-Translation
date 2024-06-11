@@ -1,0 +1,43 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Елементні екстракти",
+  "icon": "bewitchment:cleansing_balm",
+  "advancement": "bewitchment:hidden_unlocks/witch_cauldron",
+  "priority": true,
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Елементні екстракти є важливими компонентами в ритуалах. Вони зроблені з  $(l:bewitchment:introduction/bark)кори$() та інших компонентів.$(br2)Щоб виготовити кілька банок з екстрактом, спочатку киньте шматочок $(l:bewitchment:introduction/bark)кори$() у киплячий $(l:bewitchment:tools/witch_cauldron)відьомський казан$(), потім додайте інші інгредієнти. Щойно він набуде приємного, відповідного кольору, ви зможете розлити його по пляшках."
+	},
+	{
+	  "type": "bewitchment:oil",
+	  "recipe": "bewitchment:oil_crafting/cleansing_balm",
+	  "text": "Очищувальний бальзам асоціюється зі світлом і такий же яскравий."
+	},
+	{
+	  "type": "bewitchment:oil",
+	  "recipe": "bewitchment:oil_crafting/grim_elixir",
+	  "text": "Пов'язаний із принципом пітьми, Похмурий еліксир темний, як кров."
+	},
+	{
+	  "type": "bewitchment:oil",
+	  "recipe": "bewitchment:oil_crafting/aqua_cerate",
+	  "text": "Водяниста мазь синього кольору, як вода.$(br2)Для цього можна використовувати будь-який вид риби."
+	},
+	{
+	  "type": "bewitchment:oil",
+	  "recipe": "bewitchment:oil_crafting/fiery_serum",
+	  "text": "Вогняна сироватка яскраво-оранжевого кольору. Вона містить у собі принцип полум'я."
+	},
+	{
+	  "type": "bewitchment:oil",
+	  "recipe": "bewitchment:oil_crafting/earth_ichor",
+	  "text": "Земляний іхор містить землю."
+	},
+	{
+	  "type": "bewitchment:oil",
+	  "recipe": "bewitchment:oil_crafting/heaven_extract",
+	  "text": "Небесний екстракт повністю білий і являє собою повітря.$(br2)Будьте обережні, щоб не викинути $(l:bewitchment:introduction/crops)корінь мандрагори$() першим, ви можете випадково створити $(l:bewitchment:brewing/brewing_basics)зілля$()."
+	}
+  ]
+}

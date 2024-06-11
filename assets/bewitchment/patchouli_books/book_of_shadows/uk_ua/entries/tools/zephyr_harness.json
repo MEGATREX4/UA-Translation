@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Упряж вітрів",
+  "icon": "bewitchment:zephyr_harness",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Упряж вітрів робить свого власника нестримним, як найсильніший вітер, повністю зводячи нанівець більшість форм відкидання. $(br2)Крім цього, Накидка дає змогу її власнику підкидати об'єкти в повітря, завдаючи їм удари лише кулаком. Однак, це споживає $(l:bewitchment:introduction/altars#internalme)Магічну енергію$()."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:zephyr_harness"
+	}
+  ]
+}

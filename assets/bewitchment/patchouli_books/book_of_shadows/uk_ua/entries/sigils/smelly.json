@@ -1,0 +1,17 @@
+{
+  "category": "bewitchment:sigils",
+  "name": "[Сигіл] Смердючості",
+  "icon": "bewitchment:smelly_sigil",
+  "advancement": "minecraft:nether/find_fortress",
+  "sortnum": 1,
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Цей $(l:bewitchment:sigils/using_sigils)Пасивний Сигіл$() смердить, змушуючи прилеглі ворожі об'єкти рухатися до нього."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:smelly_sigil"
+	}
+  ]
+}

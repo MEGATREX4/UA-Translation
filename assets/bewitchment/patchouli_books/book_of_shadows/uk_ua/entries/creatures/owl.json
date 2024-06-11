@@ -1,0 +1,21 @@
+{
+  "category": "bewitchment:creatures",
+  "name": "Сова",
+  "icon": "bewitchment:owl_spawn_egg",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Сови зазвичай активні вночі і знаходяться в лісах і тайгах. Вони скидають пір'я, як і будь-який птах.$(br2) Сов можна приручити Сирим кроликом і розводити Сирою куркою."
+	},
+	{
+	  "type": "patchouli:text",
+	  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+	  "text": "В якості можливого $(l:bewitchment:rituals/binding)фамільяра$(), Сови збільшать здатність свого друга до польоту, а саме дають змогу використовуватиі $(l:bewitchment:tools/brooms)мітлу$() без  $(l:bewitchment:introduction/altars#internalme)Mагічної енергії$().$(br2)Також ви не отримаєте жодної шкоди під час падіння."
+	},
+	{
+	  "type": "patchouli:entity",
+	  "entity": "bewitchment:owl",
+	  "scale": 0.6
+	}
+  ]
+}

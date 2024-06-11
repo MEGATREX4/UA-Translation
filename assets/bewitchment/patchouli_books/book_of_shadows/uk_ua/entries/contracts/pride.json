@@ -1,0 +1,13 @@
+{
+  "category": "bewitchment:contracts",
+  "name": "Гордість",
+  "icon": "bewitchment:demonic_contract",
+  "advancement": "bewitchment:hidden_unlocks/demon_horn",
+  "sortnum": 1,
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Гордість - це $(l:bewitchment:contracts/concept_contracts)контракт$(), який подвоїть кількість отриманого вами досвіду."
+	}
+  ]
+}

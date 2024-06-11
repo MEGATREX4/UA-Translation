@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Шипи",
+  "icon": "minecraft:cactus",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Кожен об'єкт, який спробує завдати шкоди користувачеві, отримає зворотну шкоду."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Шипи",
+	  "item": "minecraft:cactus",
+	  "text": "Шкода, завдана шипами, пропорційна силі ефекту."
+	}
+  ]
+}

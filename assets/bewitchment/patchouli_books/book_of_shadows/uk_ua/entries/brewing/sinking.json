@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Потопання",
+  "icon": "minecraft:iron_ingot",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Змушує ціль швидше занурюватися/опускатися, у воді або під час польоту."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Потопання",
+	  "item": "minecraft:iron_ingot",
+	  "text": "Вищий ефект змушує ціль опускатися швидше."
+	}
+  ]
+}

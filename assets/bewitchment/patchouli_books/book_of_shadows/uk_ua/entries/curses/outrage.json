@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:curses",
+  "name": "Лють",
+  "icon": "minecraft:sweet_berries",
+  "advancement": "minecraft:nether/find_fortress",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Це $(l:bewitchment:curses/conducting_curses)Прокляття$() зробить зазвичай нейтральних мобів, як-от Ендермени або Зомбіфіковані Пігліни, агресивними щодо цілі."
+	},
+	{
+	  "type": "bewitchment:curse",
+	  "recipe": "bewitchment:curses/outrage"
+	}
+  ]
+}

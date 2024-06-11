@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:poppets",
+  "name": "Втома",
+  "icon": "bewitchment:fatigue_poppet",
+  "advancement": "bewitchment:hidden_unlocks/taglock",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Коли ви прив'язані до Маріонетки Втоми, вороги, які вас атакують, будуть сильно ослаблені на кілька секунд."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:fatigue_poppet"
+	}
+  ]
+}

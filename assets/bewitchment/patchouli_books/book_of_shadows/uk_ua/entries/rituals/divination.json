@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "[Ритуал] Ворожіння",
+  "icon": "minecraft:emerald_ore",
+  "advancement": "bewitchment:hidden_unlocks/chalk",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "$(l:bewitchment:rituals/rituals)Ритуал$() ворожіння шукає на землі певний блок під центральним символом (тобто під блоком, до якого він прикріплений).ворожіння шукає на землі певний блок під центральним символом (тобто під блоком, до якого він прикріплений).$(br2)Він не видасть точного місцезнаходження, тільки кількість.$(br2)Під час пошуку цих блоків, майте на увазі, що радіус цього $(l:bewitchment:rituals/rituals)ритуалу$() обмежений фрагментом $(l:bewitchment:creatures/cat)за нормальних умов$()."
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:rituals/divination"
+	}
+  ]
+}

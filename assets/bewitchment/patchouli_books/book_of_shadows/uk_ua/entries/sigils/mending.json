@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:sigils",
+  "name": "[Сигіл] Лагодження",
+  "icon": "bewitchment:mending_sigil",
+  "advancement": "minecraft:nether/find_fortress",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "$(l:bewitchment:sigils/using_sigils)Активація Сигілу$() Лагодження дасть Регенерацію і Опір тому, хто його активував."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:mending_sigil"
+	}
+  ]
+}

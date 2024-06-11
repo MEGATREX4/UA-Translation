@@ -1,0 +1,53 @@
+{
+  "category": "bewitchment:introduction",
+  "name": "Ялівцеві дерева",
+  "icon": "bewitchment:juniper_sapling",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Ялівцеве дерево уособлює життя. Ви можете вставити до трьох $(l:bewitchment:tools/taglock)Теґлоків$() в блоки, зроблені з цього дерева. Під час використання ці блоки збиратимуться в $(l:bewitchment:tools/taglock)Теґлок$() від будь-кого, крім їхнього власника.$(br2)$(l:bewitchment:tools/taglock)Теґлок$() вставляється у разі використання їх у блоці з [Shift]; ви можете зібрати їх за допомогою $(l:bewitchment:tools/athame)Атама$() використовуючи [Shift]."
+	},
+	{
+	  "type": "patchouli:image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/juniper_tree.png"
+	  ],
+	  "border": true
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:juniper_wood",
+	  "recipe2": "bewitchment:juniper_planks"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:juniper_stairs",
+	  "recipe2": "bewitchment:juniper_slab"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:juniper_fence",
+	  "recipe2": "bewitchment:juniper_fence_gate"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:juniper_pressure_plate",
+	  "recipe2": "bewitchment:juniper_button"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:juniper_trapdoor",
+	  "recipe2": "bewitchment:juniper_door"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:juniper_chest",
+	  "recipe2": "bewitchment:trapped_juniper_chest"
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:juniper_sign",
+	  "recipe2": "bewitchment:juniper_boat"
+	}
+  ]
+}

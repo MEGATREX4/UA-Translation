@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "[Ритуал] Наклепу",
+  "icon": "minecraft:iron_sword",
+  "advancement": "bewitchment:hidden_unlocks/chalk",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Застосувавши простий $(l:bewitchment:rituals/rituals)Ритуал$() наклепу, магічна енергія може бути компенсована. Це видалить будь-які чари з предмета, а також відновить його в процесі.$(br2) Предмети, яких торкнувся цей $(l:bewitchment:rituals/rituals)Ритуал$() мають бути кинуті в коло $(o) після того, як$() ритуал було запущено. Це додатково скине вартість ковадла для предметів."
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:rituals/hex"
+	}
+  ]
+}

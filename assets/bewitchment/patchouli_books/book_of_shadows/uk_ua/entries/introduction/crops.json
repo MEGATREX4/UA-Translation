@@ -1,0 +1,30 @@
+{
+  "category": "bewitchment:introduction",
+  "name": "Рослини",
+  "icon": "bewitchment:mandrake_root",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Чаклунство використовує кілька природних культур для свого мистецтва. Ці культури використовуються для  $(l:bewitchment:rituals/rituals)ритуалів$(), $(l:bewitchment:brewing/brewing_basics)варіння екстрактів$(), та багато чого іншого.$(br2)Насіння для цих культур можна знайти в дикій траві, як і будь-яке інше насіння."
+	},
+	{
+	  "type": "bewitchment:multi_showcase",
+	  "item1": "bewitchment:aconite",
+	  "item2": "bewitchment:belladonna",
+	  "item3": "bewitchment:garlic",
+	  "item4": "bewitchment:mandrake_root",
+	  "header": "Звичайні рослиниі",
+	  "text": "Чотирма звичайними культурами є Тоя, Беладонна, Часник і Мандрагора.$(br2)Тоя здебільшого використовують як нейротоксин, тоді як Беладонна відома тим, що отруює. Часник зцілює, а мандрагора посилює магію."
+	},
+	{
+	  "type": "patchouli:smelting",
+	  "recipe": "bewitchment:grilled_garlic",
+	  "text": "Часник також можна посмажити в пічці."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:garlic_bread",
+	  "text": "Смажений часник, своєю чергою, може бути доданий до хліба, для створення часникового хліба."
+	}
+  ]
+}

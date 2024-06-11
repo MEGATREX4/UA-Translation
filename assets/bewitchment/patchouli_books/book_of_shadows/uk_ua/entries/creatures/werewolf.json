@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:creatures",
+  "name": "Перевертень",
+  "icon": "bewitchment:werewolf_spawn_egg",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Перевертні - жертви $(l:bewitchment:curses/lycanthropy)Лікантропії$() - вони бродять лісами, тайгою і крижаними біомами при повному місяці. Вони дуже слабкі проти зачарування Кари.$(br2)Коли сходить сонце, вони повертаються у свою людську форму."
+	},
+	{
+	  "type": "patchouli:entity",
+	  "entity": "bewitchment:werewolf",
+	  "offset": 0.1
+	}
+  ]
+}

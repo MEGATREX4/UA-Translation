@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Підпал",
+  "icon": "minecraft:blaze_powder",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Це призведе до безперервного підпалювання цілі, поки ефект активний."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "title": "Підпал",
+	  "item": "minecraft:blaze_powder",
+	  "text": "На підпал не впливає сила ефекту."
+	}
+  ]
+}

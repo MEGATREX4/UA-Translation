@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Скіпетр",
+  "icon": "bewitchment:scepter",
+  "advancement": "bewitchment:hidden_unlocks/scepter",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Ця могутня реліквія отримується шляхом перемоги над $(l:bewitchment:creatures/leonard)Леонардом$().$(br2)Його можна комбінувати з Вибуховим зіллям, яке потім можна кинути чотири рази за допомогою Скіпетра, використовуючи $(l:bewitchment:introduction/altars#internalme)Mагічну енергію$().$(br2)Скіпетр може бути відремонтований з використанням Незеритових злитків."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "item": "bewitchment:scepter"
+	}
+  ]
+}

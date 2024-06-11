@@ -1,0 +1,17 @@
+{
+  "category": "bewitchment:sigils",
+  "name": "[Сигіл] Руїн",
+  "icon": "bewitchment:ruin_sigil",
+  "advancement": "minecraft:nether/find_fortress",
+  "sortnum": 1,
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "$(l:bewitchment:sigils/using_sigils)Пасивний Сигіл$() Руйнування запобігає закріпленню навколо нього будь-якого позитивного ефекту зілля."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:ruin_sigil"
+	}
+  ]
+}

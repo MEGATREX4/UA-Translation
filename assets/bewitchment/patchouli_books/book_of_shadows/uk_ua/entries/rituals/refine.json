@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "[Ритуал] Вдосконалення",
+  "icon": "minecraft:blaze_powder",
+  "advancement": "bewitchment:hidden_unlocks/chalk",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Цей $(l:bewitchment:rituals/rituals)Ритуал$() викликає духів вогню, по суті перетворюючи коло на дуже великий плавильний котел.$(br2)Будь-який предмет, кинутий у нього, плавиться так, якби його кинули в піч.$(br2)Цей $(l:bewitchment:rituals/rituals)Ритуал$() триває декілька хвилин."
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:rituals/refine"
+	}
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "[Ритуал] Розмноження",
+  "icon": "minecraft:bone_meal",
+  "advancement": "bewitchment:hidden_unlocks/chalk",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Цей $(l:bewitchment:rituals/rituals)Ритуал$() призводить до зростання прилеглих культур, тварин і людей.$(br2)Іноді краще не ставити під сумнів магію."
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:rituals/propagate"
+	}
+  ]
+}
