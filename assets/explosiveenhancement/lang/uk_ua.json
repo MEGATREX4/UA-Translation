@@ -1,0 +1,76 @@
+{
+  "explosiveenhancement.title": "Налашт Explosive Enhancement",
+
+  "explosiveenhancement.category.default": "Частинки",
+
+  "explosiveenhancement.explosion.group": "Вибухи",
+  "explosiveenhancement.explosion.group.tooltip": "Налаштування частинок вибухів",
+  "explosiveenhancement.blastwave.enabled": "Частинки вибухової хвилі",
+  "explosiveenhancement.blastwave.enabled.tooltip": "Великий помаранчевий горизонтальний круг, що лежить на землі.",
+  "explosiveenhancement.fireball.enabled": "Частинки Фаєрбола",
+  "explosiveenhancement.fireball.enabled.tooltip": "Великий помаранчевий вертикальний круг",
+  "explosiveenhancement.mushroomcloud.enabled": "Чаcтинки грибної хмари",
+  "explosiveenhancement.mushroomcloud.enabled.tooltip": "Дим, у формі гриба",
+  "explosiveenhancement.sparks.enabled": "Частинки іскр",
+  "explosiveenhancement.sparks.enabled.tooltip": "Драматичні білі лінії, що приходяться результатом вибуху.",
+  "explosiveenhancement.sparks.size": "Розмір іскр",
+  "explosiveenhancement.sparks.size.tooltip": "Контролює розмір частинок іскр",
+  "explosiveenhancement.sparks.opacity": "Прозорість іскр",
+  "explosiveenhancement.sparks.opacity.tooltip": "Контролює прозорість частинок іскр",
+  "explosiveenhancement.default.enabled": "Звичайні Вибухові Частинки",
+  "explosiveenhancement.default.enabled.tooltip": "Ванільні вибухові частинки",
+
+  "explosiveenhancement.underwater.group": "Підводні вибухи",
+  "explosiveenhancement.underwater.group.tooltip": "Налаштування підводних вибухів",
+  "explosiveenhancement.underwater.enabled": "Підводні Вибухи",
+  "explosiveenhancement.underwater.enabled.tooltip": "Повинний бути спеціальній ефект, якщо вибух стався під водою? Якщо вимкнено, вибухи будут виглядати індентично як вибухи налаштовані у категорії вище. Якщо увімкнено, вибухи будуть як у цій категорії, доки ця опція знаходиться у групі підводних вибухів.",
+  "explosiveenhancement.underwater.shockwave": "Частинки ударної хвилі",
+  "explosiveenhancement.underwater.shockwave.tooltip": "Вертикальний синій круг, схожі на фаєрбольні частинки",
+  "explosiveenhancement.underwater.blast": "Частинки Підводної Ударної Хвилі",
+  "explosiveenhancement.underwater.blast.tooltip": "Великий синій горизонтальний круг, схожий на частинки ударної хвилі",
+  "explosiveenhancement.underwater.bubbleamount": "Кількість Бульбашок",
+  "explosiveenhancement.underwater.bubbleamount.tooltip": "Маленьки бульбашки які лопаються після деякого часу",
+  "explosiveenhancement.underwater.bubbleamount.warningtooltip": "§cПопередження§r: Занадто багато бульбашок може призвести до втрати FPS!",
+  "explosiveenhancement.underwater.sparks": "Частинки іскр",
+  "explosiveenhancement.underwater.sparks.tooltip": "Драматичні білі лінії, що приходяться результатом вибуху.",
+  "explosiveenhancement.underwater.sparks.size": "Розмір іскр",
+  "explosiveenhancement.underwater.sparks.size.tooltip": "Контролює розмір частинок іскр",
+  "explosiveenhancement.underwater.sparks.opacity": "Прозорість іскр",
+  "explosiveenhancement.underwater.sparks.opacity.tooltip": "Контролює прозорість частинок іскр",
+  "explosiveenhancement.underwater.default": "Звичайні Вибухові Частинки",
+  "explosiveenhancement.underwater.default.tooltip": "Ванільні вибухові частинки",
+
+
+
+  "explosiveenhancement.category.dynamic": "Розміри",
+
+  "explosiveenhancement.dynamic.group": "Дінамічні Вибухи",
+  "explosiveenhancement.dynamic.group.tooltip": "Налаштування розміру дінамічних вибухів",
+  "explosiveenhancement.dynamicexplosions.enabled": "Розміри Дінамічних Вибухів",
+  "explosiveenhancement.dynamicexplosions.enabled.tooltip": "Змініть розмір вибуху, залежно від його сили",
+  "explosiveenhancement.dynamicunderwater.enabled": "Розміри дінамічних підводних вибухів",
+  "explosiveenhancement.dynamicunderwater.enabled.tooltip": "Змініть розмір підводного вибуху, залежно від його сили",
+  "explosiveenhancement.bettersmallexplosions.enabled": "Спроба Кращого Маленького Вибуху",
+  "explosiveenhancement.bettersmallexplosions.enabled.tooltip": "Якщо сила вибуху рівна 1 (Череп візера, файєрбол Гаста), координата вибуху буде зменшена на маленьку велечину для іноді кращого ефекту",
+  "explosiveenhancement.yoffset": "Зсув за y координатою маленького вибуху",
+  "explosiveenhancement.yoffset.tooltip": "Зсув за y координатою для маленьких вибухів",
+
+
+
+  "explosiveenhancement.category.extras": "Екстра",
+
+  "explosiveenhancement.extras.group": "Екстра",
+  "explosiveenhancement.extras.group.tooltip": "Екстра Налаштування",
+  "explosiveenhancement.extras.enabled": "Мод Увімкнено",
+  "explosiveenhancement.extras.enabled.tooltip": "Мод має бути увімкненим?",
+  "explosiveenhancement.extras.emissive": "Емісійні Вибухи",
+  "explosiveenhancement.extras.emissive.tooltip": "Нормальні вибухи повинні бути емісійними?",
+  "explosiveenhancement.extras.emissivewater": "Емісійні Підводні Вибухи",
+  "explosiveenhancement.extras.emissivewater.tooltip": "Підводні вибухи повинні бути емісійними?",
+  "explosiveenhancement.extras.alwaysshow": "Завжди Показувати Частинки",
+  "explosiveenhancement.extras.alwaysshow.tooltip": "Якщо увімкнено, вибухові частинки спробують відтворитися з більшої відстані (приблизно вдвічі далі) ТА на меньшому налаштуванні частинок. Використовуйте на свій страх і ризик!",
+  "explosiveenhancement.extras.logs": "Журнал налагодження",
+  "explosiveenhancement.extras.logs.tooltip": "Додаткові журнали помилок для щоб допомогти з налаштуванням",
+  "explosiveenhancement.extras.logs.warningtooltip": "§cПопередження§r: Буде спамити в журнал помилок!"
+
+}
