@@ -1,0 +1,9 @@
+{
+  "item.bodyhealthsystem.plaster": "Пластир",
+  "item.bodyhealthsystem.morphine": "Морфін",
+  "item.bodyhealthsystem.medkit": "Аптечка",
+
+  "itemGroup.bodyhealthsystem.general": "Здоров'я",
+
+  "effect.bodyhealthsystem.morphine_effect": "Морфін"
+}
