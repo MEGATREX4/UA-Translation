@@ -1,0 +1,176 @@
+item.ItemToolThermometer.name=Градусник
+item.ItemToolDigitalThermometer.name=Цифровий градусник
+item.ItemRemoteSensorKit.name=Набір з дистанційним датчиком
+item.ItemEnergySensorKit.name=Набір для енергетичного сховища
+item.ItemCounterSensorKit.name=Набір для лічильника енергії
+item.ItemLiquidSensorKit.name=Набір для рідинного сховища
+item.ItemSensorLocationCard.name=Карта-датчик розміщення реактора
+item.ItemEnergySensorLocationCard.name=Карта-датчик розміщення енергії
+item.itemCounterSensorLocationCard.name=Карта-датчик розміщення лічильника
+item.ItemLiquidSensorLocationCard.name=Карта-датчик розміщення рідини
+item.ItemEnergyArrayLocationCard.name=Карта-датчик розміщення масиву енергії
+item.itemRangeUpgrade.name=Покращення «Підсилення сигналу»
+item.ItemColorUpgrade.name=Покращення «Кольоровість»
+item.ItemWebUpgrade.name=Покращення «Мережа»
+item.ItemTimeCard.name=Карта з часом
+item.ItemTextCard.name=Текстова карта
+item.ItemGeneratorSensorKit.name=Набір для генератора
+item.ItemGeneratorSensorLocationCard.name=Карта-датчик розміщення генератора
+item.ItemLiquidArrayLocationCard.name=Карта-датчик розміщення масиву рідини
+item.Item55ReactorCard.name=Карта-датчик розміщення 5x5 реактора
+item.remoteMonitor.name=Переносна інформаційна панель
+
+item.RFreactorKit.name=Набір для дистанційного RF-реактора
+item.RFreactorCard.name=Карта-датчик розміщення RF-реактора
+item.AppengCard.name=Карта для Applied Energistics
+item.AppengKit.name=Набір з датчиком для Applied Energistics
+item.RFenergyCard.name=Карта-датчик розміщення RF енергії
+
+tile.blockThermalMonitor.name=Датчик температури
+tile.blockIndustrialAlarm.name=Промислова сирена
+tile.blockHowlerAlarm.name=Сирена «Ревун»
+tile.blockRemoteThermo.name=Дистанційний датчик температури
+tile.blockInfoPanel.name=Промислова інформаційна панель
+tile.blockInfoPanelExtender.name=Розширювач інформаційної панелі
+tile.blockAdvancedInfoPanel.name=Просунута інформаційна панель
+tile.blockAdvancedInfoPanelExtender.name=Розширювач просунутої інформаційної панелі
+tile.nclight0.name=Білий світильник
+tile.nclight1.name=Білий світильник
+tile.nclight2.name=Оранжевий світильник
+tile.nclight3.name=Оранжевий світильник
+
+tile.blockBRPart.name=Реакторний монітор
+tile.blockEnergyCounter.name=Енерголічильник
+tile.blockAverageCounter.name=Стаціонарний енерголічильник
+tile.blockRangeTrigger.name=Дистанційний трігер
+
+msg.nc.HowlerAlarmSoundRange=Дальність звуку: %s
+msg.nc.HowlerAlarmSound=Звук
+msg.nc.ThermalMonitorSave=Зберегти налаштування
+msg.nc.ThermalMonitorSignalAt=Сигнал на %s тепла
+msg.nc.Thermo=Темп. корпусу: %s
+msg.nc.ThermoDigital=Темп. корпусу: %s (Вода випаровується при: %s / плавиться: %s)
+msg.nc.SensorKit=Дистанційний датчик встановлено, карта-датчик отримана
+
+msg.nc.InfoPanelOutOfRange=Поза зоною
+msg.nc.InfoPanelInvalidCard=Недійсна карта
+msg.nc.InfoPanelNoTarget=Ціль не знайдена
+
+msg.nc.InfoPanelOn=Включена
+msg.nc.InfoPanelOff=Виключена
+msg.nc.InfoPanelHeat=Т: %s
+msg.nc.InfoPanelMaxHeat=Макс. нагрів: %s
+msg.nc.InfoPanelMelting=Плавлення: %s
+msg.nc.InfoPanelOutput=Вихід: %sEU/т
+msg.nc.InfoPanelOutputMJ=Вихід: %sMJ/т
+msg.nc.InfoPanelOutputSteam=Вихід: %smB/т
+msg.nc.InfoPanelTimeRemaining=Залишилось: %s
+
+msg.nc.InfoPanelEnergyCounter=Енергія: %sEU
+msg.nc.InfoPanelEnergyCounterMJ=Енергія: %s RF
+
+msg.nc.InfoPanelEnergy=Енергія: %s
+msg.nc.InfoPanelEnergyFree=Вільно: %s
+msg.nc.InfoPanelEnergyStorage=Поміщається: %s
+msg.nc.InfoPanelEnergyPercentage=Заповнено: %s%%
+
+msg.nc.cbInfoPanelLiquidName=Назва рідини
+msg.nc.cbInfoPanelLiquidAmount=Кількість
+msg.nc.cbInfoPanelLiquidCapacity=Ємкість
+msg.nc.cbInfoPanelLiquidFree=Вільно
+msg.nc.cbInfoPanelLiquidPercentage=Процент заповнення
+
+msg.nc.InfoPanelLiquidName=Назва: %s
+msg.nc.InfoPanelLiquidAmount=Кількість: %s
+msg.nc.InfoPanelLiquidCapacity=Ємкість: %s
+msg.nc.InfoPanelLiquidFree=Вільно: %s
+msg.nc.InfoPanelLiquidPercentage=Заповнено: %s%%
+
+msg.nc.InfoPanelNotFoundN=#%d Не знайдено
+msg.nc.InfoPanelOutOfRangeN=#%d Поза діапазоном
+msg.nc.InfoPanelEnergyN=#%d Енергія: %s
+msg.nc.InfoPanelEnergyFreeN=#%d Вільно: %s
+msg.nc.InfoPanelEnergyStorageN=#%d Сховище: %s
+msg.nc.InfoPanelEnergyPercentageN=#%d Заповнено: %s%%
+msg.nc.InfoPanelLiquidNameN=#%d Назва: %s
+msg.nc.InfoPanelLiquidN=#%d Кількість: %s
+msg.nc.InfoPanelLiquidFreeN=#%d Вільно: %s
+msg.nc.InfoPanelLiquidCapacityN=#%d Ємкість: %s
+msg.nc.InfoPanelLiquidPercentageN=#%d Заповнено: %s%%
+
+msg.nc.InfoPanelTime=Час: %s
+
+msg.nc.cbInfoPanelOnOff=Вкл./Викл. стан
+msg.nc.cbInfoPanelHeat=Рівень нагріву
+msg.nc.cbInfoPanelMaxHeat=Макс. нагрів
+msg.nc.cbInfoPanelMelting=Температура плалення
+msg.nc.cbInfoPanelOutput=Вихід (EU/т)
+msg.nc.cbInfoPanelTimeRemaining=Час до закінчення циклу
+
+msg.nc.InfoPanelRF.Temp=Темп. ядра: %s C
+msg.nc.InfoPanelRF.EnergyStored=Енергія: %s RF
+msg.nc.InfoPanelRF.CreatedEnergy=Вихідна енергія: %s RF/т
+msg.nc.InfoPanelRF.Percentage=Енергосховище заповнено на %s%%
+msg.nc.InfoPanelRF.Output=Вихід (RF/т)
+msg.nc.InfoPanelRF.TempPROPER=Температура ядра
+
+msg.nc.InfoPanel55.Output=Вихід: %s Hu/сек
+msg.nc.InfoPanel55.Temp=Температура ядра: %s%%
+msg.nc.InfoPanel55.tarkin=Внутрішній резервуар: %s / 10000 мВ
+msg.nc.InfoPanel55.tankout=Зовнішній резервуар: %s / 10000 мВ
+msg.nc.InfoPanel55.Out=Вихід (Hu/сек)
+msg.nc.InfoPanel55.BufferIn=Резервуар хладогенту
+msg.nc.InfoPanel55.BufferOut=Резервуар гарячого хладогенту
+
+msg.nc.cb24h=24-годинний режим
+
+msg.nc.cbInfoPanelEnergyCurrent=Енергія
+msg.nc.cbInfoPanelEnergyStorage=Сховище
+msg.nc.cbInfoPanelEnergyFree=Вільно
+msg.nc.cbInfoPanelEnergyEach=Інформація по кожній карті
+msg.nc.cbInfoPanelEnergyTotal=Сумарно
+msg.nc.cbInfoPanelEnergyPercentage=Процент заповнення
+msg.nc.EnergyCardQuantity=Кількість карт: %d
+msg.nc.AverageCounterPeriod=Період: %sсек.
+
+msg.nc.LiquidCardQuantity=Кількість карт: %d
+
+msg.nc.cbInfoPanelLiquidEach=Інформація по кожній карті
+msg.nc.cbInfoPanelLiquidTotal=Сумарно
+
+msg.nc.Reset=Скидання
+msg.nc.ScreenColor=Кольоровий екран
+msg.nc.TextColor=Кольоровий текст
+msg.nc.None=Н/А
+nc.msg.notValid=Ця карта не може бути сувмісною
+nc.msg.notValid2=з дистанційним датчиком
+nc.msg.notValid3=Спробуйте відкрити інтерфейс заново
+
+msg.nc.waila.getHeatLevel=Максимальна температура: 
+
+msg.nc.waila.ColorBackground=фоновий колір: 
+msg.nc.waila.ColorText=Колір тексту: 
+msg.nc.waila.Web=Покращення «Мережа» встановлено
+msg.nc.waila.Color=Покращення «Кольоровість» встановлено
+msg.nc.waila.ColorBlack=Чорний
+msg.nc.waila.ColorRed=Червоний
+msg.nc.waila.ColorGreen=Зелений
+msg.nc.waila.ColorBrown=Коричневий
+msg.nc.waila.ColorDarkBlue=Темно-синій
+msg.nc.waila.ColorPurple=Фіолетовий
+msg.nc.waila.ColorLightBlue=Світло-синій
+msg.nc.waila.ColorWhite=Білий
+msg.nc.waila.ColorPink=Розовий
+msg.nc.waila.ColorLimeGreen=Лаймовий
+msg.nc.waila.ColorYellow=Жовтий
+msg.nc.waila.ColorBlue=Синій
+msg.nc.waila.ColorMagenta=Бузковий
+msg.nc.waila.ColorOrange=Оранжевий
+
+msg.nc.waila.getSoundNames=Звук: 
+msg.nc.waila.getRange=Дальність: 
+
+msg.nc.waila.getEnergyCount=Енерголічильник: 
+
+msg.nc.waila.getEnergyAverage=Середня енергія: 
+msg.nc.waila.getPeriod=За період: 
