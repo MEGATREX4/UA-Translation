@@ -1,0 +1,9 @@
+{
+    "enhancedtooltips.rarity.common": "Звичайне",
+    "enhancedtooltips.rarity.uncommon": "Не звичайне",
+    "enhancedtooltips.rarity.rare": "Рідкісне",
+    "enhancedtooltips.rarity.epic": "Епічне",
+    "enhancedtooltips.tooltip.hunger": "Відновлює ",
+    "enhancedtooltips.tooltip.saturation": "+ %d%% Насичення",
+    "enhancedtooltips.tooltip.durability": "Міцність:"
+  }
